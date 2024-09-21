@@ -1,7 +1,7 @@
 ---
 title: "Comment Découper Une Photographie: Guide D'Utilisation De Movievi Photo Editor - Coupeur Imagé"
-date: 2024-09-14T10:45:15.633Z
-updated: 2024-09-16T02:13:34.755Z
+date: 2024-09-16T05:51:28.391Z
+updated: 2024-09-21T13:03:42.641Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/49f07ba1564e1ad5829085791d56fbd558cd9b6be43ee97117663280d85142ff.jpg
@@ -185,6 +185,13 @@ Photo Editor 是Movavi最新一代圖片瀏覽器，不僅能秀圖，也支援�
 
 * 圖片都必須上傳至軟體
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 
 
 [**Apowersoft Photo Viewer**](https://tools.techidaily.com/apowersoft/products/)
@@ -222,10 +229,10 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 * 對普通使用者而言工具太多了
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 
@@ -250,13 +257,6 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 
 ![](https://cdn.staticont.net/page_type/0013/40/9462b44dd7787a9d521c67727a9d947cbc74b9ef.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 與 FastStone 的圖片檢視器類似，XnView 的介面易於瀏覽，可以清晰顯示所有圖像，並為使用者提供所選照片的大型視圖。該軟體支援所有標準的圖像檔案類型，如 JPEG、PNG 和 TIFF，甚至還支援其他一些編解碼器，如相機的 RAW 檔等等。甚至還能當作多媒體瀏覽平台來使用，讓您開啟並檢查影音檔。雖然在新增動畫和轉換檔案方面沒有 Windows Photo Viewer 那麼全面，但仍不失為 XnView Classic 的推薦替代品，或者只需支付少量費用就能獲得強化的 MP 版本。
 
 優點：
@@ -273,13 +273,6 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 
 ![](https://cdn.staticont.net/page_type/0013/45/3c872b24e843d2a8619d1d110f90c6a4aef905b7.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 除了 Windows 10 相片檢視器的標準檢視選項外，Nomacs 還多了一個整潔的備註方塊。該放塊可供您放入評論，以供日後使用。無論您是需要匯出圖像以便日後在更複雜的軟體中進行編輯，還是僅僅是為了提醒自己相片中的人事物，這項功能都十分有用。在「調整」索引標籤中，也有些既實用又有趣的工具。其中一個叫做「Tiny Planet」，可以將您的圖像轉換為酷似地球儀的正方形裁剪照片，非常適合將風景照製作成 360 度的全景。更棒的是，無論您是要私下使用，還是有商業用途，Nomacs 都可以免費下載。
 
 優點：
@@ -290,11 +283,25 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 
 * 佈局過於簡單，可能會使初學者困惑
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 
 
 [**Google Photos**](https://www.google.com/intl/zh-TW/photos/about/)
 
 ![](https://cdn.staticont.net/page_type/0013/45/d64fdda203dbd8ccf5369a8901c4a494f69794ae.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Google Photos 與其套件中的其他 Google 應用程式一起運作。這些應用程式都是在線上提供，而不會儲存在本機裝置上。這使得本工具非常適合那些隨時保持網路連線、並用多種裝置 (筆記型電腦、智慧型手機、平板電腦等等)，而且需要同步編輯的數位游牧民。然而，您仍可從五種不同的儲存模式中進行選擇，其中一種便是離線模式。離線儲存使您無論身在何方，都能存取檔案，而不需要網際網路連線。正如您所期望的那樣，Google 的介面流暢而現代，視窗中的工具都很直觀，但確實缺乏像 Windows Photo Viewer 那樣建立電影或新增動畫的能力。
 
@@ -322,19 +329,6 @@ Movavi Photo Editor
 
 ## 常見問題集
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 最好的 Windows 相片檢視器是什麼？
 
 以下是 Windows PC 最好的相片檢視器：
@@ -350,16 +344,16 @@ Movavi Photo Editor
 
 我們認為 Movavi Photo Editor 可以贏得這個頭銜! 本app不僅可秀圖 & 瀏覽照片，亦可用來分類與組織照片。透過便利的方式，輕鬆解決管理大批照片的難題。而且，它的AI臉部識別技術，能為每位家人自動開設相簿，賞圖與管理都超簡單。本app還內建了實用的照片編輯功能，能順暢地為你處理修圖大小事。只要擁有一套Photo Editor，便足以滿足所有照片相關之日常需求!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 什麼是Windows照片瀏覽器的良好替代品?
 
 這一個項目，我們推薦 Nomacs，它的外觀與操作均十分簡單。除了擁有近似 Windows 10 相片檢視器的基本選項外，Nomacs 還多了一個備註方塊。此欄位可以填入自己的評論或說明，以供日後參考。此外，它的「Tiny Planet」功能，可用來把照片轉換為類似地球儀的正方形裁切照片，相當適合用來產生富有創意的 360 度全景風景照。
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 那一個工具可以稱為最棒的Windows 10免費照片應用程式?
 
@@ -443,17 +437,16 @@ Movavi Photo Editor
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-affordable-android-chat-top-free-app-alternatives/"><u>[Updated] In 2024, Affordable Android Chat Top Free App Alternatives</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/1725290178504-dvd-mp4/"><u>轉換 DVD 到 MP4: 提升電影及影片品質的最佳軟件選擇</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/behold-the-crown-jewel-of-ultra-high-end-monitors-asus-groundbreaking-8k-mini-led-proart-display-featuring-stunning-1200-nit-brightness-and-unprecedented-4060/"><u>Behold the Crown Jewel of Ultra High-End Monitors: Asus' Groundbreaking 8K Mini LED ProArt Display, Featuring Stunning 1200 Nit Brightness & Unprecedented 4096 Lighting Zones</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/compresseur-video-de-haute-definition-reduction-de-taille-jusqua-90-pour-les-formats-hd-4k-et-8k/"><u>Compresseur Vidéo De Haute Définition : Réduction De Taille Jusqu'à 90% Pour Les Formats HD, 4K Et 8K</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/download-the-ultimate-no-cost-dvd-maker-for-windows-winx-author-edition/"><u>Download the Ultimate No-Cost DVD Maker for Windows, WinX Author Edition</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/expert-dvd-to-video-converter-by-digiarty-tailored-for-seamless-media-format-changes/"><u>Expert DVD-to-Video Converter by Digiarty - Tailored for Seamless Media Format Changes</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-desktop-merging-images-seamlessly/"><u>In 2024, Mastering Desktop Merging Images Seamlessly</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-seamless-integration-with-picture-in-picture-mode/"><u>In 2024, Seamless Integration with Picture-In-Picture Mode</u></a></li>
-<li><a href="https://games-able.techidaily.com/six-ways-to-play-on-ps5-beyond-traditional-methods/"><u>Six Ways to Play on PS5 Beyond Traditional Methods</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/step-by-step-guide-on-windows-dvd-creation-software-convert-edit-and-enjoy-your-videos/"><u>Step-by-Step Guide on Windows DVD Creation Software: Convert, Edit, & Enjoy Your Videos</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/strategies-to-integrate-b-roll-footage-seamlessly-for-2024/"><u>Strategies to Integrate B-Roll Footage Seamlessly for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/understanding-and-checking-powershell-versions-in-windows-11-systems/"><u>Understanding and Checking PowerShell Versions in Windows 11 Systems</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-unveiling-the-best-audio-recording-options-for-apple-products/"><u>[New] 2024 Approved Unveiling the Best Audio Recording Options for Apple Products</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/1715860469665-new-tapping-into-built-in-screen-recording-features-of-huaweis-mate-and-p-lineup/"><u>[New] Tapping Into Built-In Screen Recording Features of Huawei's Mate & P Lineup.</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-key-techniques-for-smooth-screen-sharing-on-mobiledesktop-for-2024/"><u>[Updated] Key Techniques for Smooth Screen Sharing on Mobile/Desktop for 2024</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/1-melhoria-de-voz-em-aplicativos-opcoes-mais-poderosas-para-smartphones-e-computadores/"><u>1. Melhoria De Voz Em Aplicativos: Opções Mais Poderosas Para Smartphones E Computadores</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/converti-video-asf-a-mov-senza-costi-su-internet-usando-il-servizio-di-movavi/"><u>Converti Video ASF a MOV Senza Costi Su Internet Usando Il Servizio Di Movavi</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/ensuring-earning-potential-on-youtubers/"><u>Ensuring Earning Potential on YouTubers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/grid-layout-geniuses-for-photo-perfection/"><u>Grid Layout Geniuses for Photo Perfection</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-capturing-vistas-with-the-high-end-z32x-monitor/"><u>In 2024, Capturing Vistas with the High-End Z32X Monitor</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-m14-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy M14 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-zte-nubia-z60-ultras-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your ZTE Nubia Z60 Ultras Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/mpeg-4-avi/"><u>솜씨 Mpeg-4를 AVI로 바꾸기 - 오페스 무료 대상 사이트에서 사용자가 쉽게 구현할 수 있는 방법</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: 솜씨 Mpeg-4를 AVI로 바꾸기 - 오페스 무료 대상 사이트에서 사용자가 쉽게 구현할 수 있는 방법
-date: 2024-09-11T23:53:08.368Z
-updated: 2024-09-16T03:25:57.268Z
+date: 2024-09-16T18:36:22.554Z
+updated: 2024-09-21T10:27:40.702Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/75040013d17be0726faccbc397c3b3541c1732db61566ed595168e5f4f1378d7.jpg
@@ -214,6 +214,13 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
 Pour bénéficier des fonctionnalités de DirectX 12, le jeu doit avoir été développé avec cette version. La bonne nouvelle est que la liste de ces jeux s'allonge chaque jour, car de plus en plus de sociétés de jeux adoptent cette version.
@@ -221,13 +228,6 @@ Pour bénéficier des fonctionnalités de DirectX 12, le jeu doit avoir été d�
 Pour vérifier que vous disposez de la dernière version de DirectX, appuyez sur la   **touche Windows** \+ **R**, tapez "dxdiag" et cliquez sur **OK**. L'outil de diagnostic DirectX s'ouvre.
 
 Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra que quelques minutes. Appuyez sur la   **touche Windows** \+ **I**, choisissez **Mise à jour et sécurité** et cliquez sur **Vérifier les mises à jour** dans l'onglet **Windows. Mise à jour**. Attendez que l'installation se termine.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 
 
@@ -325,13 +325,6 @@ Pour ce faire, appuyez sur la   **touche Windows** \+ **I**. Tapez "pointeur de 
 
 Vous pouvez également modifier le curseur de la vitesse du pointeur pour créer la configuration qui vous convient le mieux.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
 
 Comment améliorer les performances de jeu sur Windows 10 (corrections avancées)
@@ -365,13 +358,6 @@ La mise à niveau de votre RAM n'aura pas un effet aussi important que la mise �
 De nombreux jeux requièrent une mémoire vive de 8 Go, mais ce chiffre augmente régulièrement, car les titres les plus récents recommandent une mémoire vive de 12 Go. 
 
 Si vous voulez rester en tête de la courbe, 16 Go suffiront pour l'instant. Mais si vous voulez utiliser des services de streaming en arrière-plan comme Twitch, Discord et YouTube, vous devrez passer à 32 Go pour pouvoir tout faire fonctionner sans problème.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Désactiver l'algorithme de Nagle
 
@@ -416,6 +402,13 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Définissez la **valeur** sur **0**.
 * Cliquez sur **OK**.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
@@ -423,6 +416,13 @@ Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 ![](https://cdn.staticont.net/pages/0013/24/e045d566ab9cee25f15459463af7614838747945.webp)
 
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Utiliser une alimentation externe
 
@@ -477,22 +477,21 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 
 
 Foire aux questions 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Comment optimiser mon ordinateur pour les jeux ?
 
@@ -526,6 +525,13 @@ Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, vo
 ### Windows 10 est-il meilleur pour les jeux ?
 
 Lorsque l'on compare l'expérience de jeu des versions précédentes de Windows à Windows 10, l'amélioration des performances est extraordinaire. Si vous n'êtes pas sûr de vouloir faire une mise à jour, la décision est simple. Windows 10 offrira toujours une meilleure expérience.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Comment obtenir 60 fps dans un jeu ?
 
@@ -580,20 +586,17 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-mastering-clear-video-capture-with-obs-even-when-dark/"><u>[New] Mastering Clear Video Capture with OBS, Even When Dark</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-how-to-maximize-your-content-impact-with-imovie-on-vimeo/"><u>[Updated] 2024 Approved How to Maximize Your Content Impact with iMovie on Vimeo</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/capture-your-moments-with-manycam-the-ultimate-live-video-editing-and-camcorder-tool/"><u>Capture Your Moments with ManyCam: The Ultimate Live Video Editing and Camcorder Tool</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/discover-professional-live-video-tools-compete-with-manycams-virtual-webcam-technology/"><u>Discover Professional Live Video Tools - Compete with ManyCam's Virtual Webcam Technology</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/enhance-your-online-presence-using-manycam-advanced-live-video-tools-and-features-for-seamless-virtual-conferencing/"><u>Enhance Your Online Presence Using ManyCam: Advanced Live Video Tools and Features for Seamless Virtual Conferencing</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/enhance-your-online-presence-with-manycam-cutting-edge-live-video-editing-tools-and-virtual-webcams/"><u>Enhance Your Online Presence with ManyCam: Cutting-Edge Live Video Editing Tools and Virtual Webcams</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-oneplus-nord-n30-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast OnePlus Nord N30 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Oppo Reno 8T 5G? | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/leading-vr-grips-top-8-essential-handsets/"><u>Leading VR Grips Top 8 Essential Handsets</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/live-streaming-made-easy-discover-the-power-of-manycam-top-ranked-virtual-camera-software/"><u>Live Streaming Made Easy: Discover the Power of ManyCam - Top-Ranked Virtual Camera Software</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/optimizing-your-youtube-video-presentation-for-2024/"><u>Optimizing Your YouTube Video Presentation for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/origin-app-wont-load-heres-how-to-fix-it/"><u>Origin App Won't Load? Here's How to Fix It!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-vivo-y100i-power-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Vivo Y100i Power 5G and Browser | Dr.fone</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/real-time-broadcasting-made-easy-discover-manycam-powerful-video-streaming-and-virtual-camera-solutions/"><u>Real-Time Broadcasting Made Easy: Discover ManyCam - Powerful Video Streaming and Virtual Camera Solutions</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/transform-your-broadcasts-discover-the-power-of-manycams-virtual-webcam-technology-for-online-content-creation/"><u>Transform Your Broadcasts: Discover the Power of ManyCam's Virtual Webcam Technology for Online Content Creation</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-accelerating-attention-how-to-alter-video-speed-on-stories/"><u>2024 Approved Accelerating Attention How to Alter Video Speed on Stories</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-shape-individualistic-online-humorous-pieces/"><u>2024 Approved Shape Individualistic Online Humorous Pieces</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/2024-obs/"><u>2024 연도 OBS 구성 기술: 효과적인 녹화 및 방송을 위한 전문 조언</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/lag/"><u>畫面無法流暢：解決電腦上電影Lag問題的方法</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/conversione-gratuita-immagine-webp-a-formato-jpg-online-con-movavi/"><u>Conversione Gratuita Immagine WebP a Formato JPG Online Con Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-page-not-found-issues-a-comprehensive-guide/"><u>Fixing 'Page Not Found' Issues - A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722975179542-get-instant-access-to-top-notch-wireless-drivers-downloads-available-now/"><u>Get Instant Access to Top-Notch Wireless Drivers - Downloads Available Now</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/is-there-a-new-champion-in-voip-services-or-does-vonage-still-reign-supreme/"><u>Is There a New Champion in VoIP Services, or Does Vonage Still Reign Supreme?</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/transform-your-audio-files-from-aiff-to-premium-m4a-gratis-through-the-ultra-efficient-movavi-tool/"><u>Transform Your Audio Files From AIFF to Premium M4A Gratis Through the Ultra-Efficient Movavi Tool</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/transforming-spontaneitous-tunes-into-structured-youtube-playlists-for-2024/"><u>Transforming Spontaneitous Tunes Into Structured YouTube Playlists for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unleash-entertainment-selecting-the-6-greatest-kids-film-platforms-with-no-cost/"><u>Unleash Entertainment: Selecting the 6 Greatest Kids’ Film Platforms with No Cost</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/wav-webmp3/"><u>WAV ファイルからの WEBMP3 への強力な変換ツール - モバヴァイ」</u></a></li>
 </ul></div>
 

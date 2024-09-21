@@ -1,7 +1,7 @@
 ---
 title: Fixing the 'DVD Cannot Be Played' Error on Windows Using WinX DVD Ripper
-date: 2024-09-11T12:50:24.860Z
-updated: 2024-09-15T17:28:20.258Z
+date: 2024-09-17T06:30:29.998Z
+updated: 2024-09-21T13:54:03.592Z
 categories:
   - winxdvd
 thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f2d60ec5b3831dd32989cbba.jpg
@@ -64,14 +64,14 @@ If you have ever [encoded DVD movies into MP4](https://tools.techidaily.com/winx
 
 **![](https://www.winxdvd.com/resource/../seo-img/general-img/a7.png)3\. MKV Container Is as Universal as MP4 with High Quality** 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Since MKV supports any type of video/audio tracks and subtitles inside, and is quite efficient for storage and streaming, it's widely used on video transmitting. Usually, common DVD rippers can help rip a 4-8 GB DVD movie to a digital file in hundreds of MB, but you will get much quality loss. Only some seasoned DVD to MKV backup tools balance well on video file size and DVD ripping speed.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2\. How to Convert DVDs to MKV Losslessly with WinX DVD Ripper
 
@@ -94,11 +94,25 @@ Tips: It also supports importing DVD folder and ISO image files for converting t
 
 ![Convert DVD to MP4 Windows 10/11 with WMP alternative](https://www.winxdvd.com/resource/../seo-img/dvd-ripper/drp-interface-700.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2\. Choose MKV as Target Format**
 
 After the DVD content is fully imported, the ripper will bypass copy protection and right check main title automatically. What you need to do is to define target format: Output Profile -> DVD Backup -> Backup full title to MKV. As the interface shows, it will back up all videos, audios and subtitles.
 
 ![Rip DVD to MKV without losing quality](https://www.winxdvd.com/resource/../seo-img/dvd-ripper/dvd-to-mkv-700.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3\. Edit the MKV video (optional)**
 
@@ -157,13 +171,6 @@ After you finish the installation of HandBrake and libdvdcss, you can follow the
 
 ![Rip DVD to MKV with HandBrake](https://www.winxdvd.com/resource/../seo-img/dvd-ripper/rip-dvd-to-mkv-with-handbrake.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3.** Click Preset > Matroska, and then choose a MKV format. You're commended to choose H.264 MKV 480p30 for NTSC DVD and H.264 MKV 576P25 for PAL DVD.
 
 **Step 4.** Hit Start Encode button to begin ripping DVD to MKV. Note: HandBrake will decode the DVD and re-encode the video into MKV in H264, H265, or other codecs, during which quality loss will happen.
@@ -185,18 +192,18 @@ Now let's learn how to rip DVDs to MKV usingi VLC?
 
 ![VLC protected DVD to MKV](https://www.winxdvd.com/resource/../seo-img/dvd-ripper/rip-chapters-off-dvd-vlc.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3.** Click the Convert/Save button and then you'll need to select the output profile. Open the Profile dropdown menu and check if there is an MKV profile. By default, VLC will choose to rip DVDs to "Video - H.264 + MP3 (MP4)". If there is no MKV option, click the gear button next to it and under Encapsulation, choose MKV and save it. 
 
 **Step 4.** Choose an output destination folder and then click Start. VLC will then begin ripping DVDs to MKV. 
 
 ![Rip DVD to MKV with VLC](https://www.winxdvd.com/resource/../seo-img/rip-dvd-mp4/vlc-output.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 6\. How to Rip DVD to MKV with Movavi Video Converter
 
@@ -214,13 +221,6 @@ Now let's learn how to rip DVDs to MKV usingi Movavi Video Converter?
 
 ![rip DVDs to MKV Movavi](https://www.winxdvd.com/resource/../seo-img/dvd-ripper/movavi-700.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## In Conclusion
 
 DVD to MKV converters play a valuable role in the digital transformation of physical media. These converters provide users with a convenient and efficient way to convert DVD content into the widely supported MKV format, preserving both video and audio quality. The flexibility offered by MKV, including support for multiple audio and subtitle tracks, makes it a popular choice for users looking to create digital backups or enjoy their DVD content on various devices. Let's select the best fit DVD to MKV converter and start converting DVD to MKV right now!
@@ -231,10 +231,10 @@ DVD to MKV converters play a valuable role in the digital transformation of phys
 * [Top 10 Free DVD Players for Windows 10/11](https://tools.techidaily.com/winxdvd/products/) ![](https://www.winxdvd.com/resource/../seoimg/icon1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * [Best Preset Settings for HandBrake DVD to MP4](https://tools.techidaily.com/winxdvd/products/) ![](https://www.winxdvd.com/resource/../seoimg/icon1.png)
@@ -256,16 +256,20 @@ DVD to MKV converters play a valuable role in the digital transformation of phys
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-effortless-image-edit-eliminating-backdrops-in-canvas/"><u>[Updated] 2024 Approved Effortless Image Edit Eliminating Backdrops in Canvas</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-tweet-time-machine-capturing-the-essence-of-twitters-videos/"><u>[Updated] Tweet Time Machine Capturing the Essence of Twitter's Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-future-appraisal-unconventional-thoughts/"><u>2024 Approved Future Appraisal Unconventional Thoughts</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/1725285608419-2022dvd/"><u>如何有效地在電腦上保存2022年DVD影片：最佳方法介紹</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amds-new-epyc-9755-turin-chip-unveiling-the-powerhouse-128-core-processor-that-exceeded-108k-points/"><u>AMD's New Epyc 9755 Turin Chip: Unveiling the Powerhouse 128-Core Processor That Exceeded 108K Points!</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/build-your-own-personalized-chrome-dino-experience-a-step-by-step-guide/"><u>Build Your Own Personalized Chrome Dino Experience: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/excel-analysis-mastery-effective-strategies-for-using-pivot-tables-to-interpret-your-data/"><u>Excel Analysis Mastery: Effective Strategies for Using Pivot Tables to Interpret Your Data</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/expert-advice-choosing-the-best-video-converter-tools-and-applications/"><u>Expert Advice: Choosing the Best Video Converter Tools & Applications</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-top-picks-free-video-editing-software-to-watch/"><u>In 2024, Top Picks Free Video Editing Software to Watch</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/kaufen-sie-die-vollstandige-version-von-winxvideo-ai-mit-exklusiven-funktionen-gratis-upgrade-inbegriffen/"><u>Kaufen Sie Die Vollständige Version Von WinxVideo AI Mit Exklusiven Funktionen – Gratis-Upgrade Inbegriffen!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/prime-film-apps-showdown-apples-finest-categories/"><u>Prime Film Apps Showdown Apple's Finest Categories</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-clearer-streams-youtube-video-borderless-adjustment/"><u>[New] In 2024, Clearer Streams YouTube Video Borderless Adjustment</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-steer-clear-of-targeted-commercial-content-in-browsing/"><u>[New] Steer Clear of Targeted Commercial Content in Browsing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-leap-into-the-future-with-strategic-technology-enhancements/"><u>[Updated] Leap Into the Future with Strategic Technology Enhancements</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/windows-10-phone/"><u>简单指南：在Windows 10 Phone上流畅观影技巧</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/ai-windowsandmac-10/"><u>最佳 AI 線上影片升級器列表：選出適用 Windows&Mac 使用者10款不用付錢的解決方案</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/asus-notebook-driver-downloads-latest-updates-and-installation-guide/"><u>ASUS Notebook Driver Downloads: Latest Updates and Installation Guide</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/convert-your-blu-ray-collection-efficiently-the-best-encrypted-media-softwares-for-pc-transfer/"><u>Convert Your Blu-Ray Collection Efficiently: The Best Encrypted Media Softwares for PC Transfer</u></a></li>
+<li><a href="https://blog-min.techidaily.com/dvds-complets-de-le-tueur-version-integrale-gratuite-et-sans-filigrane-conversion-multi-plateformes-inclusive/"><u>DVDs Complets De 'Le Tueur : Version Intégrale Gratuite Et Sans Filigrane, Conversion Multi-Plateformes Inclusive</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-logitech-g23-racing-wheel-setup-free-driver-download-and-installation-instructions-for-windows-7810-systems/"><u>Easy Logitech G23 Racing Wheel Setup: Free Driver Download & Installation Instructions For Windows 7/8/10 Systems</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-xiaomi-13t-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Xiaomi 13T</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/practical-steps-in-mastering-telegram-web-services-for-2024/"><u>Practical Steps in Mastering Telegram Web Services for 2024</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/professionelle-tipps-zur-sicheren-kopie-von-dvds-mit-den-neuesten-betriebssystemen-windows-and-macos-losungen-und-methoden/"><u>Professionelle Tipps Zur Sicheren Kopie Von DVDs Mit Den Neuesten Betriebssystemen Windows & macOS - Lösungen Und Methoden</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/step-by-step-guide-setting-up-the-microsoft-net-framework-for-optimal-handbrake-performance/"><u>Step-by-Step Guide: Setting Up the Microsoft .NET Framework for Optimal Handbrake Performance</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/troubleshooting-and-repairing-damaged-mp4-video-files-understanding-the-causes-and-solutions/"><u>Troubleshooting & Repairing Damaged MP4 Video Files: Understanding the Causes and Solutions</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/troubleshooting-hevc-media-format-problems-on-your-pc-2-expert-solutions-for-windows-users/"><u>Troubleshooting HEVC Media Format Problems on Your PC - 2 Expert Solutions for Windows Users</u></a></li>
 </ul></div>
 

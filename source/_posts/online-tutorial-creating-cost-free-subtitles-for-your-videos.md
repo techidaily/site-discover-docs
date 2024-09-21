@@ -1,7 +1,7 @@
 ---
 title: "Online Tutorial: Creating Cost-Free Subtitles for Your Videos"
-date: 2024-09-15T07:07:18.968Z
-updated: 2024-09-15T20:33:18.481Z
+date: 2024-09-15T05:23:05.941Z
+updated: 2024-09-21T07:45:36.483Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/4a4364521475bc98d43a49b1c82e26ef445f3c795924721c63fb3c06810bfd5f.jpg
@@ -184,13 +184,6 @@ Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
 
 Vous voulez savoir comment rendre Windows 10 plus rapide pour jouer avec une solution rapide ? Suivez ces conseils et recommencez à jouer !
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Régler les paramètres graphiques d'un jeu
 
 Chaque jeu possède des paramètres graphiques spécifiques qui peuvent vous aider à optimiser votre expérience de jeu. En voici trois que vous devriez vérifier dans le menu des paramètres du jeu avant de jouer.
@@ -217,6 +210,13 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 * [Pilotes NVIDIA](https://www.nvidia.com/Download/index.aspx)
 * [Pilotes Intel Graphics](https://www.intel.com/content/www/us/en/support/products/80939/graphics-drivers.html)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Installer DirectX 12
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
@@ -230,16 +230,10 @@ Pour vérifier que vous disposez de la dernière version de DirectX, appuyez sur
 Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra que quelques minutes. Appuyez sur la   **touche Windows** \+ **I**, choisissez **Mise à jour et sécurité** et cliquez sur **Vérifier les mises à jour** dans l'onglet **Windows. Mise à jour**. Attendez que l'installation se termine.
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 
@@ -259,13 +253,6 @@ Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows C
 ### Gérez vos heures actives
 
 ![](https://cdn.staticont.net/pages/0012/47/719892cfb3ccc9e05c269dd850ef3c6c37589035.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Oui, Windows 10 peut installer des mises à jour et redémarrer votre ordinateur en plein milieu de votre session de jeu sans même un simple "excusez-moi". Ouch. Cela peut être décevant, c'est le moins que l'on puisse dire, surtout si vous êtes un joueur compétitif et que votre sortie non planifiée peut affecter vos coéquipiers ou votre classement.
 
@@ -332,6 +319,13 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 1. Activez l'accentuation des images d'AMD en cliquant sur **Paramètres**, puis sur **Graphiques** pour trouver le paramètre. Vous pouvez l'activer pour des jeux individuels ou globalement.
 2. Augmentez vos performances graphiques en utilisant l'overclocking. Pour ce faire, cliquez sur l'onglet **Performance**, puis sur **Tuning**, sélectionnez **Automatique**, et enfin **GPU Overclocked**.
 3. Si vous utilisez une carte AMD, vous n'avez pas besoin de MSI Afterburner pour contrôler les performances. Il vous suffit d'appuyer sur **Ctrl** \+ **Shift** \+ **O** pour que vos statistiques apparaissent dans le jeu.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Réduire la résolution dans un jeu
 
@@ -447,6 +441,13 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 3. Réglez les paramètres de vos ventilateurs pour qu'ils ne soient pas trop sollicités.
 4. Si vous le pouvez, jouez sur votre ordinateur portable dans un environnement frais.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Mettez à niveau votre GPU et votre RAM
 
 Nous avons déjà abordé ce sujet pour les PC, mais votre ordinateur portable peut également être équipé d'un processeur graphique et d'une mémoire vive. Suivez les mêmes protocoles, et si vous n'avez pas l'habitude de travailler avec des ordinateurs portables, il est préférable de confier l'installation à un technicien expérimenté.
@@ -495,19 +496,6 @@ L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour
 * Mettez à niveau votre GPU et/ou votre CPU
 * Vérifiez les paramètres de performance de votre Windows.
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Qu'est-ce qui ralentit mon ordinateur ?
 
 Il y a une longue liste de choses qui pourraient ralentir votre ordinateur. Voici une liste de raisons que vous pouvez vérifier :
@@ -551,16 +539,10 @@ Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est �
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Avez-vous des questions ?
@@ -598,15 +580,19 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-culinary-craftsmanship-innovative-naming-for-food-shows-for-2024/"><u>[Updated] Culinary Craftsmanship Innovative Naming for Food Shows for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-navigating-nets-and-currents-tips-for-gopro-underwater-shots-for-2024/"><u>[Updated] Navigating Nets & Currents Tips for GoPro Underwater Shots for 2024</u></a></li>
-<li><a href="https://discover-community.techidaily.com/codec-h265-video-le-plus-performant-encodeur-pour-windows-et-mac-convertisseur/"><u>Codec H.265 Vidéo - Le Plus Performant Encodeur Pour Windows Et Mac Convertisseur</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-instructions-to-get-arduino-nano-driver-up-and-running-on-your-windows-machine/"><u>Easy Instructions to Get Arduino Nano Driver Up and Running on Your Windows Machine</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-mi-11s-screen-recording-elevate-your-digital-storytelling/"><u>In 2024, Mi 11'S Screen Recording Elevate Your Digital Storytelling</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/live-streaming-made-easy-discover-the-power-of-manycam-top-ranked-virtual-camera-software/"><u>Live Streaming Made Easy: Discover the Power of ManyCam - Top-Ranked Virtual Camera Software</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/live-streaming-with-manycam-top-virtual-webcam-software/"><u>Live Streaming with ManyCam: Top Virtual Webcam Software</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-ultimate-image-editor-repertoire-for-text-addition/"><u>The Ultimate Image Editor Repertoire for Text Addition</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-nokia-c300-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Nokia C300 | Dr.fone</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/ultimate-guide-mastering-manycam-for-enhanced-livestreams-and-virtual-background-technology/"><u>Ultimate Guide: Mastering ManyCam for Enhanced Livestreams and Virtual Background Technology</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/1726225387006-shotcut/"><u>【有效教學與客觀評論】Shotcut 視頻編輯器 - 高效能硬件解決方案</u></a></li>
+<li><a href="https://games-able.techidaily.com/androids-legacy-classic-pokemon-experience/"><u>Android's Legacy: Classic Pokémon Experience</u></a></li>
+<li><a href="https://discover-best.techidaily.com/effortless-video-conversion-with-the-free-winx-program-rip-your-dvds-to-mp4-on-windows-tenth-edition/"><u>Effortless Video Conversion with the Free WinX Program: Rip Your DVDs to MP4 on Windows Tenth Edition</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/gratis-m4v-zu-mpg-konvertieren-mit-movavi-im-internet-professioneller-und-einfacher-prozessvergleich/"><u>Gratis M4V Zu MPG Konvertieren Mit Movavi Im Internet: Professioneller Und Einfacher Prozessvergleich</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-xiaomi-redmi-a2plus-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Xiaomi Redmi A2+ Phone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>How to Spy on Text Messages from Computer & Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-motorola-moto-g73-5g-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Motorola Moto G73 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-innovative-editing-in-final-cut-pro-combining-clear-waveform-visuals-with-animated-sound-sequences-for-2024/"><u>New Innovative Editing in Final Cut Pro Combining Clear Waveform Visuals with Animated Sound Sequences for 2024</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/pokial-zlepsit-zvukovitu-spolocenstvo-pretoze-sa-su-top-5-nastrojov-pre-videa-online-a-offline/"><u>Pokiaľ Zlepšiť Zvukovitu Spoločenstvo, Pretože Sa Sú Top 5 Nástrojov Pre Videa Online a Offline</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/simplified-techniques-for-successfully-reversing-videos-a-comprehensive-tutorial/"><u>Simplified Techniques for Successfully Reversing Videos - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/the-pinnacle-of-live-tweeting-on-social-media-for-2024/"><u>The Pinnacle of Live Tweeting on Social Media for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/the-ultimate-guide-to-adjusting-to-new-facebook-ranking-criteria-for-2024/"><u>The Ultimate Guide to Adjusting to New Facebook Ranking Criteria for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-ultimate-reference-to-youtube-video-aspect-ratios/"><u>The Ultimate Reference to YouTube Video Aspect Ratios</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/trasforma-il-tuo-video-mp4-gratuitamente-in-m4v-utilizzando-la-web-di-movavi/"><u>Trasforma Il Tuo Video MP4 Gratuitamente in M4V Utilizzando La Web Di Movavi</u></a></li>
 </ul></div>
 

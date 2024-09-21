@@ -1,7 +1,7 @@
 ---
 title: Exploring Georgia Pavlou's Cinematography with Movavi Photo Library
-date: 2024-09-09T21:10:48.245Z
-updated: 2024-09-16T06:08:01.073Z
+date: 2024-09-13T21:19:26.203Z
+updated: 2024-09-20T20:37:12.306Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/2fd2af990894cf11cb2087adc0179e8a43be6adf1916f6c8fc284b58583f1b79.jpg
@@ -214,13 +214,6 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
 Pour bénéficier des fonctionnalités de DirectX 12, le jeu doit avoir été développé avec cette version. La bonne nouvelle est que la liste de ces jeux s'allonge chaque jour, car de plus en plus de sociétés de jeux adoptent cette version.
@@ -228,6 +221,13 @@ Pour bénéficier des fonctionnalités de DirectX 12, le jeu doit avoir été d�
 Pour vérifier que vous disposez de la dernière version de DirectX, appuyez sur la   **touche Windows** \+ **R**, tapez "dxdiag" et cliquez sur **OK**. L'outil de diagnostic DirectX s'ouvre.
 
 Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra que quelques minutes. Appuyez sur la   **touche Windows** \+ **I**, choisissez **Mise à jour et sécurité** et cliquez sur **Vérifier les mises à jour** dans l'onglet **Windows. Mise à jour**. Attendez que l'installation se termine.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 
 
@@ -305,13 +305,6 @@ Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiq
 5. Mode de gestion de l'énergie : Passez à **Préférer les performances maximales**.
 6. Optimisation Threaded : Passez à **Auto**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Régler le centre de contrôle AMD/ATI
 
 Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disent qu'elles rivalisent même avec leur concurrent NVIDIA. Modifiez ces paramètres pour optimiser les jeux de Windows 10.
@@ -337,6 +330,13 @@ Vous pouvez également modifier le curseur de la vitesse du pointeur pour créer
 Comment améliorer les performances de jeu sur Windows 10 (corrections avancées)
 
 ![](https://cdn.staticont.net/pages/0013/24/72b5f58442a79243cce53c3224e26755b436a620.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
 
@@ -387,13 +387,6 @@ Pour overclocker :
 3. En option, vous pouvez également augmenter le voltage et l'horloge de la mémoire, mais surveillez de près la température de votre carte lorsque vous faites cela.
 4. Jouez à un jeu et vérifiez les performances.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Désactiver SysMain et Prefetch
 
 C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes essaient de vous aider à accéder plus rapidement aux données, mais ils ajoutent finalement des opérations inutiles qui ralentissent les jeux. Voici comment les désactiver :
@@ -432,19 +425,6 @@ Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordin
 
 Pour modifier votre plan d'alimentation, cliquez sur la   **touche Windows** \+ **I**, tapez "alimentation" dans la zone de recherche, choisissez **Paramètres d'alimentation et de veille**, puis **Paramètres d'alimentation supplémentaires**. Si vous ne voyez pas de plan d'alimentation haute performance dans la partie gauche de l'écran, cliquez sur **Créer un plan d'alimentation** et choisissez **Haute performance**.
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Empêchez votre ordinateur portable de surchauffer
 
 Les ordinateurs portables sont réputés pour leur surchauffe, car tous les composants sont serrés dans le châssis et l'air circule peu. En cas de surchauffe, le système ralentit et les performances de jeu aussi. Utilisez ces conseils de prévention :
@@ -454,9 +434,23 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 3. Réglez les paramètres de vos ventilateurs pour qu'ils ne soient pas trop sollicités.
 4. Si vous le pouvez, jouez sur votre ordinateur portable dans un environnement frais.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Mettez à niveau votre GPU et votre RAM
 
 Nous avons déjà abordé ce sujet pour les PC, mais votre ordinateur portable peut également être équipé d'un processeur graphique et d'une mémoire vive. Suivez les mêmes protocoles, et si vous n'avez pas l'habitude de travailler avec des ordinateurs portables, il est préférable de confier l'installation à un technicien expérimenté.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 
 
@@ -490,16 +484,10 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 
@@ -592,19 +580,21 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-convenient-tactics-for-transferring-imovie-projects-to-vimeo/"><u>[Updated] 2024 Approved Convenient Tactics for Transferring iMovie Projects to Vimeo</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-ffmpeg-analysis-maintaining-audio-format-integrity-for-2024/"><u>[Updated] FFmpeg Analysis Maintaining Audio Format Integrity for 2024</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/comment-transformer-rapidement-un-fichier-iso-en-video-mp4-en-juste-5-minutes/"><u>Comment Transformer Rapidement Un Fichier ISO en Vidéo MP4 en Juste 5 Minutes</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/conversione-veloce-e-di-qualita-superiore-trasformare-i-tuoi-dvd-in-formato-divx-con-nuove-misure/"><u>Conversione Veloce E Di Qualità Superiore: Trasformare I Tuoi DVD in Formato DivX Con Nuove Misure!</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/convert-your-dvds-into-digital-files-with-ease-on-windowsmacos/"><u>Convert Your DVDs Into Digital Files with Ease on Windows/macOS</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/evolucion-e-impacto-guia-innovadora-para-la-aplicacion-de-windows-xdvd/"><u>Evolución E Impacto: Guía Innovadora Para La Aplicación De Windows XDVD</u></a></li>
-<li><a href="https://facebook.techidaily.com/fbs-wearable-experiment-could-include-two-detachable-cameras/"><u>FB's Wearable Experiment: Could Include Two Detachable Cameras?</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Oppo Find X7 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-infinix-smart-7-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Infinix Smart 7 Phone Pattern Lock</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mastering-twitch-instant-replay-techniques/"><u>Mastering Twitch Instant Replay Techniques</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/schritt-fur-schritt-anleitung-wie-sie-untertitel-zu-ihren-mp4-videodateien-hinzufugen-konnen/"><u>Schritt-Für-Schritt Anleitung: Wie Sie Untertitel Zu Ihren MP4-Videodateien Hinzufügen Können</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/successful-installation-and-setup-of-handbrake-on-windows-10-and-11-a-step-by-step-guide/"><u>Successful Installation and Setup of Handbrake on Windows 10 & 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-pathway-to-stellar-visual-results-through-color-tuning/"><u>The Pathway to Stellar Visual Results Through Color Tuning</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210906234-windows-woes-no-more-achieve-perfect-harmony-between-your-device-driver-and-os-for-a-smooth-gaming-experience/"><u>Windows Woes No More - Achieve Perfect Harmony Between Your Device Driver and OS for a Smooth Gaming Experience!</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-direct-to-youtube-stepwise-process-of-mobile-and-desktop-video-posting/"><u>[Updated] 2024 Approved Direct to YouTube Stepwise Process of Mobile & Desktop Video Posting</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/1-melhoria-de-voz-em-aplicativos-opcoes-mais-poderosas-para-smartphones-e-computadores/"><u>1. Melhoria De Voz Em Aplicativos: Opções Mais Poderosas Para Smartphones E Computadores</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/2024-cddvd/"><u>2024 新品頂級 CD/DVD 光碟燒錄器 - 高效能免費上架列表</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/convert-videos-from-wmv-to-mpeg-for-free-with-movavis-online-tool-fast-and-secure-format-transformation/"><u>Convert Videos From WMV to MPEG for Free with Movavi's Online Tool - Fast & Secure Format Transformation</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/converti-video-asf-a-mov-senza-costi-su-internet-usando-il-servizio-di-movavi/"><u>Converti Video ASF a MOV Senza Costi Su Internet Usando Il Servizio Di Movavi</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dota-2-latency-solutions-top-tricks-to-achieve-zero-lag/"><u>Dota 2 Latency Solutions: Top Tricks to Achieve Zero Lag</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/forgot-your-realme-11-proplus-lock-screen-pattern-pin-or-password-here-s-what-to-do-by-drfone-android-unlock-android-unlock/"><u>Forgot your Realme 11 Pro+ lock screen pattern, PIN or password? Here’s what to do</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/guia-paso-a-paso-para-convertir-archivos-avi-a-ogv-gratis-por-internet-usando-movavi/"><u>Guía Paso a Paso Para Convertir Archivos AVI a OGV Gratis Por Internet Usando Movavi</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-vivo-t2x-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Vivo T2x 5G Devices</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-6-plus-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 6 Plus without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-discovering-the-best-in-screen-recording/"><u>In 2024, Discovering the Best in Screen Recording</u></a></li>
+<li><a href="https://win-able.techidaily.com/instant-fixes-accelerating-your-slow-google-chrome-in-no-time/"><u>Instant Fixes: Accelerating Your Slow Google Chrome in No Time</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pros-choice-review-the-ultimate-4k-dslr-rigs/"><u>Pro's Choice Review The Ultimate 4K DSLR Rigs</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/quick-steps-transforming-rmvb-videos-to-mp4-for-windows-and-macos-users/"><u>Quick Steps: Transforming RMVB Videos to MP4 for Windows and macOS Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-gsdll32dll-error-a-step-by-step-guide/"><u>Resolving 'Gsdll32.dll' Error: A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/mpeg-4-avi/"><u>솜씨 Mpeg-4를 AVI로 바꾸기 - 오페스 무료 대상 사이트에서 사용자가 쉽게 구현할 수 있는 방법</u></a></li>
 </ul></div>
 

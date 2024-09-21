@@ -1,7 +1,7 @@
 ---
 title: Conversion Libre Et Complète D'OGV Vers Des Fichiers Lignes Avec Movavi
-date: 2024-09-15T04:30:23.044Z
-updated: 2024-09-16T05:32:40.252Z
+date: 2024-09-14T11:57:59.239Z
+updated: 2024-09-21T13:55:20.587Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/94949839e44613400bd5d58f4fe6242909222f90165f20a133ed7c6cab443aea.png
@@ -184,6 +184,13 @@ Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
 
 Vous voulez savoir comment rendre Windows 10 plus rapide pour jouer avec une solution rapide ? Suivez ces conseils et recommencez à jouer !
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Régler les paramètres graphiques d'un jeu
 
 Chaque jeu possède des paramètres graphiques spécifiques qui peuvent vous aider à optimiser votre expérience de jeu. En voici trois que vous devriez vérifier dans le menu des paramètres du jeu avant de jouer.
@@ -210,16 +217,16 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 * [Pilotes NVIDIA](https://www.nvidia.com/Download/index.aspx)
 * [Pilotes Intel Graphics](https://www.intel.com/content/www/us/en/support/products/80939/graphics-drivers.html)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Installer DirectX 12
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
@@ -243,23 +250,9 @@ Dans le menu qui s'ouvre, cliquez sur **Mode Jeu**. Passez à **On** pour active
 
 Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows Creators Update n'est pas installée sur votre PC.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Gérez vos heures actives
 
 ![](https://cdn.staticont.net/pages/0012/47/719892cfb3ccc9e05c269dd850ef3c6c37589035.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Oui, Windows 10 peut installer des mises à jour et redémarrer votre ordinateur en plein milieu de votre session de jeu sans même un simple "excusez-moi". Ouch. Cela peut être décevant, c'est le moins que l'on puisse dire, surtout si vous êtes un joueur compétitif et que votre sortie non planifiée peut affecter vos coéquipiers ou votre classement.
 
@@ -319,13 +312,6 @@ Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiq
 5. Mode de gestion de l'énergie : Passez à **Préférer les performances maximales**.
 6. Optimisation Threaded : Passez à **Auto**.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Régler le centre de contrôle AMD/ATI
 
 Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disent qu'elles rivalisent même avec leur concurrent NVIDIA. Modifiez ces paramètres pour optimiser les jeux de Windows 10.
@@ -371,6 +357,13 @@ Mettez à niveau votre GPU et votre CPU environ tous les quatre ans pour que tou
 Le choix de la première mise à niveau dépend des types de jeux auxquels vous jouez. Si vous n'avez pas besoin de graphismes extrêmes et jouez à des jeux plus rapides, le processeur est le meilleur choix. Mais si vous aimez les histoires numériques ou les jeux basés sur le monde avec beaucoup de personnages et d'arrière-plans non jouables, un GPU pourrait vous être plus utile.
 
 Quoi qu'il en soit, assurez-vous que l'équilibre des performances entre les deux est délicat, car l'un ne fonctionne pas sans l'autre. Vérifiez la mémoire et la bande passante de toute mise à niveau potentielle.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Mettez votre RAM à niveau
 
@@ -435,13 +428,6 @@ Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur 
 
 Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordinateurs portables afin de les maintenir en vie pendant de plus longues durées. Cela affectera considérablement l'expérience de jeu car votre RAM, vos cartes graphiques et votre CPU ne fonctionneront pas à pleine capacité. Pour remédier à ce problème, connectez votre ordinateur portable à son alimentation externe et assurez-vous que vos paramètres de contrôle permettent d'obtenir des performances optimales lorsqu'il est connecté.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Utiliser un plan d'alimentation performant
 
 Pour modifier votre plan d'alimentation, cliquez sur la   **touche Windows** \+ **I**, tapez "alimentation" dans la zone de recherche, choisissez **Paramètres d'alimentation et de veille**, puis **Paramètres d'alimentation supplémentaires**. Si vous ne voyez pas de plan d'alimentation haute performance dans la partie gauche de l'écran, cliquez sur **Créer un plan d'alimentation** et choisissez **Haute performance**.
@@ -454,6 +440,13 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 2. Pour la ventilation, essayez de surélever votre ordinateur portable ou utilisez un bureau conçu pour les ordinateurs portables.
 3. Réglez les paramètres de vos ventilateurs pour qu'ils ne soient pas trop sollicités.
 4. Si vous le pouvez, jouez sur votre ordinateur portable dans un environnement frais.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Mettez à niveau votre GPU et votre RAM
 
@@ -523,6 +516,13 @@ Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, vo
 4. Passez en revue votre programme de démarrage et désactivez ceux que vous n'utilisez pas.
 5. Installez de la RAM supplémentaire
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Windows 10 est-il meilleur pour les jeux ?
 
 Lorsque l'on compare l'expérience de jeu des versions précédentes de Windows à Windows 10, l'amélioration des performances est extraordinaire. Si vous n'êtes pas sûr de vouloir faire une mise à jour, la décision est simple. Windows 10 offrira toujours une meilleure expérience.
@@ -580,21 +580,14 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-elevate-your-storytelling-on-snapchat-with-top-tips/"><u>[New] 2024 Approved Elevate Your Storytelling on Snapchat with Top Tips</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/1-easy-guide-transforming-asf-files-into-avi-using-a-comprehensive-avi-video-conversion-tool/"><u>1. Easy Guide: Transforming ASF Files Into AVI Using a Comprehensive AVI Video Conversion Tool</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/a-comparative-study-of-language-processing-analyzing-the-contrast-between-gpt-and-bert/"><u>A Comparative Study of Language Processing: Analyzing the Contrast Between GPT and BERT</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/ai-winx/"><u>AI가 풍선을 들고 날리는 WinX비デオ - 가장 자주 묻는 질문과 대답</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/guia-facil-para-transcodificar-mkv-a-formato-avi-en-windows-11/"><u>Guía Fácil Para Transcodificar MKV a Formato AVI en Windows 11</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-xiaomi-redmi-a2plus-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Xiaomi Redmi A2+ Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-infinix-hot-40-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Infinix Hot 40 Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-xiaomi-civi-3-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Xiaomi Civi 3 Device</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/quick-guide-converting-dvd-vob-files-to-mpeg-format-on-windows-and-mac-computers/"><u>Quick Guide: Converting DVD VOB Files to MPEG Format on Windows & Mac Computers</u></a></li>
-<li><a href="https://howto.techidaily.com/restore-missing-app-icon-on-xiaomi-redmi-k70-pro-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Xiaomi Redmi K70 Pro Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/revolutionize-your-mornings-in-depth-analysis-of-the-ihome-zenergy-sleep-support-gadget/"><u>Revolutionize Your Mornings: In-Depth Analysis of the IHome Zenergy Sleep Support Gadget.</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/sichere-und-kostenlose-abrufung-von-premium-4k-videomaterialien-entdecken-sie-den-fuhrenden-4k-video-downloader/"><u>Sichere Und Kostenlose Abrufung Von Premium 4K Videomaterialien: Entdecken Sie Den Führenden 4K Video Downloader</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/step-by-step-guide-to-installing-libdvdcss-on-handbrake-for-macos-and-windows-visual-tutorial/"><u>Step-by-Step Guide to Installing Libdvdcss on Handbrake for macOS and Windows - Visual Tutorial</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlining-account-associations-between-win-and-microsoft/"><u>Streamlining Account Associations Between WIN and MICROSOFT</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-beginners-tutorial-stream-to-facebook-with-obs-studio/"><u>Updated 2024 Approved Beginners Tutorial Stream to Facebook With OBS Studio</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/3d-ai/"><u>인공 3D 비디오 향상: 안정화, 확대 및 변환 기능 최신 AI 기법</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-disabling-or-enabling-pip-mode-youtube-on-iphone-guide/"><u>[Updated] 2024 Approved Disabling or Enabling PIP Mode YouTube on iPhone Guide</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/movaviwmvaiff/"><u>「Movavi提供：オンラインWMVとAIFFファイルを簡単にリニア変換」</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-google-pixel-8-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Google Pixel 8</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/gratis-conversion-cr2-a-formato-tif-el-guia-definitiva-para-transformar-fotografias-sin-gastos-con-movavi/"><u>Gratis Conversión CR2 a Formato TIF: El Guía Definitiva Para Transformar Fotografías Sin Gastos Con Movavi</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-vivo-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Vivo Phone</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/mp3-vers-m4r-pour-iphone-gratuite-et-facile-comment-le-faire-via-linterface-de-ligne-de-commande/"><u>Mp3 Vers M4r Pour iPhone Gratuite Et Facile - Comment Le Faire via L'interface De Ligne De Commande</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-step-by-step-guide-how-to-translate-twitter-video-easily-for-2024/"><u>New Step-by-Step Guide How to Translate Twitter Video Easily for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quick-fixes-for-4-major-account-restrictions-on-gpt/"><u>Quick Fixes for 4 Major Account Restrictions on GPT</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/riprendi-e-converti-video-m4v-a-formato-swf-gratuitamente-online-convertitore-gratuito-di-movavi/"><u>Riprendi E Converti Video M4V a Formato SWF Gratuitamente Online - Convertitore Gratuito Di Movavi</u></a></li>
 </ul></div>
 

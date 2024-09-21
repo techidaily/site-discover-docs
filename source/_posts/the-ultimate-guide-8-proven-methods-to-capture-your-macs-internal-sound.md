@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide: 8 Proven Methods to Capture Your Mac's Internal Sound"
-date: 2024-09-10T23:22:17.064Z
-updated: 2024-09-15T20:05:23.946Z
+date: 2024-09-15T21:05:28.280Z
+updated: 2024-09-21T04:07:58.159Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/66cff798b5354c76ea84e33aefd7f5e9482620e0da799b4caa8592618497db5e.jpg
@@ -177,10 +177,10 @@ Cet article vous présente les réglages de performance pour les jeux que vous p
 Avant de commencer, il est toujours bon d'avoir un compteur de FPS dans le jeu, afin de pouvoir suivre vos progrès et tester les réglages qui fonctionnent. De nombreux jeux les ont préinstallés, mais si vous installez [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards), vous ne serez jamais sans cet outil utile dans n'importe quel jeu.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 
@@ -188,6 +188,13 @@ Avant de commencer, il est toujours bon d'avoir un compteur de FPS dans le jeu, 
 Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
 
 ![](https://cdn.staticont.net/pages/0013/24/d54a84e68415bc2949ca1ec30e4cf5f5b067a4e1.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Vous voulez savoir comment rendre Windows 10 plus rapide pour jouer avec une solution rapide ? Suivez ces conseils et recommencez à jouer !
 
@@ -235,6 +242,13 @@ Utiliser le mode de jeu Windows 10
 
 ![](https://cdn.staticont.net/default/0012/47/d22e37788bfd390747dc00a19758815599d522df.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Voici un moyen simple et rapide d'optimiser Windows 10 pour les jeux en utilisant un outil intégré au système. Le mode Jeu, apparu dans les versions les plus récentes du système d'exploitation, est conçu pour améliorer l'expérience de jeu en consacrant davantage de ressources système aux jeux. Il empêche également d'autres programmes, tels que Windows Update, d'accaparer les ressources du système pendant que vous jouez.
 
 Pour localiser les paramètres du mode jeu, appuyez sur la   **touche Windows** \+ **I**, tapez "mode jeu" dans la boîte de recherche et cliquez sur **Contrôler le mode jeu pour optimiser votre PC pour les jeux**.
@@ -277,6 +291,19 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 
 ![](https://cdn.staticont.net/default/0012/47/297019451ab2d6ffba248c33b083ec10c2390f59.webp)
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Le problème ici est le même qu'avec Windows Mises à jour. Steam met automatiquement à jour tous vos jeux, même ceux auxquels vous n'avez pas joué depuis longtemps. Les mises à jour en arrière-plan consomment la mémoire de votre PC et peuvent ralentir les processus de jeu.
 
 Pour empêcher Steam de mettre à jour les jeux pendant que vous jouez, allez dans votre client Steam et trouvez les options de mise à jour dans **Steam** \- **Paramètres** \- **Téléchargements**. Décochez la case **Autoriser les téléchargements pendant le jeu**.
@@ -286,10 +313,10 @@ Par ailleurs, les jeux sur Steam sont mis à jour en permanence et il arrive sou
 Pour ramener la version d'un jeu à celle dont vous avez besoin, ouvrez Steam, faites un clic droit sur le jeu, choisissez **Propriétés** et allez dans l'onglet **Bêta**. Choisissez la version souhaitée dans le menu déroulant.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Désactiver les notifications
@@ -300,13 +327,6 @@ Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent n
 2. Tapez "Notifications" dans la barre de recherche et sélectionnez **Notifications et paramètres d'actions** dans les résultats.
 3. Lorsque la nouvelle fenêtre s'ouvre, mettez le commutateur à bascule situé à côté de l'option **Obtenir des notifications d'applications et d'autres expéditeurs** sur **Désactivé**. Vos notifications sont maintenant désactivées.
 4. Vous pouvez également faire défiler la liste et désactiver les notifications par application.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Régler le panneau de contrôle NVIDIA
 
@@ -480,13 +500,6 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 
 Foire aux questions 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Comment optimiser mon ordinateur pour les jeux ?
 
 L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour optimiser votre ordinateur portable ou de bureau pour les jeux. Voici les principaux conseils :
@@ -529,19 +542,6 @@ Atteindre 60 FPS dans un jeu n'est pas différent des conseils pour accélérer 
 3. Passez Windows 10 en "mode jeu".
 4. Vérifiez les paramètres graphiques de votre jeu.
 5. Installez les derniers pilotes pour votre carte graphique
-
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Pourquoi ai-je des fps faibles sur mon PC haut de gamme ?
 
@@ -586,19 +586,21 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-captivating-video-content-tips-for-pinterest-boards/"><u>[New] 2024 Approved Captivating Video Content Tips for Pinterest Boards</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/024-approved-clubbing-essentials-top-rated-dj-template-vids/"><u>[New] 2024 Approved Clubbing Essentials Top-Rated DJ Template Vids</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-e-identity-enhancement-drawing-your-playful-iconography/"><u>[New] 2024 Approved E-Identity Enhancement Drawing Your Playful Iconography</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-backdrop-bassline-tunes-to-enhance-media/"><u>[New] Backdrop Bassline Tunes to Enhance Media</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-hashtag-mastery-pathway-to-6-figure-youtube-impact-for-2024/"><u>[New] Hashtag Mastery Pathway to 6-Figure Youtube Impact for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-efficient-closer-viewing-techniques-to-use-in-google-meets/"><u>[Updated] 2024 Approved Efficient Closer Viewing Techniques to Use in Google Meets</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-honor-90-pro-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Honor 90 Pro FRP Bypass Instantly</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/best-in-class-business-data-cradle-for-2024/"><u>Best in Class Business Data Cradle for 2024</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/come-selezionare-il-giusto-trimmer-di-video-gratuito-per-windowsmac-e-rimuovere-le-riprese-inutili/"><u>Come Selezionare Il Giusto Trimmer Di Video Gratuito per Windows/Mac E Rimuovere Le Riprese Inutili</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-perfect-your-skype-interviews-with-professional-recording-tactics/"><u>In 2024, Perfect Your Skype Interviews with Professional Recording Tactics</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/schutz-fur-ihr-filmerlebnis-verwandeln-sie-altereneuere-dvds-mit-qualitatsgarantie-in-5-minuten/"><u>Schutz Für Ihr Filmerlebnis: Verwandeln Sie Ältere/Neuere DVDs Mit Qualitätsgarantie in 5 Minuten</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/step-by-step-process-of-transforming-epub-ebooks-to-plain-text-without-cost/"><u>Step-by-Step Process of Transforming EPUB eBooks to Plain Text Without Cost</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/step-by-step-tutorial-uploading-epub-books-to-your-iphone-bypassing-itunes/"><u>Step-by-Step Tutorial: Uploading EPUB Books to Your iPhone Bypassing iTunes</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/the-enduring-appeal-of-dvds-discover-why-theyre-still-going-strong-with-these-top-reasons/"><u>The Enduring Appeal of DVDs: Discover Why They're Still Going Strong with These Top Reasons</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-facebook-video-maker-how-to-make-facebook-video/"><u>[New] In 2024, Facebook Video Maker How to Make Facebook Video</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-webcam-safety-starts-here-the-10-best-shields/"><u>[New] Webcam Safety Starts Here - The 10 Best Shields</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-unlocking-6-hidden-sources-for-custom-youtube-symbols/"><u>[Updated] 2024 Approved Unlocking 6 Hidden Sources for Custom YouTube Symbols</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-the-complete-newcomers-guide-to-conducting-zoom-webinars/"><u>2024 Approved The Complete Newcomer's Guide to Conducting Zoom Webinars</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726029697316-fm/"><u>簡単なステップでFM特番をレコーディングする方法：忙しい人向け</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/breaking-down-the-latest-apple-silicon-in-depth-look-at-m4-chip-specifications-and-announcement-schedule/"><u>Breaking Down the Latest Apple Silicon: In-Depth Look at M4 Chip Specifications & Announcement Schedule</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/complete-guide-to-using-hoe-obs-virtual-camera-step-by-step-tutorial/"><u>Complete Guide to Using Hoe OBS Virtual Camera: Step-by-Step Tutorial</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/exploring-youtubes-operations-after-video-upload/"><u>Exploring YouTube's Operations After Video Upload</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Oppo Reno 10 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-why-cant-i-install-the-ipogo-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Why cant I install the ipogo On Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/movavi-aiuta-a-convertire-i-tuoi-file-mkv-in-formato-wma-gratuitamente-su-internet/"><u>Movavi Aiuta a Convertire I Tuoi File MKV in Formato WMA Gratuitamente Su Internet</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/movavi-mka-avi/"><u>Movavi를 이용하여 오늘 만나자: MKA 각색 프라이머에서 AVI로 원활한 전환 - 무료 방법</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/online-jp2-naar-jpeg-vervangen-vrijetijdige-en-veilig-verkoopprozessen-met-movavi/"><u>Online JP2 Naar JPEG Vervangen - Vrijetijdige en Veilig Verkoopprozessen Met Movavi</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/transferez-gratuitement-un-fichier-tga-en-format-tiff-en-ligne-avec-movavi/"><u>Transférez Gratuitement Un Fichier TGA en Format TIFF en Ligne Avec Movavi</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/transformation-mp4-a-wmv-en-ligne-sans-frais-convertisseur-rapide-avec-movavi/"><u>Transformation MP4 À WMV en Ligne Sans Frais - Convertisseur Rapide Avec Movavi</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/vob-op-3gp-omzetten-geen-kosten-veerkom-naar-movavi-voor-gratis-online-converting/"><u>VOB Op 3GP Omzetten - GEEN KOSTEN! Veerkom Naar Movavi Voor Gratis Online Converting</u></a></li>
 </ul></div>
 
