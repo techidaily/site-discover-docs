@@ -1,7 +1,7 @@
 ---
 title: Fotografias Baixadas E Editáveis Online Sem Custo, Manual Abrangente Em Português
-date: 2024-09-29T18:09:19.278Z
-updated: 2024-09-30T16:13:16.263Z
+date: 2024-10-04T19:09:50.618Z
+updated: 2024-10-05T21:31:40.648Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/0430ade83e8050286faf02e46abd0a1a0086948243518cbb4c6651d559c1c38d.jpg
@@ -161,13 +161,6 @@ Movavi 的首要目標是就是為您提供經過驗證的資訊。為了確保�
 
 接著我們就來介紹一下 Windows 10 的 7 大桌面式相片檢視器。各個軟體都有不同程度的編輯功能，包括可以新增外掛程式，使軟體更適合專業任務，如批次編輯、製作電影或動畫等等。無論您是要快速處理大型圖像、簡單的使用者介面還是打開各類檔案格式的能力，都請您繼續閱讀，以便找到最適合自己的相片檢查器。
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 
 
 [Movavi Photo Editor](https://tools.techidaily.com/movavi/photo-editor/)
@@ -182,6 +175,13 @@ Movavi 的首要目標是就是為您提供經過驗證的資訊。為了確保�
 
 ![](https://cdn.staticont.net/page_type/0023/47/9528cbd19dc376aa4f2986e4928cb80d2a982827.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Photo Editor 是Movavi最新一代圖片瀏覽器，不僅能秀圖，也支援相片管理，甚至還能為你做好照片編輯! 在瀏覽與管理方面，它可透過無痛管理的方式，輕鬆地過濾大量相片。最棒的是，它還支援臉部識別功能，能透過AI技術幫每位家人自動建立相簿，便於日後分類與觀賞。在編輯方面，本app保留了實用功能與簡易操作。但版面與工具重新調整排列，進一步提高使用效率。用戶直接拖放照片檔到中央編輯區，即可開始工作，照著直覺進行真的超簡單! 相片編輯亦導入大量AI功能，智慧型四功能包括:HDR照明、增強 、去除雜訊，以及「AI 還原」含照片著色 (皆老照片修復專用)。Photo Editor是一款強大的照片瀏覽器，運作既可靠又穩定。
 
 優點：
@@ -191,13 +191,6 @@ Photo Editor 是Movavi最新一代圖片瀏覽器，不僅能秀圖，也支援�
 缺點：
 
 * 圖片都必須上傳至軟體
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 
 
@@ -220,10 +213,10 @@ Apowersoft Photo Viewer 也是十大照片管理工具的首選之一。要完�
 * GUI 看起來很舊，簡直像 XP，而且功能有限
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 
@@ -231,6 +224,13 @@ Apowersoft Photo Viewer 也是十大照片管理工具的首選之一。要完�
 [**FastStone Image Viewer**](https://www.faststone.org/)
 
 ![](https://cdn.staticont.net/page_type/0013/45/c659fda2308b16d082fd5654e28d9733cac48c1a.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的圖像編輯，以及快速檢視/比較圖片等方面，擁有卓越的成績。在處理大型圖像檔時，速度有時可能會減慢，但在一般的解析度下，該軟體能夠瞬間載入任何相片。左上角也有目錄式瀏覽，讓您不用匯入照片，就能輕鬆瀏覽電腦和硬碟內容。縮圖十分清晰，而且在捲動所述縮圖時，還會擴展為特寫視圖。值得注意的是，儘管 FastStone Image Viewer 對於個人和教育用途是免費的，但若要用於商業用途，則需要購買授權。授權需花費 34.95 美元，不過對多數人來說，這都不是問題。
 
@@ -258,6 +258,13 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 
 * 使用者介面過時且不符合大眾口味
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 
 
 [**XnView**](https://www.xnview.com/en/)
@@ -274,11 +281,31 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 
 * 圖片只能在單一頁籤中開啟且無法捲動
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 
 
 [**Nomacs**](https://github.com/nomacs/nomacs)
 
 ![](https://cdn.staticont.net/page_type/0013/45/3c872b24e843d2a8619d1d110f90c6a4aef905b7.webp)
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 除了 Windows 10 相片檢視器的標準檢視選項外，Nomacs 還多了一個整潔的備註方塊。該放塊可供您放入評論，以供日後使用。無論您是需要匯出圖像以便日後在更複雜的軟體中進行編輯，還是僅僅是為了提醒自己相片中的人事物，這項功能都十分有用。在「調整」索引標籤中，也有些既實用又有趣的工具。其中一個叫做「Tiny Planet」，可以將您的圖像轉換為酷似地球儀的正方形裁剪照片，非常適合將風景照製作成 360 度的全景。更棒的是，無論您是要私下使用，還是有商業用途，Nomacs 都可以免費下載。
 
@@ -297,10 +324,10 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 ![](https://cdn.staticont.net/page_type/0013/45/d64fdda203dbd8ccf5369a8901c4a494f69794ae.webp)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Google Photos 與其套件中的其他 Google 應用程式一起運作。這些應用程式都是在線上提供，而不會儲存在本機裝置上。這使得本工具非常適合那些隨時保持網路連線、並用多種裝置 (筆記型電腦、智慧型手機、平板電腦等等)，而且需要同步編輯的數位游牧民。然而，您仍可從五種不同的儲存模式中進行選擇，其中一種便是離線模式。離線儲存使您無論身在何方，都能存取檔案，而不需要網際網路連線。正如您所期望的那樣，Google 的介面流暢而現代，視窗中的工具都很直觀，但確實缺乏像 Windows Photo Viewer 那樣建立電影或新增動畫的能力。
@@ -329,13 +356,6 @@ Movavi Photo Editor
 
 ## 常見問題集
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 最好的 Windows 相片檢視器是什麼？
 
 以下是 Windows PC 最好的相片檢視器：
@@ -346,13 +366,6 @@ Movavi Photo Editor
 * XnView
 * Nomacs
 * Google Photos
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 那一個是用於觀賞照片的最佳軟體?
 
@@ -405,13 +418,6 @@ Movavi Photo Editor
 
 ![有問題嗎?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 有問題嗎?
 
 若找不到問題的答案，請隨時與支援團隊聯繫。
@@ -429,10 +435,10 @@ Movavi Photo Editor
 ![](https://cdn.staticont.net/large/0023/57/cf8906a2f1d2d8afde4fca802515cea44f819eb7.jpg)![](https://cdn.staticont.net/large/0023/57/a26cd736bdba4b196180fd96537ae9b75b6253ba.jpg)![](https://cdn.staticont.net/large/0023/57/c2e7dff79a124e18600d55aec01616cde09d6c5b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 超過 150萬位用戶已訂閱我們的電子報
@@ -458,24 +464,19 @@ Movavi Photo Editor
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-3d-worlds-on-your-android-mastering-vr-and-360-videos/"><u>[Updated] 3D Worlds on Your Android Mastering VR & 360 Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unable-to-see-video-sony-a6400-troubleshoot-guide/"><u>[Updated] Unable To See Video Sony A6400 Troubleshoot Guide</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/1-itunes-m4a-movavi/"><u>1. 無料で簡単なiTunes M4A音楽ファイル変換 - Movavi</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-on-iphone-14-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock on iPhone 14</u></a></li>
-<li><a href="https://win-able.techidaily.com/banishing-the-error-effective-fixes-for-continuous-crashes-of-ready-or-not-on-desktops-and-laptops/"><u>Banishing the Error: Effective Fixes for Continuous Crashes of 'Ready or Not' On Desktops and Laptops</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/cost-free-file-format-change-online-effortless-switch-from-flv-to-aiff-via-movavis-service/"><u>Cost-Free File Format Change Online: Effortless Switch From FLV to AIFF via Movavi's Service</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/free-online-converter-change-mkv-files-to-vob-format-with-ease/"><u>Free Online Converter: Change MKV Files to VOB Format with Ease</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/gratis-movavi-video-versterker-geknipt-om-videomaterial-te-converteren/"><u>Gratis Movavi Video Versterker - Geknipt Om Videomaterial Te Converteren</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/gratuito-y-sin-esfuerzo-como-convertir-archivos-vob-a-mov-con-convertidor-de-cine-online/"><u>Gratuito Y Sin Esfuerzo: Cómo Convertir Archivos VOB a MOV Con Convertidor De Cine Online</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723212250313-how-to-fix-a-computer-that-wont-start-solutions-worked/"><u>How to Fix a Computer That Won't Start - Solutions Worked!</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-live-stream-over-the-network-with-vlc-media-player-for-2024/"><u>How to Live Stream Over the Network with VLC Media Player for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Infinix Hot 40 Pro? | Dr.fone</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/movavi-video-converter-simple-swift-and-free-online-swf-tool/"><u>Movavi Video Converter: Simple, Swift and FREE Online SWF Tool</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/mp3-a-wav-converte-gratuitamente-con-leditor-di-movavi/"><u>MP3 a WAV: Converte Gratuitamente Con L'editor Di Movavi</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/online-wma-mp4-mov-wma/"><u>Online 무료 WMA 파일을 MP4로 전환하는 방법 - MOV WMA 변환기</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/pokial-zlepsit-zvukovitu-spolocenstvo-pretoze-sa-su-top-5-nastrojov-pre-videa-online-a-offline/"><u>Pokiaľ Zlepšiť Zvukovitu Spoločenstvo, Pretože Sa Sú Top 5 Nástrojov Pre Videa Online a Offline</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-xiaomi-14-by-drfone-android/"><u>Top 10 Password Cracking Tools For Xiaomi 14</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-samsung-galaxy-f14-5g-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Samsung Galaxy F14 5G Device</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-samsung-galaxy-a14-4g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Samsung Galaxy A14 4G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/iphoneandroid5/"><u>「🔁魅力的な動画を一発で手早く作成！ iPhone/Android用の逆再生アプリトップ5」</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/1725290178504-dvd-mp4/"><u>轉換 DVD 到 MP4: 提升電影及影片品質的最佳軟件選擇</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-closer-inspect-of-the-stunning-dell-p2715q-monitors-capabilities/"><u>A Closer Inspect of the Stunning Dell P2715Q Monitor's Capabilities</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/beschleunigen-sie-die-verschlusselung-von-hevch265-effiziente-methoden-zum-schneller-entwickeln/"><u>Beschleunigen Sie Die Verschlüsselung Von HEVC/H.265 - Effiziente Methoden Zum Schneller Entwickeln</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-from-iphone-11-pro-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock From iPhone 11 Pro - 4 Easy Ways</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/download-the-ultimate-no-cost-dvd-maker-for-windows-winx-author-edition/"><u>Download the Ultimate No-Cost DVD Maker for Windows, WinX Author Edition</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/expert-dvd-to-video-converter-by-digiarty-tailored-for-seamless-media-format-changes/"><u>Expert DVD-to-Video Converter by Digiarty - Tailored for Seamless Media Format Changes</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-vivo-x90s-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Vivo X90S to Another | Dr.fone</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/step-by-step-guide-on-windows-dvd-creation-software-convert-edit-and-enjoy-your-videos/"><u>Step-by-Step Guide on Windows DVD Creation Software: Convert, Edit, & Enjoy Your Videos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-4-must-have-mobile-apps-for-diy-home-painters/"><u>Top 4 Must-Have Mobile Apps for DIY Home Painters</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723012100302-troubleshooting-dark-mode-display-glitches-in-cod-wwii-game-on-windows-systems-fix-now/"><u>Troubleshooting Dark Mode Display Glitches in COD: WWII Game on Windows Systems – Fix Now!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlock-the-secrets-of-slow-motion-expert-advice-using-photo-apps-and-websites/"><u>Unlock the Secrets of Slow Motion Expert Advice Using Photo Apps & Websites</u></a></li>
+<li><a href="https://extra-information.techidaily.com/windows-movie-maker-6-a-download-primer/"><u>Windows Movie Maker 6 A Download Primer</u></a></li>
 </ul></div>
 
