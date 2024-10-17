@@ -1,7 +1,7 @@
 ---
 title: "Comment Remettre en État Un Disque Dur Extérieur Endommagé : Une Méthode Étape Par Étape"
-date: 2024-10-07T17:34:42.910Z
-updated: 2024-10-11T20:44:55.722Z
+date: 2024-10-15T20:03:44.963Z
+updated: 2024-10-17T18:42:22.601Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/7893aa47861abae86c2201349f48204a58f66be5a4db0cfc4bb799b623cb07e4.jpg
@@ -50,17 +50,10 @@ Incontrare il problema di non poter digitare nella barra di ricerca di Windows 1
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
@@ -80,15 +73,22 @@ La corruzione dei file di sistema può influenzare la funzionalità della barra 
 Alcune applicazioni di terze parti o conflitti software potrebbero interferire con il corretto funzionamento della barra di ricerca.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Soluzioni: Ripristinare la Funzionalità della Barra di Ricerca di Windows 10
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
@@ -109,10 +109,10 @@ Passo 4\. Prova a Digitare nella Barra di Ricerca:
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
@@ -211,6 +211,13 @@ Passo 4\. Avvia il Backup:
 
 Clicca su "Avvia Backup" per creare un backup completo del tuo sistema Windows 10.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Domande Frequenti su Impossibilità di Digitare nella Barra di Ricerca su Windows 10
 
 #1: Perché la mia barra di ricerca di Windows 10 non risponde alla digitazione?
@@ -232,19 +239,6 @@ Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e corre
 Utilizza strumenti di risoluzione dei problemi come AOMEI Backupper per affrontare prontamente i problemi.
 
 Monitora i servizi di sistema come Cortana e Ricerca di Windows per un funzionamento ottimale.
-
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusione
 
@@ -268,6 +262,13 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Scarica Gratis AOMEI Backupper Ora
 
 Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione.
@@ -275,13 +276,6 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 [**Scarica Gratuito**  Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/) 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
@@ -300,19 +294,18 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/corrective-modifications-added-missing-amd-driver-to-pcs/"><u>[CORRECTIVE MODIFICATIONS] Added Missing AMD Driver to PCs</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/1716483956496-new-how-to-join-someones-live-on-tiktok-as-a-guest-for-2024/"><u>[New] How to Join Someone’s Live on TikTok as a Guest for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-a-beginners-path-to-compiling-a-youtube-playlist/"><u>2024 Approved A Beginner's Path to Compiling a YouTube Playlist</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/1725286043731-pc/"><u>前十個最好的PC影片編碼程式：完美切換列表</u></a></li>
-<li><a href="https://article-tips.techidaily.com/benq-sw320-monitor-review-a-leap-into-4k-territory/"><u>BenQ SW320 Monitor Review A Leap Into 4K Territory</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/dvd-winx-dvd-copy-iso/"><u>DVD 복사를 위해 WinX DVD Copy를 사용하여 ISO 파일을 생성하는 방법</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-guide-to-premium-podcasting-top-mic-picks/"><u>In 2024, Guide to Premium Podcasting Top Mic Picks</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-masterful-iphone-videography-top-8-expert-filmmaking-advice/"><u>In 2024, Masterful iPhone Videography Top 8 Expert Filmmaking Advice</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-swiftstrike-timetape-recording/"><u>In 2024, SwiftStrike TimeTape Recording</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/microsoft-sculpt-ergo-keyboard-easy-driver-software-enhancements/"><u>Microsoft Sculpt Ergo Keyboard: Easy Driver Software Enhancements</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/official-winx-dvd-ripper-platinum-speedy-rip-from-dvd-to-premium-mp4hevc-format-within-half-an-hour/"><u>Official WinX DVD Ripper Platinum - Speedy Rip From DVD to Premium MP4/HEVC Format Within Half an Hour</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/resolving-compatibility-challenges-transitioning-from-windows-78-to-windows-11/"><u>Resolving Compatibility Challenges: Transitioning From Windows 7/8 to Windows 11</u></a></li>
-<li><a href="https://win-forum.techidaily.com/unlocking-full-control-running-software-with-admin-privileges-in-windows-11-without-hesitation/"><u>Unlocking Full Control: Running Software with Admin Privileges in Windows 11 Without Hesitation</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/1725289081324-winxvideo-ai/"><u>WinXVideo AI 기술 계면의 최고: 지속적인 발전 이야기</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/reating-impressive-video-tracks-with-a-newbie-mac-user-for-2024/"><u>[New] Creating Impressive Video Tracks with a Newbie Mac User for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-vives-motion-induced-woes-here-are-fixes-for-2024/"><u>[New] Vive's Motion-Induced Woes? Here Are Fixes for 2024</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/6-effective-fixes-for-a-stagnant-windows-11-system-recovery-process-overcoming-issues-with-progress-stuck-at-1-34-64-or-99/"><u>6 Effective Fixes for a Stagnant Windows 11 System Recovery Process: Overcoming Issues with Progress Stuck at 1%, 34%, 64%, or 99%</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/comment-recuperer-des-fichiers-perdus-apres-une-reinstallation-de-windows-10-ou-11-guide-complet/"><u>Comment Récupérer Des Fichiers Perdus Après Une Réinstallation De Windows 10 Ou 11 - Guide Complet</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/complete-tutorial-on-establishing-an-apple-account-and-relocating-data-seamlessly/"><u>Complete Tutorial on Establishing an Apple Account & Relocating Data Seamlessly</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/effortless-file-transfer-from-mac-to-external-storage-discover-three-free-solutions/"><u>Effortless File Transfer From Mac to External Storage: Discover Three FREE Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-remedies-for-win32-app-crashing-problem-error-code-0x80070652/"><u>Effortless Remedies for Win32 App Crashing Problem (Error Code: 0X80070652)</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/guide-transferring-mailbox-data-from-restored-edb-files-to-active-exchange-servers-via-video-tutorial/"><u>Guide: Transferring Mailbox Data From Restored EDB Files to Active Exchange Servers via Video Tutorial</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862706379-save-big-this-memorial-day-with-the-2024-asus-tuf-gaming-a15-laptop-now-for-a-steal-at-658/"><u>Save Big This Memorial Day with the 2024 Asus TUF Gaming A15 Laptop Now for a Steal at $658!</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/speedy-hard-drive-copying-on-windows-1110-a-simple-4-step-process-unveiled/"><u>Speedy Hard Drive Copying on Windows 11/10 - A Simple 4-Step Process Unveiled!</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/strategie-efficaci-per-ripristinare-dati-perduti-in-excel-riparazione-e-ricostruzione-di-tabelle-cancellate/"><u>Strategie Efficaci Per Ripristinare Dati Perduti In Excel: Riparazione E Ricostruzione Di Tabelle Cancellate</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-vivo-y02t-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Vivo Y02T Phone Password Without Factory Reset Full Guide Here</u></a></li>
 </ul></div>
 
