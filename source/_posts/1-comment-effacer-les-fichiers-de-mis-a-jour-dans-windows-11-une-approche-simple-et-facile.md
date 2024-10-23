@@ -1,7 +1,7 @@
 ---
 title: "1. Comment Effacer Les Fichiers De Mis À Jour Dans Windows 11 : Une Approche Simple Et Facile"
-date: 2024-10-13T18:23:13.480Z
-updated: 2024-10-17T20:55:36.396Z
+date: 2024-10-19T15:30:26.210Z
+updated: 2024-10-22T20:37:52.010Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/6ef16648595e97873cff52eb597372e60de93b0601596509e90390a2a00c63c2.jpg
@@ -36,10 +36,10 @@ Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-a
 4. [Dernières réflexions sur l'utilitaire de sauvegarde Buffalo](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo pour système Windows
@@ -68,15 +68,22 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
@@ -95,23 +102,9 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
@@ -125,6 +118,13 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
 
 Et la sauvegarde incrémentielle nécessite une récupération plus complexe tandis que la sauvegarde différentielle est beaucoup plus facile. Pour connaître les différences entre elles, consultez « [Sauvegarde incrémentielle ou différentielle](https://tools.techidaily.com/ubackup/products/) ».
@@ -132,6 +132,19 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -182,20 +195,13 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -212,18 +218,24 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-creative-video-editing-for-fb-techniques-of-lc-and-bb-overlay/"><u>[New] 2024 Approved Creative Video Editing for FB Techniques of LC and BB Overlay</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-youtubes-high-stakes-hardware-showdown/"><u>[New] In 2024, YouTube’s High-Stakes Hardware Showdown</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/1-pc-startup-issues-in-2er-gelusted-troubleshooting-non-bootable-systems/"><u>1. 'PC Startup Issues in 2Er Gelüsted: Troubleshooting Non-Bootable Systems'</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/effective-techniques-to-revive-your-laptops-operating-system/"><u>Effective Techniques to Revive Your Laptop's Operating System</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/exploring-superior-backup-options-for-windows-11-the-alternatives-to-bacula/"><u>Exploring Superior Backup Options for Windows 11 - The Alternatives to Bacula</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-vivo-y27-5g-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Vivo Y27 5G? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/la-meilleure-solution-pour-la-recuperation-de-donnees-dunite-disquette-lalternative-a-photorec/"><u>La Meilleure Solution Pour La Récupération De Données D’Unité Disquette : L'Alternative À PhotoRec</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-navigating-audacity-setup-on-chrome-os-devices-for-beginners-for-2024/"><u>New Navigating Audacity Setup on Chrome OS Devices for Beginners for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/setting-up-custom-finder-preferences-for-organizing-your-folders/"><u>Setting Up Custom Finder Preferences for Organizing Your Folders</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/totan-banerjee-author-at-stellar-data-recovery-article-en/"><u>Totan Banerjee, Author at Stellar Data Recovery Article - En</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/1728488300208-youtube/"><u>YouTubeで消えた昔の動画を見つけて再生するチートシーク！</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/44oe44kk44od44k44o85zcr44gr5yuv55s75yws6zal5pmc44cb6zplusz5aow44ks54sh5yq55yyw44gz44kl5oml6acg/"><u>ツイッター向け動画公開時、音声を無効化する手順</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-disabling-youtubes-quick-video-peek-feature-for-2024/"><u>[New] Disabling YouTube's Quick Video Peek Feature for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-selection-of-tools-for-image-to-video-conversion/"><u>[New] Expert Selection of Tools for Image-to-Video Conversion</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-hot-topic-in-photos-memes-and-their-origin-tales/"><u>[New] Hot Topic in Photos Memes & Their Origin Tales</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-mastering-the-mechanics-of-zoom-techniques-for-top-notch-podcast-recordings/"><u>[New] In 2024, Mastering the Mechanics of Zoom Techniques for Top-Notch Podcast Recordings</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-sketch-it-right-top-8-proficient-drawing-apps-for-iphone-users/"><u>[New] In 2024, Sketch It Right Top 8 Proficient Drawing Apps for iPhone Users</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-building-buzz-strategies-for-shaping-your-unique-youtubing-image/"><u>2024 Approved Building Buzz Strategies for Shaping Your Unique YouTubing Image</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/5-fases-esenciales-para-clonar-un-disco-nvme-m2-en-sistemas-operativos-de-windows-11-10-8-n7/"><u>5 Fases Esenciales Para Clonar Un Disco NVMe M.2 En Sistemas Operativos De Windows (11, 10, 8, N7)</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/detaillierte-ubersicht-und-anleitung-zu-atlas-os-fur-windows-11/"><u>Detaillierte Übersicht Und Anleitung Zu Atlas OS Für Windows 11</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/effortless-transfer-top-techniques-for-upgrading-from-hdd-to-ssd-in-windows-11/"><u>Effortless Transfer: Top Techniques for Upgrading From HDD to SSD in Windows 11</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/essential-mssql-backup-strategies-in-sql-server-versions-a-guide-to-2012-2017-and-2019-solutions/"><u>Essential MSSQL Backup Strategies in SQL Server Versions: A Guide to 2012, 2017, and 2019 Solutions</u></a></li>
+<li><a href="https://facebook.techidaily.com/peaceful-disconnect-ending-social-media-ties/"><u>Peaceful Disconnect: Ending Social Media Ties</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/seamless-facebook-live-experience-combat-interruptions/"><u>Seamless Facebook Live Experience Combat Interruptions</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/seamless-transition-shifting-data-between-windows-10-and-windows-11-using-these-4-techniques/"><u>Seamless Transition: Shifting Data Between Windows 10 & Windows 11 Using These 4 Techniques</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/securely-transfer-your-windows-10-system-by-cloning-c-drive-onto-an-ssd/"><u>Securely Transfer Your Windows 10 System by Cloning C Drive Onto an SSD</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/sincronizar-backup-de-archivos-automatizados-con-onedrive/"><u>Sincronizar Backup De Archivos Automatizados Con OneDrive</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/streamlined-techniques-for-downloading-and-saving-gmail-messages-offline/"><u>Streamlined Techniques for Downloading & Saving Gmail Messages Offline</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-key-differences-between-auto-gpt-and-chatgpt-explained-in-detail/"><u>The Key Differences Between Auto-GPT and ChatGPT Explained in Detail</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-8-tools-to-disguise-facial-features-online/"><u>Top 8 Tools to Disguise Facial Features Online</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/anayasha-paratacalisa-blmaca-vabhajanalta-aamaha-vakalpaka/"><u>अनायाश प्रात्चाळूस बोल्मीचे विभाजनालेटे? आम्ही वैकल्पिक!</u></a></li>
 </ul></div>
 
