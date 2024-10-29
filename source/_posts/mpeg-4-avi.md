@@ -1,7 +1,7 @@
 ---
 title: 솜씨 Mpeg-4를 AVI로 바꾸기 - 오페스 무료 대상 사이트에서 사용자가 쉽게 구현할 수 있는 방법
-date: 2024-10-13T19:11:56.122Z
-updated: 2024-10-17T19:08:23.529Z
+date: 2024-10-23T21:45:34.064Z
+updated: 2024-10-29T01:56:35.949Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/75040013d17be0726faccbc397c3b3541c1732db61566ed595168e5f4f1378d7.jpg
@@ -166,6 +166,13 @@ Un facteur clé qui peut ralentir votre expérience de jeu est l'utilisation d'u
 
 ![](https://cdn.staticont.net/pages/0013/24/1698d2ec33be3cf4f4bedd243e199c87dbd8ac34.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Si votre jeu commence à ralentir et que l'image est saccadée, surtout lorsqu'elle bouge, c'est que votre taux d'images par seconde (IPS) est faible. Cela se produit lorsque le matériel de votre ordinateur a du mal à faire fonctionner votre jeu ou fait des heures supplémentaires. S'il travaille trop, la vitesse du jeu ralentit.
 
 La carte graphique travaille pour rendre les images fixes, ou frames, pendant que vous jouez à un jeu. Elle travaille en collaboration avec d'autres composants matériels tels que la RAM, le CPU et le GPU pour créer une expérience de jeu complète. En cas d'arrêt de l'un de ces composants, votre FPS commencera à baisser. La plupart des joueurs préfèrent un taux de 60 FPS en jouant, mais la plupart des jeux sont en fait très bien à 30 FPS.
@@ -236,23 +243,9 @@ Dans le menu qui s'ouvre, cliquez sur **Mode Jeu**. Passez à **On** pour active
 
 Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows Creators Update n'est pas installée sur votre PC.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Gérez vos heures actives
 
 ![](https://cdn.staticont.net/pages/0012/47/719892cfb3ccc9e05c269dd850ef3c6c37589035.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Oui, Windows 10 peut installer des mises à jour et redémarrer votre ordinateur en plein milieu de votre session de jeu sans même un simple "excusez-moi". Ouch. Cela peut être décevant, c'est le moins que l'on puisse dire, surtout si vous êtes un joueur compétitif et que votre sortie non planifiée peut affecter vos coéquipiers ou votre classement.
 
@@ -284,6 +277,13 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 
 ![](https://cdn.staticont.net/default/0012/47/297019451ab2d6ffba248c33b083ec10c2390f59.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Le problème ici est le même qu'avec Windows Mises à jour. Steam met automatiquement à jour tous vos jeux, même ceux auxquels vous n'avez pas joué depuis longtemps. Les mises à jour en arrière-plan consomment la mémoire de votre PC et peuvent ralentir les processus de jeu.
 
 Pour empêcher Steam de mettre à jour les jeux pendant que vous jouez, allez dans votre client Steam et trouvez les options de mise à jour dans **Steam** \- **Paramètres** \- **Téléchargements**. Décochez la case **Autoriser les téléchargements pendant le jeu**.
@@ -301,6 +301,13 @@ Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent n
 3. Lorsque la nouvelle fenêtre s'ouvre, mettez le commutateur à bascule situé à côté de l'option **Obtenir des notifications d'applications et d'autres expéditeurs** sur **Désactivé**. Vos notifications sont maintenant désactivées.
 4. Vous pouvez également faire défiler la liste et désactiver les notifications par application.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Régler le panneau de contrôle NVIDIA
 
 Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiques à la carte dans le panneau de configuration. Voici quelques-uns des meilleurs paramètres Windows 10 pour les cartes NVIDIA pour les jeux.
@@ -311,6 +318,13 @@ Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiq
 4. Mode faible latence : Activez-le.
 5. Mode de gestion de l'énergie : Passez à **Préférer les performances maximales**.
 6. Optimisation Threaded : Passez à **Auto**.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Régler le centre de contrôle AMD/ATI
 
@@ -323,13 +337,6 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 ### Réduire la résolution dans un jeu
 
 Cette solution entre facilement dans la catégorie des "solutions rapides". Parfois, votre système ne peut tout simplement pas gérer un jeu, et vous n'avez pas le temps de chercher des solutions à plus long terme. Allez dans les paramètres système du jeu et réduisez la résolution d'un niveau. Surveillez ensuite votre FPS jusqu'à ce que les choses s'améliorent.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Désactiver l'accélération de la souris
 
@@ -346,19 +353,6 @@ Comment améliorer les performances de jeu sur Windows 10 (corrections avancées
 ![](https://cdn.staticont.net/pages/0013/24/72b5f58442a79243cce53c3224e26755b436a620.webp)
 
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
-
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Optez pour un SSD
 
@@ -377,13 +371,6 @@ Mettez à niveau votre GPU et votre CPU environ tous les quatre ans pour que tou
 Le choix de la première mise à niveau dépend des types de jeux auxquels vous jouez. Si vous n'avez pas besoin de graphismes extrêmes et jouez à des jeux plus rapides, le processeur est le meilleur choix. Mais si vous aimez les histoires numériques ou les jeux basés sur le monde avec beaucoup de personnages et d'arrière-plans non jouables, un GPU pourrait vous être plus utile.
 
 Quoi qu'il en soit, assurez-vous que l'équilibre des performances entre les deux est délicat, car l'un ne fonctionne pas sans l'autre. Vérifiez la mémoire et la bande passante de toute mise à niveau potentielle.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Mettez votre RAM à niveau
 
@@ -461,22 +448,16 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 3. Réglez les paramètres de vos ventilateurs pour qu'ils ne soient pas trop sollicités.
 4. Si vous le pouvez, jouez sur votre ordinateur portable dans un environnement frais.
 
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Mettez à niveau votre GPU et votre RAM
 
 Nous avons déjà abordé ce sujet pour les PC, mais votre ordinateur portable peut également être équipé d'un processeur graphique et d'une mémoire vive. Suivez les mêmes protocoles, et si vous n'avez pas l'habitude de travailler avec des ordinateurs portables, il est préférable de confier l'installation à un technicien expérimenté.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 
 
@@ -514,10 +495,10 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 Foire aux questions 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Comment optimiser mon ordinateur pour les jeux ?
@@ -528,6 +509,13 @@ L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour
 * Modifiez les paramètres de votre carte graphique
 * Mettez à niveau votre GPU et/ou votre CPU
 * Vérifiez les paramètres de performance de votre Windows.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Qu'est-ce qui ralentit mon ordinateur ?
 
@@ -550,10 +538,10 @@ Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, vo
 5. Installez de la RAM supplémentaire
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Windows 10 est-il meilleur pour les jeux ?
@@ -613,18 +601,22 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-online-workshop-replay/"><u>[New] 2024 Approved Online Workshop Replay</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-time-saving-hacks-for-recording-instagram-stories/"><u>[New] 2024 Approved Time-Saving Hacks for Recording Instagram Stories</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-the-video-vault-mastering-the-art-of-live-video-storage/"><u>[New] The Video Vault Mastering the Art of Live Video Storage</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-the-eraser-guru-expert-tips-for-psx-users/"><u>[Updated] The Eraser Guru Expert Tips for PSX Users</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-nokia-g22-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Nokia G22? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/1728490155290-uefigptssd/"><u>如何使用UEFI进行GPT磁盘的SSD备份与可引导性转移</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/aomei-sql-backupper-review-comprehensive-analysis-and-insights/"><u>AOMEI SQL Backupper Review - Comprehensive Analysis and Insights</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/gugusan-paket-lunak-free-proses-mengembalikan-data-dari-kartu-sd-yang-hilang/"><u>Gugusan Paket Lunak Free - Proses Mengembalikan Data Dari Kartu SD Yang Hilang</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/mastering-rest-mode-in-windows-11-a-comprehensive-instructional-tutorial/"><u>Mastering Rest Mode in Windows 11: A Comprehensive Instructional Tutorial</u></a></li>
-<li><a href="https://techtrends.techidaily.com/revive-your-internet-connection-a-mac-users-walkthrough-to-flush-dns-cache/"><u>Revive Your Internet Connection: A Mac User's Walkthrough to Flush DNS Cache</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/1728475475305-sd/"><u>SDカードフォーマット手順とそのメリット: 緻密なガイドとデータ回復戦略</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/techniques-efficaces-pour-transferer-et-proteger-vos-donnees-du-nas-synology-vers-un-support-usb-avec-windows/"><u>Techniques Efficaces Pour Transférer Et Protéger Vos Données Du NAS Synology Vers Un Support USB Avec Windows</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transform-your-gameplay-get-asus-rog-strix-scope-ii-gaming-keyboard-at-only-69/"><u>Transform Your Gameplay: Get ASUS ROG Strix Scope II Gaming Keyboard at Only $69</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-enigmatic-functionality-of-the-blue-indicator-in-fb-messaging-for-2024/"><u>[New] The Enigmatic Functionality of the Blue Indicator in FB Messaging for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-three-secure-approaches-for-youtube-to-mp3-file-conversion/"><u>2024 Approved Three Secure Approaches for YouTube-to-MP3 File Conversion</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/5-losungen-wie-sie-beschadigte-und-nicht-lesbare-ordner-reparieren-konnen/"><u>5 Lösungen: Wie Sie Beschädigte Und Nicht Lesbare Ordner Reparieren Können</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/sdwindows-111087/"><u>创建SD卡映像：绕过Windows 11、10、8和7的限制</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comprehensive-breakdown-how-gpt4all-works/"><u>Comprehensive Breakdown: How GPT4All Works</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/computer-reader-component-lost-on-windows-11-update-fixed-version-available/"><u>Computer Reader Component Lost on Windows 11 Update: Fixed Version Available</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-infinix-hot-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Infinix Hot 40? | Dr.fone</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/how-to-remove-old-backups-and-create-fresh-ones-on-windows-10/"><u>How to Remove Old Backups and Create Fresh Ones on Windows 10</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/navigating-through-mixed-reality-an-overview/"><u>Navigating Through Mixed Reality An Overview</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/section-3a-next-concept-bylaws-and-corporate-governance/"><u>Section 3A: Next Concept - Bylaws and Corporate Governance</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Vivo Y78 5G? | Dr.fone</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/strategies-essentielles-pour-demeler-les-systemes-32-et-64-bits/"><u>Stratégies Essentielles Pour Démêler Les Systèmes 32 Et 64 Bits</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/strategies-to-avoid-noise-in-video-after-output/"><u>Strategies to Avoid Noise In Video After Output</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-reduce-cpu-and-ram-overuse-from-unrealcefsubprocess-on-pcs/"><u>Strategies to Reduce CPU and RAM Overuse From UnrealCEFSubprocess on PCs</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/superior-kostennlose-datensicherung-und-wiederherstellung-fur-alle-systeme-aomei-backupper-lizenzfrei/"><u>Superior Kostennlose Datensicherung Und -Wiederherstellung Für Alle Systeme: AOMEI BackUpper Lizenzfrei</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/wiederherstellung-von-daten-auf-der-festplatte-ihres-hp-laptops-mit-myrecover/"><u>Wiederherstellung Von Daten Auf Der Festplatte Ihres HP Laptops Mit MyRecover</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Guida Passo-Passo Alla Crea Di Un'Immagine Del Sistema Windows Server 2008
-date: 2024-10-12T16:53:37.771Z
-updated: 2024-10-17T20:00:14.153Z
+date: 2024-10-25T21:25:27.313Z
+updated: 2024-10-29T05:41:04.052Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/28fd18825089fcdfad3c1b773e77abf9c25cebff2298e0b3f81d6c7fbae3c79e.jpg
@@ -50,18 +50,18 @@ Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-arti
 | **Pros**      | **✔** Established reputation **✔** Powerful imaging and cloning **✔** Support for RAID arrays                                                                                                                                                                                    | **✔** User-friendly interface **✔** Active development **✔** Comprehensive backup and clone solutions                                                                                                                                                                                         |
 | **Cons**      | **✖** Discontinued **✖** Complex interface **✖** Compatibility issues                                                                                                                                                                                                            | **✖** Advanced features locked in the free version                                                                                                                                                                                                                                            |
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## About Norton Ghost
 
 Norton Ghost is one **disk imaging and cloning tool** that firstly developed in the 1990s. It can help you make backup images of the whole hard disk, selected partitions or only those files that mean the most to you. When something goes wrong, Norton Ghost can [restore your computer to previous functional status](https://tools.techidaily.com/ubackup/products/). Besides, it can also help you clone one hard drive to another hard drive.
 
 In a word, if you want to make an image back for your computer or want to clone to the new hard drive, Norton Ghost is not a bad choice. However, now Norton Ghost is **no longer available for the Home user**. It was **discontinued by Symantec in 2013**. Indeed you can still download the latest version - Norton Ghost 15, but it only offers a 30-day free trial and then you need to pay for it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Use Norton Ghost 15 Step by Step
 
@@ -76,10 +76,10 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 [![Create Backup](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/create-backup.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3\. The **Easy Setup** screen will appear.
@@ -89,14 +89,14 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 
 [![Click Custom](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/click-custom.png)
 
-4\. Finally, click **OK** to confirm.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+4\. Finally, click **OK** to confirm.
 
 ### Restore Image with Norton Ghost
 
@@ -118,20 +118,14 @@ On **Recover My Computer** screen, find and choose the right system restore poin
 
 [![Recover My Computer](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/recover-now.png)
 
-👉 **Note:** If your computer cannot run Windows normally, you can use the Symantec Recovery Disk CD to help you boot your computer. Depending on which version of the product you have purchased, Symantec Recovery Disk is either included on your product CD or as a separate CD. If you don't have a floppy drive, you can create a [Norton Ghost Bootable USB](https://tools.techidaily.com/ubackup/products/) instead.
-
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+👉 **Note:** If your computer cannot run Windows normally, you can use the Symantec Recovery Disk CD to help you boot your computer. Depending on which version of the product you have purchased, Symantec Recovery Disk is either included on your product CD or as a separate CD. If you don't have a floppy drive, you can create a [Norton Ghost Bootable USB](https://tools.techidaily.com/ubackup/products/) instead.
 
 ### Clone Disk with Norton Ghost
 
@@ -185,24 +179,18 @@ Select the corresponding backup methods if you want to backup system, partition 
 * In case your computer cannot start normally, you can **[create a bootable media](https://tools.techidaily.com/ubackup/products/)** using CD/DVD or USB flash drive in advance to help boot your computer. When your computer goes wrong, you can boot the computer using the bootable media and perform a system restore to get everything back to normal.
 * If you want to [upgrade Windows 10 to Windows 11](https://tools.techidaily.com/ubackup/products/) without losing files, this software is very useful. It backs up everything you want, either in the system partition or entire disk, and you can use it to restore files or system as needed.
 
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Restore Disk & Files
 
 If you have created a backup with AOMEI Backupper, you can easily perform a restore anytime you want. You can choose to [restore hard disk drive](https://tools.techidaily.com/ubackup/products/), the system, partition or files/folders to the point you ever made a backup.
 
 [![Restore](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/restore/disk-restore/home-restore.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 👉 **Notes:** 
 
@@ -212,10 +200,10 @@ If you have created a backup with AOMEI Backupper, you can easily perform a rest
 [![Disk Image Explore Home](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/explore-image/home-explore-image-disk.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Clone Hard Drive
@@ -224,17 +212,17 @@ You can directly clone hard drive to another one with the **[Disk Clone](https:/
 
 [![Clone](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/main-interface/clone.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 👉 **Notes:** 
 
 * The free version of AOMEI Backupper only supports cloning a data disk. To clone a disk with OS installed, you can [upgrade](https://tools.techidaily.com/ubackup/products/) to higher versions to enjoy it.
 * The [System Clone](https://tools.techidaily.com/ubackup/products/) feature can help you only clone system to new hard drive, which uses less disk space than disk clone. Also, it requires a higher version.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -243,6 +231,13 @@ That’s all for how to use Norton Ghost 15\. Indeed Norton Ghost is a good tool
 For backup and restore features, you have 4 corresponding options plus two premium features - Universal Restore and Explore Image. It helps to perform dissimilar hardware restore for system or disk and restore files from other backup types, such as, system, disk, or partition. 
 
 For the clone feature, you have two free options plus System Clone. So you can copy boot drive to another one successfully, even to smaller drive. And it is able to accelerate the reading and writing speed of the target disk if it is an SSD. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQs about Norton Ghost
 
@@ -273,19 +268,6 @@ Was the provided information useful? Your vote is important to us!
 [Lena](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Lena is an editor of FoneTool, she covers backup & restore, and phone data management and so on. She enjoys helping people find solutions to their problems. She loves traveling, eating, reading and so on. She takes most of time with her family when she is not working.
-
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Related Articles
 
@@ -332,24 +314,16 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-comprehensive-analysis-dji-inspire-1-unveiled/"><u>[Updated] 2024 Approved Comprehensive Analysis DJI Inspire 1 Unveiled</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-from-live-stream-to-high-fidelity-choosing-budget-friendly-wav-tools/"><u>[Updated] From Live Stream to High Fidelity Choosing Budget-Friendly WAV Tools</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-quick-click-quest-the-art-of-facebook-id-reconnaissance/"><u>[Updated] In 2024, Quick Click Quest The Art of Facebook ID Reconnaissance</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-the-beginners-guide-to-weekly-virtual-office-hours-for-2024/"><u>[Updated] The Beginner's Guide to Weekly Virtual Office Hours for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-elite-camera-optics-for-cutting-edge-film-and-tv/"><u>2024 Approved Elite Camera Optics for Cutting-Edge Film & TV</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/5-astuces-simples-pour-reduire-et-organiser-le-folder-winsxs-sous-windows-10-and-7/"><u>5 Astuces Simples Pour Réduire Et Organiser Le Folder WinSxS Sous Windows 10 & 7</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-oppo-a58-4g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Oppo A58 4G Without Power Button | Dr.fone</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/1728505544763-windows-11/"><u>瞭解及改善 Windows 11 啟動期間持續輪轉的原因和方法</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/discover-the-leading-free-windows-7-data-protection-apps-for-both-32-and-64-bit-versions/"><u>Discover the Leading FREE Windows 7 Data Protection Apps for Both 32 and 64 Bit Versions</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/easy-tutorial-for-reverting-changes-with-a-system-restore-on-acer-computers-using-windows-versions/"><u>Easy Tutorial for Reverting Changes with a System Restore on Acer Computers Using Windows Versions</u></a></li>
-<li><a href="https://win-blog.techidaily.com/getting-to-the-root-of-startup-failures-in-pacific-drive-comprehensive-repair-guide/"><u>Getting to the Root of Startup Failures in Pacific Drive – Comprehensive Repair Guide</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/how-to-remove-a-desktop-discord-server/"><u>How to Remove a Desktop Discord Server</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/les-meilleurs-logiciels-de-mise-a-jour-libres-sur-windows-fiches-comparatives-pour-wid-synchronet-and-co/"><u>Les Meilleurs Logiciels De Mise À Jour Libres Sur Windows : Fiches Comparatives Pour Wid, SynchroNet & Co</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/limpieza-efectiva-del-historial-de-archivos-en-windows-10-pro-tecnicas-para-mantener-tu-sistema-actualizado/"><u>Limpieza Efectiva Del Historial De Archivos en Windows 10 Pro: Técnicas Para Mantener Tu Sistema Actualizado</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/plusieurs-facons-de-restaurer-windows-10-sans-point-de-restauration-which-means-several-ways-to-restore-windows-10-without-system-restore/"><u>Plusieurs Façons De Restaurer Windows 10 Sans Point De Restauration, Which Means Several Ways To Restore Windows 10 Without System Restore.</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/top-techniques-for-moving-texts-from-your-iphone-to-ipad-a-comprehensive-guide/"><u>Top Techniques for Moving Texts From Your iPhone to iPad: A Comprehensive Guide</u></a></li>
-<li><a href="https://article-posts.techidaily.com/unlock-hidden-potential-boost-productivity-essential-activities-during-podcast-sessions/"><u>Unlock Hidden Potential, Boost Productivity Essential Activities During Podcast Sessions</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/wie-du-deinen-ipad-pro-air-oder-mini-mit-diesen-3-methoden-zur-ursprunglichen-konfiguration-zuruckfuhrst/"><u>Wie Du Deinen iPad Pro, Air Oder Mini Mit Diesen 3 Methoden Zur Ursprünglichen Konfiguration Zurückführst</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/windows-100x807800c5/"><u>Windows 10のバックアップエラー0x807800C5 - 迅速な解決手順</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-urban-uprising-video-game-list-like-gta-v-for-2024/"><u>[Updated] Urban Uprising Video Game List Like GTA V for 2024</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/1-pc-startup-issues-in-2er-gelusted-troubleshooting-non-bootable-systems/"><u>1. 'PC Startup Issues in 2Er Gelüsted: Troubleshooting Non-Bootable Systems'</u></a></li>
+<li><a href="https://win-popular.techidaily.com/1728496675875-windows-1011/"><u>快速指南：無條件恢復Windows 10/11上刪掉的檔案方法</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-pictures-worth-a-thousand-dollars-online-top-photo-cloud-services-reviewed/"><u>A Picture's Worth a Thousand Dollars Online Top Photo Cloud Services Reviewed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-the-taylor-swift-film-experience-view-them-in-sequence/"><u>Complete the Taylor Swift Film Experience: View Them in Sequence</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/exploring-superior-backup-options-for-windows-11-the-alternatives-to-bacula/"><u>Exploring Superior Backup Options for Windows 11 - The Alternatives to Bacula</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On OnePlus Nord N30 SE? | Dr.fone</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/la-meilleure-solution-pour-la-recuperation-de-donnees-dunite-disquette-lalternative-a-photorec/"><u>La Meilleure Solution Pour La Récupération De Données D’Unité Disquette : L'Alternative À PhotoRec</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-converging-worlds-of-ai-and-imagination/"><u>The Converging Worlds of AI & Imagination</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/ultimate-guide-on-apple-iphone-6s-plus-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide on Apple iPhone 6s Plus iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/1728488300208-youtube/"><u>YouTubeで消えた昔の動画を見つけて再生するチートシーク！</u></a></li>
 </ul></div>
 
