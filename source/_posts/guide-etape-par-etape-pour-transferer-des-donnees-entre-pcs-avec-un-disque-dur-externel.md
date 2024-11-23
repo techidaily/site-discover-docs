@@ -1,7 +1,7 @@
 ---
 title: Guide Étape Par Étape Pour Transférer Des Données Entre PCs Avec Un Disque Dur Externel.
-date: 2024-11-11T22:11:08.811Z
-updated: 2024-11-13T00:29:41.461Z
+date: 2024-11-21T23:58:51.134Z
+updated: 2024-11-22T17:44:10.204Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/f6048b78b677a0065b7683b7780e2c91c1ef9e11def92a26e974e1428f77307f.jpg
@@ -24,6 +24,10 @@ Scopri passaggi efficaci per risolvere il problema "non riesco a digitare nella 
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Da[Aira](https://tools.techidaily.com/ubackup/products/)L'ultimo Aggiornamento 31.01.2024
 
 Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
@@ -44,10 +48,7 @@ Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 7. [Conclusione](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Introduzione
@@ -73,10 +74,7 @@ La corruzione dei file di sistema può influenzare la funzionalità della barra 
 Alcune applicazioni di terze parti o conflitti software potrebbero interferire con il corretto funzionamento della barra di ricerca.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Soluzioni: Ripristinare la Funzionalità della Barra di Ricerca di Windows 10
@@ -100,13 +98,6 @@ Fai clic con il tasto destro su entrambi Cortana ed Esplora file di Windows e sc
 Passo 4\. Prova a Digitare nella Barra di Ricerca:
 
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
 
@@ -158,19 +149,6 @@ Passo 3\. Installa gli Aggiornamenti:
 
 Se sono disponibili degli aggiornamenti, installali e riavvia il computer per verificare se l'errore di non poter digitare nella barra di ricerca di Windows 10 è stato risolto.
 
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Soluzione 5: Crea un Nuovo Account Utente
 
 Passo 1\. Apri Impostazioni:
@@ -196,13 +174,6 @@ Esci dal tuo account attuale e accedi al nuovo account utente appena creato.
 Passo 6\. Testa la Barra di Ricerca:
 
 Nel nuovo account utente, testa la funzionalità della barra di ricerca. Se funziona, suggerisce che il problema potrebbe essere specifico del tuo account utente originale.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Utilizza AOMEI Backupper per la Protezione del Sistema su Windows 10
 
@@ -246,6 +217,10 @@ Utilizza strumenti di risoluzione dei problemi come AOMEI Backupper per affronta
 
 Monitora i servizi di sistema come Cortana e Ricerca di Windows per un funzionamento ottimale.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusione
 
 In conclusione, risolvere la sfida di non poter digitare nella barra di ricerca di Windows 10 richiede un approccio sistematico. Seguendo le soluzioni fornite e integrando misure di protezione dei dati con AOMEI Backupper, puoi affrontare potenziali problemi con fiducia. Mantieni ottimizzato il tuo sistema, sii proattivo nella risoluzione dei problemi ed emancipati per trarre il massimo dalla tua esperienza con Windows 10.
@@ -258,6 +233,10 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Aira](https://tools.techidaily.com/ubackup/products/) · Editore
 
 Aira è l'editore tecnico di AOMEI, principalmente responsabile di AOMEI Backupper. Le piace aiutare gli utenti con domande su backup e ripristino del computer, clonazione del disco, sincronizzazione e altro ancora. Ha scritto molti articoli su AOMEI Backupper. Nel tempo libero ama fare sport e guardare film. Come un redattore professionale di AOMEI. Aira sarà felice di aiutarti.
@@ -269,10 +248,7 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Scarica Gratis AOMEI Backupper Ora
@@ -282,6 +258,10 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 [**Scarica Gratuito**  Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/) 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
@@ -300,22 +280,20 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-all-about-stardew-valley-on-the-mysterious-ginger-island/"><u>[Updated] 2024 Approved All About Stardew Valley on the Mysterious Ginger Island</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-mythos-makers-circle-top-ten-tales/"><u>[Updated] 2024 Approved Mythos Makers Circle – Top Ten Tales</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-introduction-to-stories-essence-and-art/"><u>2024 Approved Introduction to Stories' Essence and Art</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/1724766704358-itunes-dvd/"><u>今しかも！iTunes DVD音声取り込みガイド：お手頃の２つの解決法</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/digiarty-18th-anniversary-special-project-a-milestone-celebration/"><u>DigiArty 18Th Anniversary Special Project: A Milestone Celebration</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/eco-friendly-skullcandy-ecobuds-at-just-40-a-comprehensive-review-of-their-sound-quality/"><u>Eco-Friendly Skullcandy EcoBuds at Just $40 - A Comprehensive Review of Their Sound Quality</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/exploring-the-google-pixel-8-experience-where-perception-meets-innovation/"><u>Exploring the Google Pixel 8 Experience: Where Perception Meets Innovation</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-updated-nvidia-display-drivers-for-your-windows-pc-now/"><u>Get Updated Nvidia Display Drivers for Your Windows PC Now!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hear-the-difference-on-chrome-the-ultimate-guide-to-voice-alteration-apps-for-2024/"><u>Hear the Difference on Chrome The Ultimate Guide to Voice Alteration Apps for 2024</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/hoverair-x1-unveiled-innovative-autonomous-camera-drone-tailored-for-purposeful-flight/"><u>HoverAir X1 Unveiled: Innovative Autonomous Camera Drone Tailored for Purposeful Flight</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Apple iPhone 12 mini? | Dr.fone</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-the-art-of-adapting-your-online-presence-on-discord-platform/"><u>In 2024, The Art of Adapting Your Online Presence on Discord Platform</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/in-depth-analysis-of-belkins-boostcharge-pro-with-wireless-charging-and-stand-feature-the-5000mah-power-bank-examined/"><u>In-Depth Analysis of Belkin's BoostCharge Pro with Wireless Charging & Stand Feature - The 5000mAh Power Bank Examined</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/in-depth-assessment-of-pny-elite-n-x-flash-drive-with-usb-type-c-the-optimal-choice-for-smartphone-integration/"><u>In-Depth Assessment of PNY Elite-N X Flash Drive with USB Type-C - The Optimal Choice for Smartphone Integration</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/mastering-the-art-of-viewing-3d-cinema-on-apples-mac-devices/"><u>Mastering the Art of Viewing 3D Cinema on Apple's Mac Devices</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/mp4s-melodic-mysteries-solved-nine-easy-to-implement-audio-extraction-methods-for-the-new-decade-for-2024/"><u>MP4s Melodic Mysteries Solved Nine Easy-to-Implement Audio Extraction Methods for the New Decade for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-ai-the-impact-of-transfer-learning-techniques/"><u>Revolutionizing AI: The Impact of Transfer Learning Techniques</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-from-0-to-million-views-the-ultimate-content-blueprint/"><u>[New] From 0 to Million Views The Ultimate Content Blueprint</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-cutting-edge-vr-game-development-tools/"><u>[New] In 2024, Cutting-Edge VR Game Development Tools</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-elevate-your-biz-game-youtube-channels-that-succeeded/"><u>[Updated] In 2024, Elevate Your Biz Game YouTube Channels That Succeeded</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/1726225387006-shotcut/"><u>【有效教學與客觀評論】Shotcut 視頻編輯器 - 高效能硬件解決方案</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-the-clear-path-to-crisp-videography-on-a-gopro/"><u>2024 Approved The Clear Path to Crisp Videography on a GoPro</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/gratis-m4v-zu-mpg-konvertieren-mit-movavi-im-internet-professioneller-und-einfacher-prozessvergleich/"><u>Gratis M4V Zu MPG Konvertieren Mit Movavi Im Internet: Professioneller Und Einfacher Prozessvergleich</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-building-animated-storyboards-in-movie-maker/"><u>In 2024, Building Animated Storyboards in Movie Maker</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-debating-platform-preferences-igtv-versus-youtube-video-sharing/"><u>In 2024, Debating Platform Preferences IGTV Versus YouTube Video Sharing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-geeky-gatherings-best-general-trivia-streams/"><u>In 2024, Geeky Gatherings Best General Trivia Streams</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/mise-a-jour-gratuite-changer-gif-en-jpeg-sur-internet-via-movavi-converter/"><u>Mise À Jour Gratuite : Changer GIF en JPEG Sur Internet via Movavi Converter</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/simplified-techniques-for-successfully-reversing-videos-a-comprehensive-tutorial/"><u>Simplified Techniques for Successfully Reversing Videos - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-cellphone-savings-in-march-2024-exclusive-offers-curated/"><u>Top Cellphone Savings in March 2024: Exclusive Offers Curated</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/trasforma-il-tuo-video-mp4-gratuitamente-in-m4v-utilizzando-la-web-di-movavi/"><u>Trasforma Il Tuo Video MP4 Gratuitamente in M4V Utilizzando La Web Di Movavi</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/aif-wmv-online-movavi/"><u>무료 원격 AIF WMV 영상 변환: Online 접근성 개선 - Movavi</u></a></li>
 </ul></div>
 
