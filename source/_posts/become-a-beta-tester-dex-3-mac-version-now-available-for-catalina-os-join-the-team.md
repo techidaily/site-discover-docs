@@ -1,7 +1,7 @@
 ---
 title: "Become a Beta Tester: DEX 3 Mac Version Now Available for Catalina OS | Join the Team!"
-date: 2024-11-28T17:11:50.517Z
-updated: 2024-12-01T23:38:42.141Z
+date: 2024-12-02T08:59:19.474Z
+updated: 2024-12-08T22:55:47.619Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ For now, we are asking for a few DEX 3 customers that are using newer Apple comp
 **Important Notes:** 10.14 or 10.15 of macOS is needed to run the Catalina-specific DEX 3 beta. While tested internally, this is a beta release, and should not be used in a venue/production environment. Specifically, the GUI/interface and video/karaoke should be tested as the changes there are massive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,19 +50,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/03/dex-catalina-beta.jpg?fit=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-gamers-guide-expert-advice-on-capturing-your-minecraft-adventures/"><u>[Updated] Gamer's Guide Expert Advice on Capturing Your Minecraft Adventures</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/complete-dvd-player-aspect-ratio-issue-solutions-a-step-by-step-fix/"><u>Complete DVD Player Aspect Ratio Issue Solutions: A Step-by-Step Fix</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/could-advanced-ai-technologies-be-transforming-into-disinformation-tools/"><u>Could Advanced AI Technologies Be Transforming Into Disinformation Tools?</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/discover-10-budget-friendly-cloud-collaboration-platforms-for-2024/"><u>Discover 10 Budget-Friendly Cloud Collaboration Platforms for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-latest-nvidia-drivers-for-windows-systems-11-7-and-8/"><u>Get the Latest Nvidia Drivers for Windows Systems (11, 7, and 8)</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-vivo-v29-pro-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Vivo V29 Pro FRP In 3 Different Ways</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/les-5-meilleurs-logiciels-libres-de-videoprojectage-pour-2024-guide-exhaustif/"><u>Les 5 Meilleurs Logiciels Libres De Videoprojectage Pour 2024 - Guide Exhaustif</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-offline-windows-updates-the-portable-guide/"><u>Mastering Offline Windows Updates: The Portable Guide</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/os-10-mais-poderosos-programas-conversores-de-dvd-para-mp4-em-2023-escolha-para-windows-e-macos/"><u>Os 10 Mais Poderosos Programas Conversores De DVD Para MP4 Em 2023: Escolha Para Windows E macOS</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/repair-corrupted-mp4-videos-at-no-cost-using-pc-or-mac-easy-diy-solutions/"><u>Repair Corrupted MP4 Videos at No Cost Using PC or Mac - Easy DIY Solutions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/stop-game-crashing-issues-tips-to-stabilize-code-vein-on-windows/"><u>Stop Game-Crashing Issues - Tips to Stabilize 'Code Vein' On Windows</u></a></li>
-<li><a href="https://win-news.techidaily.com/streamline-your-files-enable-auto-sync-with-onedrive-on-windows-11-two-simple-methods/"><u>Streamline Your Files: Enable Auto-Sync with OneDrive on Windows 11 – Two Simple Methods</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/transformacion-de-hdr-video-conversion-de-ts-a-mp4-y-mantener-alta-calidad-ejemplo-esperado/"><u>Transformación De HDR Video: Conversión De TS a MP4 Y Mantener Alta Calidad - Ejemplo Esperado</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/warning-signals-alert-no-official-chatgpt-windows-version-avoid-malware-disguised-as-a-client/"><u>Warning Signals Alert! No Official ChatGPT Windows Version, Avoid Malware Disguised as a Client</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exclusive-hub-free-images-galore-across-the-web/"><u>[New] Exclusive Hub Free Images Galore Across the Web</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-simplifying-massive-media-swap-iphone-to-mac-file-relocation/"><u>[New] Simplifying Massive Media Swap IPhone-to-Mac File Relocation</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-secret-to-slowed-movies-mastery-your-step-by-step-guide-on-instagram-reels-for-2024/"><u>[Updated] The Secret to Slowed Movies Mastery – Your Step by Step Guide on Instagram Reels for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-10-snapchat-stickers-that-cause-laughter-galore/"><u>2024 Approved 10 Snapchat Stickers That Cause Laughter Galore</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/abstract-design-and-endless-video-loop-on-a-deep-blue-background-created-by-yl-software-experts/"><u>Abstract Design & Endless Video Loop on a Deep Blue Background - Created by YL Software Experts</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/dazzling-high-res-anne-hathaway-wallpapers-and-imagery-powered-by-yl-software-solutions/"><u>Dazzling High-Res Anne Hathaway Wallpapers and Imagery - Powered by YL Software Solutions</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/discover-unique-sally-carrera-desktop-art-by-yl-software-premium-wallpapers-and-images-for-fans/"><u>Discover Unique Sally Carrera Desktop Art by YL Software: Premium Wallpapers and Images for Fans!</u></a></li>
+<li><a href="https://win-hot.techidaily.com/effective-strategies-to-retrieve-lost-ps5-gaming-files-a-guide-with-4-solutions/"><u>Effective Strategies to Retrieve Lost PS5 Gaming Files: A Guide with 4 Solutions</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/identifying-faulty-memory-modules-a-step-by-step-guide-yl-technologies/"><u>Identifying Faulty Memory Modules: A Step-by-Step Guide - YL Technologies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-virality-10-proven-techniques-for-tiktok-success/"><u>Mastering the Art of Virality: 10 Proven Techniques for TikTok Success</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/monitor-the-evolution-of-your-bitcoin-sv-address-funds-an-insider-look-with-yl-software-tools-and-techniques/"><u>Monitor the Evolution of Your Bitcoin SV Address Funds: An Insider Look with YL Software Tools and Techniques</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/premium-red-bentley-hd-visuals-for-pc-backgrounds-images-and-decorative-walls-software-by-yl-tech/"><u>Premium Red Bentley HD Visuals for PC Backgrounds, Images, and Decorative Walls | Software by YL Tech</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solutions-for-corsair-icue-connectivity-problems-in-windows-10-and-11/"><u>Solutions for Corsair iCUE Connectivity Problems in Windows 10 and 11</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/step-by-step-guide-accessing-and-exploring-zip-file-content-on-windows-tips-from-yl-computing/"><u>Step-by-Step Guide: Accessing and Exploring Zip File Content on Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-performing-fujitsu-scansnap-ix160-an-in-depth-look-at-your-ideal-office-scanner/"><u>Top-Performing Fujitsu Scansnap iX160: An In-Depth Look at Your Ideal Office Scanner</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/unveiling-instagram-reels-10-surprising-insights-for-2024/"><u>Unveiling Instagram Reels 10 Surprising Insights for 2024</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/visual-inspiration-with-adidas-themes-ultra-hd-background-imagery-portfolio-yl-software-solutions/"><u>Visual Inspiration with Adidas Themes: Ultra HD Background Imagery Portfolio - YL Software Solutions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "PCDJ's Latest DEX Version 3.6 Beta 4 Now Ready: Free Downloads Await!"
-date: 2024-11-24T23:42:35.236Z
-updated: 2024-12-01T19:47:41.225Z
+date: 2024-12-03T17:05:20.187Z
+updated: 2024-12-09T14:10:51.423Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ Also new in DEX 3.6 beta 4 is the ability to **record your video mix set on Wind
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What’s New And Changed In DEX 3.6 Beta 4
@@ -59,7 +59,7 @@ Also new in DEX 3.6 beta 4 is the ability to **record your video mix set on Wind
 _If you have any questions or problems running the DEX 3.6 **DJ and Video Mixing Software** beta version please post to the [DEX 3 user forum](https://tools.techidaily.com/pcdj/products/)._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,16 +81,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/04/dex36-beta4-coverimage.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-optimizing-screen-recording-on-iphoneipad/"><u>[New] Optimizing Screen Recording on iPhone/iPad</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-tune-sharing-compliance-instagram-ip-codex/"><u>[New] Tune-Sharing Compliance Instagram IP Codex</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-thriving-on-short-video-profits-youtubes-money-making-guide/"><u>2024 Approved Thriving on Short Video Profits YouTube's Money-Making Guide</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/wechattxt/"><u>如何輕鬆把WeChat對話紀錄匯出TXT？難道術！</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/backup-solutions-with-samsung-to-go-portable-ssd-t5-compatible-guide-for-windows-11-10-8-and/"><u>Backup Solutions with Samsung To Go Portable SSD T5: Compatible Guide for Windows 11, 10, 8 &</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-value-vs-powerful-performance-choosing-the-right-gaming-pc-for-you-in-2e3-budget-friendly-and-high-end/"><u>Best Value Vs. Powerful Performance: Choosing the Right Gaming PC for You in 2E3 (Budget-Friendly and High-End)</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/discover-the-leading-5-ps2-android-game-emulators-for-2024/"><u>Discover The Leading 5 PS2 Android Game Emulators for 2024</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/download-the-leading-no-cost-usb-recovery-solutions-tailored-for-windows-11-users/"><u>Download the Leading No-Cost USB Recovery Solutions Tailored for Windows 11 Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/expertly-tested-and-compared-the-foremost-portable-chargers-for-your-outdoor-adventures-detailed-analysis-by-zdnet/"><u>Expertly Tested & Compared: The Foremost Portable Chargers for Your Outdoor Adventures | Detailed Analysis by ZDNET</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/swift-remedies-to-rescue-your-windows-10-photos-app/"><u>Swift Remedies to Rescue Your Windows 10 Photos App</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/ultimate-guide-configuring-your-amazon-s3-inventory-for-efficient-bucket-management/"><u>Ultimate Guide: Configuring Your Amazon S3 Inventory for Efficient Bucket Management</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-the-ultimate-collection-of-elite-cost-free-vfx-and-editing-websites/"><u>[New] In 2024, The Ultimate Collection of Elite, Cost-Free VFX & Editing Websites</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-present-day-virtual-reality-overview-for-2024/"><u>[New] Present Day Virtual Reality Overview for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-saving-the-ephemeral-a-guide-to-online-audio-recording/"><u>[Updated] 2024 Approved Saving the Ephemeral A Guide to Online Audio Recording</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-iphone-night-pics-101-enhancing-dark-images/"><u>[Updated] IPhone Night Pics 101 Enhancing Dark Images</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/1732518983899-yl/"><u>发现奇特的自我信念：来自YL计算机和软件领域的秘密—万亿之路雪球原创专栏</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/checking-your-gpu-version-are-you-using-the-latest-graphics-drivers-tips-from-yl-tech/"><u>Checking Your GPU Version - Are You Using the Latest Graphics Drivers? - Tips From YL Tech</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/easy-guide-transferring-files-between-directories-on-your-windows-pc-tech-tips-by-yl/"><u>Easy Guide: Transferring Files Between Directories on Your Windows PC - Tech Tips by YL</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/high-resolution-susan-coffey-background-imagery-stunning-hd-landscapes-and-artistic-wallpapers-from-yl-software/"><u>High-Resolution Susan Coffey Background Imagery - Stunning HD Landscapes & Artistic Wallpapers From YL Software</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-asus-rog-phone-7-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Asus ROG Phone 7</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/mastering-memory-usage-top-techniques-to-enhance-your-computer-performance-guided-by-yl-software-experts/"><u>Mastering Memory Usage: Top Techniques to Enhance Your Computer Performance - Guided by YL Software Experts</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/mastering-the-fix-for-your-gpu-drivers-expert-tips-and-troubleshooting-innovategamingtech/"><u>Mastering the Fix for Your GPU Drivers: Expert Tips & Troubleshooting - InnovateGamingTech</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/1728465341710-pc/"><u>PC異常発生時にデータを安全に回復する方法</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h265-on-sony-xperia-5-v-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Sony Xperia 5 V, is it possible?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-chaos-into-order-chatgpt-organization-techniques/"><u>Transforming Chaos Into Order: ChatGPT Organization Techniques</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/troubleshoot-your-non-reactive-mouse-with-yl-software-solutions-and-guidance/"><u>Troubleshoot Your Non-Reactive Mouse with YL Software Solutions and Guidance</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/ultimate-guide-how-to-optimize-your-computer-systems-for-gaming-excellence-with-tips-from-yl-computing/"><u>Ultimate Guide: How to Optimize Your Computer Systems for Gaming Excellence with Tips From YL Computing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-winxvideos-ai-capabilities-in-depth-qanda-insights-for-enthusiasts/"><u>Unveiling WinXvideo's AI Capabilities: In-Depth Q&A Insights for Enthusiasts</u></a></li>
 </ul></div>
 
