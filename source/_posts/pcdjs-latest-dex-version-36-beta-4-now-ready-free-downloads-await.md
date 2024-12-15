@@ -1,7 +1,7 @@
 ---
 title: "PCDJ's Latest DEX Version 3.6 Beta 4 Now Ready: Free Downloads Await!"
-date: 2024-12-03T17:05:20.187Z
-updated: 2024-12-09T14:10:51.423Z
+date: 2024-12-09T17:46:36.671Z
+updated: 2024-12-15T17:09:36.374Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ Also new in DEX 3.6 beta 4 is the ability to **record your video mix set on Wind
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What’s New And Changed In DEX 3.6 Beta 4
@@ -59,7 +59,7 @@ Also new in DEX 3.6 beta 4 is the ability to **record your video mix set on Wind
 _If you have any questions or problems running the DEX 3.6 **DJ and Video Mixing Software** beta version please post to the [DEX 3 user forum](https://tools.techidaily.com/pcdj/products/)._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,22 +81,21 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/04/dex36-beta4-coverimage.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-the-ultimate-collection-of-elite-cost-free-vfx-and-editing-websites/"><u>[New] In 2024, The Ultimate Collection of Elite, Cost-Free VFX & Editing Websites</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-present-day-virtual-reality-overview-for-2024/"><u>[New] Present Day Virtual Reality Overview for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-saving-the-ephemeral-a-guide-to-online-audio-recording/"><u>[Updated] 2024 Approved Saving the Ephemeral A Guide to Online Audio Recording</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-iphone-night-pics-101-enhancing-dark-images/"><u>[Updated] IPhone Night Pics 101 Enhancing Dark Images</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/1732518983899-yl/"><u>发现奇特的自我信念：来自YL计算机和软件领域的秘密—万亿之路雪球原创专栏</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/checking-your-gpu-version-are-you-using-the-latest-graphics-drivers-tips-from-yl-tech/"><u>Checking Your GPU Version - Are You Using the Latest Graphics Drivers? - Tips From YL Tech</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/easy-guide-transferring-files-between-directories-on-your-windows-pc-tech-tips-by-yl/"><u>Easy Guide: Transferring Files Between Directories on Your Windows PC - Tech Tips by YL</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/high-resolution-susan-coffey-background-imagery-stunning-hd-landscapes-and-artistic-wallpapers-from-yl-software/"><u>High-Resolution Susan Coffey Background Imagery - Stunning HD Landscapes & Artistic Wallpapers From YL Software</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-asus-rog-phone-7-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Asus ROG Phone 7</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/mastering-memory-usage-top-techniques-to-enhance-your-computer-performance-guided-by-yl-software-experts/"><u>Mastering Memory Usage: Top Techniques to Enhance Your Computer Performance - Guided by YL Software Experts</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/mastering-the-fix-for-your-gpu-drivers-expert-tips-and-troubleshooting-innovategamingtech/"><u>Mastering the Fix for Your GPU Drivers: Expert Tips & Troubleshooting - InnovateGamingTech</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/1728465341710-pc/"><u>PC異常発生時にデータを安全に回復する方法</u></a></li>
-<li><a href="https://review-topics.techidaily.com/play-hevc-h265-on-sony-xperia-5-v-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Sony Xperia 5 V, is it possible?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-chaos-into-order-chatgpt-organization-techniques/"><u>Transforming Chaos Into Order: ChatGPT Organization Techniques</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/troubleshoot-your-non-reactive-mouse-with-yl-software-solutions-and-guidance/"><u>Troubleshoot Your Non-Reactive Mouse with YL Software Solutions and Guidance</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/ultimate-guide-how-to-optimize-your-computer-systems-for-gaming-excellence-with-tips-from-yl-computing/"><u>Ultimate Guide: How to Optimize Your Computer Systems for Gaming Excellence with Tips From YL Computing</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unveiling-winxvideos-ai-capabilities-in-depth-qanda-insights-for-enthusiasts/"><u>Unveiling WinXvideo's AI Capabilities: In-Depth Q&A Insights for Enthusiasts</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-the-future-shaped-by-quantum-hdr-tech/"><u>[New] In 2024, The Future Shaped by Quantum HDR Tech</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-unveil-the-secrets-to-excellent-youtube-thumbnails/"><u>[New] In 2024, Unveil the Secrets to Excellent YouTube Thumbnails</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-picture-in-picture-unveiled-your-guide-to-firefoxs-pip/"><u>[New] Picture-in-Picture Unveiled Your Guide to Firefox’s PIP</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-ace-your-video-masterful-use-of-hash-tags-in-games/"><u>[Updated] 2024 Approved Ace Your Video Masterful Use of Hash Tags in Games</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-unlock-the-full-potential-of-skype-written-in-spanish-but-not-widely-known-among-english-speakers-it-was-used-as-a-basis-for-creating-new-mo/"><u>[Updated] In 2024, Unlock the Full Potential of Skype’ Written in Spanish, but Not Widely Known Among English Speakers. It Was Used as a Basis for Creating New Models Like BERT and GPT-3. How Can I Access This Model? Is It Free to Use?</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/1-setting-up-your-audio-hardware-a-comprehensive-guide-from-yl-computings-experts/"><u>1. Setting Up Your Audio Hardware: A Comprehensive Guide From YL Computing's Experts</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/can-you-rely-on-windows-defender-for-robust-anti-malware-protection-a-guide-by-yl-software-experts/"><u>Can You Rely on Windows Defender for Robust Anti-Malware Protection? - A Guide by YL Software Experts</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/does-a-defective-processor-risk-harm-to-your-pcs-inner-workings-as-explored-by-yl-tech-solutions/"><u>Does a Defective Processor Risk Harm to Your PC's Inner Workings, as Explored by YL Tech Solutions</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/effective-strategies-for-removing-unnecessary-apps-and-programs-tips-by-yl-computing/"><u>Effective Strategies for Removing Unnecessary Apps and Programs - Tips by YL Computing</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/high-definition-artwork-and-desktops-anastasiya-scheglovas-stunning-wallpapers-by-yl-software/"><u>High-Definition Artwork & Desktops: Anastasiya Scheglova's Stunning Wallpapers by YL Software</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-solve-your-lol-play-issue-overcoming-internet-connection-problems/"><u>How to Solve Your LoL Play Issue: Overcoming Internet Connection Problems</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-vivo-s17-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Vivo S17 Device</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/pruveeo-f5-superior-clarity-dash-camera-review-at-unbeatable-prices/"><u>Pruveeo F5 Superior Clarity Dash Camera Review at Unbeatable Prices</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/step-by-step-walkthrough-to-modify-power-preferences-using-control-panel-expert-advice-from-yl-computing/"><u>Step-by-Step Walkthrough to Modify Power Preferences Using Control Panel - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/trimming-footage-for-insta-on-macos-for-2024/"><u>Trimming Footage for Insta on macOS for 2024</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/troubleshooting-constant-freezes-unveiling-the-reasons-why-your-pc-keeps-stopping-with-yl-solutions/"><u>Troubleshooting Constant Freezes: Unveiling the Reasons Why Your PC Keeps Stopping with YL Solutions</u></a></li>
 </ul></div>
 

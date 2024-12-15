@@ -1,7 +1,7 @@
 ---
 title: "Eliminar De Manera Segura La Carpeta 'Windows.old' En Windows 11: Tres Métodos Eficaces"
-date: 2024-11-30T20:53:37.034Z
-updated: 2024-12-01T17:57:29.360Z
+date: 2024-12-11T18:40:47.291Z
+updated: 2024-12-15T17:25:49.961Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/a8037b9cb425e19a9ec57f5feba58cc91bfb4e98ab568e20793fc881abc0b40e.jpg
@@ -24,17 +24,9 @@ Want to create an image, restore image, or clone hard drive via Norton Ghost? Th
 
 ![Lena](https://www.ubackup.com/assets/images/author/Lena.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 By[Lena](https://tools.techidaily.com/ubackup/products/)Updated on June 5, 2024
 
 Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Table of Contents** 
 
@@ -65,12 +57,16 @@ Norton Ghost is one **disk imaging and cloning tool** that firstly developed in 
 In a word, if you want to make an image back for your computer or want to clone to the new hard drive, Norton Ghost is not a bad choice. However, now Norton Ghost is **no longer available for the Home user**. It was **discontinued by Symantec in 2013**. Indeed you can still download the latest version - Norton Ghost 15, but it only offers a 30-day free trial and then you need to pay for it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use Norton Ghost 15 Step by Step
 
 Here in this guide, you will get the detailed steps about how to use Symantec Ghost in Windows 11/10/8/7\. You can simply search “**Norton Ghost 15 download**” via your browser to get the tool. As we have mentioned above, it only offers a 30-day free trial. If you prefer a free tool to help you backup, restore or clone your hard drive, you can refer to the [next part](https://tools.techidaily.com/ubackup/products/) to get the best free alternative to Norton Ghost.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Image Your Computer with Norton Ghost
 
@@ -80,10 +76,6 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 
 [![Create Backup](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/create-backup.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3\. The **Easy Setup** screen will appear.
 
 * You can click **OK** to accept the default settings or click a setting to modify it.
@@ -92,6 +84,10 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 [![Click Custom](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/click-custom.png)
 
 4\. Finally, click **OK** to confirm.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Restore Image with Norton Ghost
 
@@ -105,10 +101,6 @@ Click **Recover My Files** if you want to recover files or folder, or **Recover 
 
 [![Recover My Files](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/find-files-to-recover.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3\. After the scanning, select the file you need and click **Recover Files...**
 
 **Recover My Computer:**
@@ -117,7 +109,15 @@ On **Recover My Computer** screen, find and choose the right system restore poin
 
 [![Recover My Computer](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/recover-now.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 👉 **Note:** If your computer cannot run Windows normally, you can use the Symantec Recovery Disk CD to help you boot your computer. Depending on which version of the product you have purchased, Symantec Recovery Disk is either included on your product CD or as a separate CD. If you don't have a floppy drive, you can create a [Norton Ghost Bootable USB](https://tools.techidaily.com/ubackup/products/) instead.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Clone Disk with Norton Ghost
 
@@ -148,10 +148,6 @@ Download it to have a try! If you are using a server system, such as, server 200
 
 Secure Download
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Create Image Backup
 
 Take disk backup as an example. Follow the step below to backup your computer disk.
@@ -167,21 +163,21 @@ Select the corresponding backup methods if you want to backup system, partition 
 [![Add Disk](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/add-disk.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3\. Choose a destination path to save the disk image. You can save the backup image on a local hard drive, external hard drive, USB flash drive, or network drive, etc. Click **Start Backup** when you are ready.
 
 [![Select Backup Destination](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/select-backup-destination.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 👉 **Notes:**
 
 * In case your computer cannot start normally, you can **[create a bootable media](https://tools.techidaily.com/ubackup/products/)** using CD/DVD or USB flash drive in advance to help boot your computer. When your computer goes wrong, you can boot the computer using the bootable media and perform a system restore to get everything back to normal.
 * If you want to [upgrade Windows 10 to Windows 11](https://tools.techidaily.com/ubackup/products/) without losing files, this software is very useful. It backs up everything you want, either in the system partition or entire disk, and you can use it to restore files or system as needed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Restore Disk & Files
 
@@ -241,6 +237,10 @@ Was the provided information useful? Your vote is important to us!
 
 ![Lena](https://www.ubackup.com/assets/images/author/Lena.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Lena](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Lena is an editor of FoneTool, she covers backup & restore, and phone data management and so on. She enjoys helping people find solutions to their problems. She loves traveling, eating, reading and so on. She takes most of time with her family when she is not working.
@@ -266,7 +266,7 @@ Was the provided information useful? Your vote is important to us!
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Free Get AOMEI Backupper Now
@@ -280,7 +280,7 @@ Safeguard any data of your computer with backup, sync and clone.
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -298,21 +298,17 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-maximize-viewing-experience-best-4k-downloader-apps/"><u>[New] Maximize Viewing Experience Best 4K Downloader Apps</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-ultimate-guide-to-choosing-between-igtv-and-youtube-for-content-creators/"><u>[Updated] The Ultimate Guide to Choosing Between IGTV & YouTube for Content Creators</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-explore-the-best-in-class-android-apps-to-revive-ps2-games/"><u>2024 Approved Explore the Best-in-Class Android Apps to Revive PS2 Games</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/5-astuces-simples-pour-reduire-et-organiser-le-folder-winsxs-sous-windows-10-and-7/"><u>5 Astuces Simples Pour Réduire Et Organiser Le Folder WinSxS Sous Windows 10 & 7</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/1728505544763-windows-11/"><u>瞭解及改善 Windows 11 啟動期間持續輪轉的原因和方法</u></a></li>
-<li><a href="https://article-posts.techidaily.com/comprehensive-review-of-powerdirector-pro-suite/"><u>Comprehensive Review of PowerDirector Pro Suite</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/discover-the-leading-free-windows-7-data-protection-apps-for-both-32-and-64-bit-versions/"><u>Discover the Leading FREE Windows 7 Data Protection Apps for Both 32 and 64 Bit Versions</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-windows-drawing-powerhouses-exploring-free-and-fees/"><u>In 2024, Windows Drawing Powerhouses Exploring FREE & Fees</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/iphone-savvy-techniques-for-storing-and-streaming-animated-images-for-2024/"><u>IPhone-Savvy Techniques for Storing and Streaming Animated Images for 2024</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/les-meilleurs-logiciels-de-mise-a-jour-libres-sur-windows-fiches-comparatives-pour-wid-synchronet-and-co/"><u>Les Meilleurs Logiciels De Mise À Jour Libres Sur Windows : Fiches Comparatives Pour Wid, SynchroNet & Co</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/limited-time-offer-snag-your-2nd-generation-apple-pencil-at-a-steep-discount-only-95-celebrate-labor-day-with-savings/"><u>Limited-Time Offer: Snag Your 2Nd Generation Apple Pencil at a Steep Discount - Only $95! Celebrate Labor Day With Savings</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/limpieza-efectiva-del-historial-de-archivos-en-windows-10-pro-tecnicas-para-mantener-tu-sistema-actualizado/"><u>Limpieza Efectiva Del Historial De Archivos en Windows 10 Pro: Técnicas Para Mantener Tu Sistema Actualizado</u></a></li>
-<li><a href="https://win11.techidaily.com/navigate-past-the-deadly-wow-error-132-barrier-in-windows/"><u>Navigate Past the Deadly WoW Error 132 Barrier in Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/solve-the-mystery-stop-halo-infinite-from-crashing-on-your-pc-with-these-7-simple-solutions/"><u>Solve the Mystery: Stop Halo Infinite From Crashing on Your PC with These 7 Simple Solutions</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/wie-du-deinen-ipad-pro-air-oder-mini-mit-diesen-3-methoden-zur-ursprunglichen-konfiguration-zuruckfuhrst/"><u>Wie Du Deinen iPad Pro, Air Oder Mini Mit Diesen 3 Methoden Zur Ursprünglichen Konfiguration Zurückführst</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/windows-100x807800c5/"><u>Windows 10のバックアップエラー0x807800C5 - 迅速な解決手順</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-achieve-professional-results-access-to-10-basic-free-and-paid-luts-for-canon-cams/"><u>[New] Achieve Professional Results Access to 10 Basic Free and Paid LUTs for Canon Cams</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-critical-analysis-the-best-skype-recorders-of-2023/"><u>[New] Critical Analysis The Best Skype Recorders of 2023</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-the-art-of-integrating-b-footage-into-main-shots-for-2024/"><u>[New] The Art of Integrating B-Footage Into Main Shots for 2024</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/1-ultimate-guide-correcting-blurry-video-footage-with-proven-techniques/"><u>1. Ultimate Guide: Correcting Blurry Video Footage with Proven Techniques</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/customize-text-appearance-on-your-screen-font-resizing-tips-from-yl-software-experts/"><u>Customize Text Appearance on Your Screen: Font Resizing Tips From YL Software Experts</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/dealing-with-warped-scan-outputs-solutions-from-yl-computings-expertise/"><u>Dealing with Warped Scan Outputs: Solutions From YL Computing's Expertise</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-correctly-address-and-repair-msstdfmtdll-missing-errors/"><u>How to Correctly Address and Repair Msstdfmt.dll Missing Errors</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/install-fresh-applications-using-pcs-settings-menu-essential-tricks-by-yl-software-experts/"><u>Install Fresh Applications Using PC's Settings Menu - Essential Tricks by YL Software Experts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-10-best-news-aggregator-sites/"><u>Top 10 Best News Aggregator Sites</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/troubleshooting-your-graphics-card-errors-with-expert-advice-from-yl-computing/"><u>Troubleshooting Your Graphics Card Errors with Expert Advice From YL Computing</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/understanding-windows-storage-how-files-differ-from-folders-with-insights-from-yl-software-experts/"><u>Understanding Windows Storage: How Files Differ From Folders with Insights From YL Software Experts</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-xiaomi-redmi-a2-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Xiaomi Redmi A2 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 
