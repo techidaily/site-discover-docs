@@ -1,7 +1,7 @@
 ---
 title: Preview of PCDJ Dex 3 Multitrack Mixing Software with Four Deck Interface and Tabbed Video Controls
-date: 2024-12-12T16:42:42.206Z
-updated: 2024-12-15T16:54:29.722Z
+date: 2024-12-21T16:10:40.986Z
+updated: 2024-12-24T16:20:30.837Z
 tags:
   - product
 categories:
@@ -34,7 +34,7 @@ To sum it up, _DEX 3 is a re-design from the floor up._  The video mixing engine
 _**Be sure to subscribe to our newsletter below so we can let you know when DEX 3 is available to download!**_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -56,14 +56,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/06/dex2-4deckskinwithvideo.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-does-rapid-subscription-improve-video-watching-in-2024/"><u>[New] Does Rapid Subscription Improve Video Watching, In 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-setting-up-your-logitech-webcam-for-recording-for-2024/"><u>[Updated] Setting Up Your Logitech Webcam for Recording for 2024</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/easy-file-relocation-techniques-for-windows-users-by-yl-software-move-between-external-and-internal-drives-without-hitches/"><u>Easy File Relocation Techniques for Windows Users by YL Software: Move Between External and Internal Drives Without Hitches</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/ensuring-maximum-efficiency-tips-for-achieving-peak-pc-performance-expert-advice-from-yl-computing/"><u>Ensuring Maximum Efficiency: Tips for Achieving Peak PC Performance - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-oppo-a2-by-drfone-android/"><u>Full Guide to Unlock Your Oppo A2</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-on-iphone-13-mini-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out On iPhone 13 mini How to Bypass?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-the-issue-getting-saints-row-running-smoothly-on-your-computer/"><u>Resolving the Issue: Getting Saints Row Running Smoothly on Your Computer</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/solutions-and-steps-after-a-failed-hard-drive-expert-advice-from-yl-software/"><u>Solutions and Steps After a Failed Hard Drive - Expert Advice From YL Software</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/vintage-pixel-art-winter-wonderland-backgrounds-and-imagery-from-yl-software-perfect-for-a-classic-christmas-theme/"><u>Vintage Pixel Art Winter Wonderland Backgrounds & Imagery From YL Software – Perfect for a Classic Christmas Theme</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-how-to-mergecombinejoin-youtube-flv-videos/"><u>[New] In 2024, How to Merge/Combine/Join YouTube (FLV) Videos</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ncrease-click-through-with-best-youtube-thumbnail-fonts-for-2024/"><u>[New] Increase Click-Through with Best YouTube Thumbnail Fonts for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-meme-world-for-iphone-enthusiasts/"><u>[New] Meme World for iPhone Enthusiasts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-how-to-remove-images-background-in-canva/"><u>2024 Approved How to Remove Image's Background In Canva</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/get-your-hands-on-the-newest-dex-version-for-pcdj-start-djing-today/"><u>Get Your Hands on the Newest DEX Version for PCDJ - Start DJing Today!</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-change-steams-default-language/"><u>How to Change Steam’s Default Language</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-your-complete-breakdown-of-youtube-short-content/"><u>In 2024, Your Complete Breakdown of YouTube Short Content</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/troubleshooting-guide-fixing-stuck-mouse-movement-issues-yl-computing-solutions/"><u>Troubleshooting Guide: Fixing Stuck Mouse Movement Issues - YL Computing Solutions</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/troubleshooting-internet-connection-issues-with-your-pcs-network-adapter-on-windows-yl-computing-guide/"><u>Troubleshooting Internet Connection Issues with Your PC's Network Adapter on Windows (YL Computing Guide)</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/unveiling-reasons-for-display-instability-how-some-software-triggers-screen-fluctuations-at-yl-computing/"><u>Unveiling Reasons for Display Instability: How Some Software Triggers Screen Fluctuations at YL Computing</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/unveiling-the-factors-behind-chinas-great-famine-1959-1961-insights-from-yl-computing-and-yl-software/"><u>Unveiling the Factors Behind China's Great Famine (1959-1961): Insights From YL Computing & YL Software</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "PCDJ's Latest DEX Version 3.6 Beta 4 Now Ready: Free Downloads Await!"
-date: 2024-12-09T17:46:36.671Z
-updated: 2024-12-15T17:09:36.374Z
+date: 2024-12-21T16:21:59.486Z
+updated: 2024-12-24T16:07:33.018Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ Also new in DEX 3.6 beta 4 is the ability to **record your video mix set on Wind
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What’s New And Changed In DEX 3.6 Beta 4
@@ -59,7 +59,7 @@ Also new in DEX 3.6 beta 4 is the ability to **record your video mix set on Wind
 _If you have any questions or problems running the DEX 3.6 **DJ and Video Mixing Software** beta version please post to the [DEX 3 user forum](https://tools.techidaily.com/pcdj/products/)._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,21 +81,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/04/dex36-beta4-coverimage.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-the-future-shaped-by-quantum-hdr-tech/"><u>[New] In 2024, The Future Shaped by Quantum HDR Tech</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-unveil-the-secrets-to-excellent-youtube-thumbnails/"><u>[New] In 2024, Unveil the Secrets to Excellent YouTube Thumbnails</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-picture-in-picture-unveiled-your-guide-to-firefoxs-pip/"><u>[New] Picture-in-Picture Unveiled Your Guide to Firefox’s PIP</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-ace-your-video-masterful-use-of-hash-tags-in-games/"><u>[Updated] 2024 Approved Ace Your Video Masterful Use of Hash Tags in Games</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-unlock-the-full-potential-of-skype-written-in-spanish-but-not-widely-known-among-english-speakers-it-was-used-as-a-basis-for-creating-new-mo/"><u>[Updated] In 2024, Unlock the Full Potential of Skype’ Written in Spanish, but Not Widely Known Among English Speakers. It Was Used as a Basis for Creating New Models Like BERT and GPT-3. How Can I Access This Model? Is It Free to Use?</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/1-setting-up-your-audio-hardware-a-comprehensive-guide-from-yl-computings-experts/"><u>1. Setting Up Your Audio Hardware: A Comprehensive Guide From YL Computing's Experts</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/can-you-rely-on-windows-defender-for-robust-anti-malware-protection-a-guide-by-yl-software-experts/"><u>Can You Rely on Windows Defender for Robust Anti-Malware Protection? - A Guide by YL Software Experts</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/does-a-defective-processor-risk-harm-to-your-pcs-inner-workings-as-explored-by-yl-tech-solutions/"><u>Does a Defective Processor Risk Harm to Your PC's Inner Workings, as Explored by YL Tech Solutions</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/effective-strategies-for-removing-unnecessary-apps-and-programs-tips-by-yl-computing/"><u>Effective Strategies for Removing Unnecessary Apps and Programs - Tips by YL Computing</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/high-definition-artwork-and-desktops-anastasiya-scheglovas-stunning-wallpapers-by-yl-software/"><u>High-Definition Artwork & Desktops: Anastasiya Scheglova's Stunning Wallpapers by YL Software</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-solve-your-lol-play-issue-overcoming-internet-connection-problems/"><u>How to Solve Your LoL Play Issue: Overcoming Internet Connection Problems</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-vivo-s17-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Vivo S17 Device</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/pruveeo-f5-superior-clarity-dash-camera-review-at-unbeatable-prices/"><u>Pruveeo F5 Superior Clarity Dash Camera Review at Unbeatable Prices</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/step-by-step-walkthrough-to-modify-power-preferences-using-control-panel-expert-advice-from-yl-computing/"><u>Step-by-Step Walkthrough to Modify Power Preferences Using Control Panel - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/trimming-footage-for-insta-on-macos-for-2024/"><u>Trimming Footage for Insta on macOS for 2024</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/troubleshooting-constant-freezes-unveiling-the-reasons-why-your-pc-keeps-stopping-with-yl-solutions/"><u>Troubleshooting Constant Freezes: Unveiling the Reasons Why Your PC Keeps Stopping with YL Solutions</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/est-video-makers-with-music-and-photos-for-2024/"><u>[New] Best Video Makers with Music and Photos for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-comprehensive-list-of-top-6-facebook-video-downloader-apps-for-2024/"><u>[New] Comprehensive List of Top 6 Facebook Video Downloader Apps for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-fist-of-legends-highest-rated-kung-fu-virtual-battles/"><u>[Updated] In 2024, Fist of Legends Highest-Rated Kung Fu Virtual Battles</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/1-boost-your-startups-efficiency-essential-tips-by-yl-computing-innovative-solutions-provider/"><u>1. Boost Your Startup's Efficiency: Essential Tips by YL Computing, Innovative Solutions Provider</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-mastering-content-for-more-subscribers/"><u>2024 Approved Mastering Content for More Subscribers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/affordable-pc-monitoring-software/"><u>Affordable PC Monitoring Software</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Oppo Find N3 Flip? | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/cities-skylines-unveiled-the-compelling-world-of-building-and-managing-perfect-metropolises/"><u>Cities: Skylines Unveiled – The Compelling World of Building and Managing Perfect Metropolises</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/dealing-with-graphics-hardware-issues-a-step-by-step-guide-by-yl-software-experts/"><u>Dealing with Graphics Hardware Issues: A Step-by-Step Guide by YL Software Experts</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/how-to-adjust-your-internet-connection-via-windows-pcs-control-panel-guided-steps-by-yl-computing/"><u>How to Adjust Your Internet Connection via Windows PC's Control Panel - Guided Steps by YL Computing</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-superior-introductory-editors-for-mobile-apps/"><u>In 2024, Superior Introductory Editors for Mobile Apps</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/resolving-print-job-issues-a-comprehensive-guide-by-yl-software/"><u>Resolving Print Job Issues: A Comprehensive Guide by YL Software</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/troubleshooting-guide-fix-your-scanner-issues-quickly-tips-from-yl-computing/"><u>Troubleshooting Guide: Fix Your Scanner Issues Quickly - Tips From YL Computing</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/understanding-sun-yat-sens-pivotal-contributions-to-the-founding-of-the-republic-of-china-insights-from-yl-computing-and-yl-software/"><u>Understanding Sun Yat-Sen's Pivotal Contributions to the Founding of the Republic of China - Insights From YL Computing and YL Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlock-the-ultimate-list-of-prime-day-2-cuyamanga-2024-gaming-discounts-still-on-sale-zdnet-insights/"><u>Unlock the Ultimate List of Prime Day 2 Cuyamanga 2024 Gaming Discounts Still On Sale | ZDNET Insights</u></a></li>
 </ul></div>
 
