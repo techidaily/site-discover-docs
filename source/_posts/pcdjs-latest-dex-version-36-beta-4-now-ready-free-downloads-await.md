@@ -1,7 +1,7 @@
 ---
 title: "PCDJ's Latest DEX Version 3.6 Beta 4 Now Ready: Free Downloads Await!"
-date: 2024-12-21T16:21:59.486Z
-updated: 2024-12-24T16:07:33.018Z
+date: 2024-12-29T16:02:55.222Z
+updated: 2024-12-30T16:02:51.839Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ Also new in DEX 3.6 beta 4 is the ability to **record your video mix set on Wind
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What’s New And Changed In DEX 3.6 Beta 4
@@ -59,7 +59,7 @@ Also new in DEX 3.6 beta 4 is the ability to **record your video mix set on Wind
 _If you have any questions or problems running the DEX 3.6 **DJ and Video Mixing Software** beta version please post to the [DEX 3 user forum](https://tools.techidaily.com/pcdj/products/)._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,20 +81,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/04/dex36-beta4-coverimage.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/est-video-makers-with-music-and-photos-for-2024/"><u>[New] Best Video Makers with Music and Photos for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-comprehensive-list-of-top-6-facebook-video-downloader-apps-for-2024/"><u>[New] Comprehensive List of Top 6 Facebook Video Downloader Apps for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-fist-of-legends-highest-rated-kung-fu-virtual-battles/"><u>[Updated] In 2024, Fist of Legends Highest-Rated Kung Fu Virtual Battles</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/1-boost-your-startups-efficiency-essential-tips-by-yl-computing-innovative-solutions-provider/"><u>1. Boost Your Startup's Efficiency: Essential Tips by YL Computing, Innovative Solutions Provider</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-mastering-content-for-more-subscribers/"><u>2024 Approved Mastering Content for More Subscribers</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/affordable-pc-monitoring-software/"><u>Affordable PC Monitoring Software</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Oppo Find N3 Flip? | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/cities-skylines-unveiled-the-compelling-world-of-building-and-managing-perfect-metropolises/"><u>Cities: Skylines Unveiled – The Compelling World of Building and Managing Perfect Metropolises</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/dealing-with-graphics-hardware-issues-a-step-by-step-guide-by-yl-software-experts/"><u>Dealing with Graphics Hardware Issues: A Step-by-Step Guide by YL Software Experts</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/how-to-adjust-your-internet-connection-via-windows-pcs-control-panel-guided-steps-by-yl-computing/"><u>How to Adjust Your Internet Connection via Windows PC's Control Panel - Guided Steps by YL Computing</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-superior-introductory-editors-for-mobile-apps/"><u>In 2024, Superior Introductory Editors for Mobile Apps</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/resolving-print-job-issues-a-comprehensive-guide-by-yl-software/"><u>Resolving Print Job Issues: A Comprehensive Guide by YL Software</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/troubleshooting-guide-fix-your-scanner-issues-quickly-tips-from-yl-computing/"><u>Troubleshooting Guide: Fix Your Scanner Issues Quickly - Tips From YL Computing</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/understanding-sun-yat-sens-pivotal-contributions-to-the-founding-of-the-republic-of-china-insights-from-yl-computing-and-yl-software/"><u>Understanding Sun Yat-Sen's Pivotal Contributions to the Founding of the Republic of China - Insights From YL Computing and YL Software</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unlock-the-ultimate-list-of-prime-day-2-cuyamanga-2024-gaming-discounts-still-on-sale-zdnet-insights/"><u>Unlock the Ultimate List of Prime Day 2 Cuyamanga 2024 Gaming Discounts Still On Sale | ZDNET Insights</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-elite-hd-visuals-selecting-top-quality-recorders/"><u>[Updated] In 2024, Elite HD Visuals Selecting Top Quality Recorders</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-10-must-have-features-for-optimal-free-srt-tools/"><u>2024 Approved 10 Must-Have Features for Optimal Free SRT Tools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-jumpstart-earnings-a-novice-written-guide/"><u>2024 Approved Jumpstart Earnings A Novice’ Written Guide</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/accuracy-matters-solving-scanner-size-discrepancies-with-help-from-yl-software-experts/"><u>Accuracy Matters: Solving Scanner Size Discrepancies with Help From YL Software Experts</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/brighten-up-that-dull-as-asus-laptop-screen/"><u>Brighten up that Dull as Asus Laptop Screen</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/exploring-the-jurisprudence-of-digital-tokens-a-comprehensive-guide-by-yl-computing/"><u>Exploring the Jurisprudence of Digital Tokens: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/get-directx-installed-in-a-flash-compatible-with-windows-11-and-10/"><u>Get DirectX Installed in a Flash: Compatible with Windows 11 and 10</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/identifying-the-root-of-your-gpus-overheating-issue-expert-insights-from-yl-computing/"><u>Identifying the Root of Your GPU's Overheating Issue: Expert Insights From YL Computing</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/is-there-hope-for-retrieving-deleted-documents-explore-file-recovery-solutions-at-yl-software/"><u>Is There Hope for Retrieving Deleted Documents? Explore File Recovery Solutions at YL Software</u></a></li>
+<li><a href="https://win11.techidaily.com/learn-to-leverage-windows-11s-pcm-bar-tools-quickly-and-effectively/"><u>Learn to Leverage Windows 11'S PCM Bar Tools Quickly & Effectively</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-preferred-6-web-linked-audiophone-extraction-devices-for-2024/"><u>New Preferred 6 Web-Linked Audiophone Extraction Devices for 2024</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/set-up-secure-file-access-controls-in-windows-with-yls-expert-tutorial/"><u>Set Up Secure File Access Controls in Windows with YL's Expert Tutorial</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/step-by-step-instructions-for-opening-device-manager-in-windows-tips-from-yl-computer-experts/"><u>Step-by-Step Instructions for Opening Device Manager in Windows - Tips From YL Computer Experts</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/troubleshooting-bad-memory-modules-essential-tips-by-yl-software-experts/"><u>Troubleshooting Bad Memory Modules - Essential Tips by YL Software Experts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-leading-mp3-players-ranked-by-zdnet-experts/"><u>Ultimate Guide: Leading MP3 Players Ranked by ZDNet Experts</u></a></li>
 </ul></div>
 

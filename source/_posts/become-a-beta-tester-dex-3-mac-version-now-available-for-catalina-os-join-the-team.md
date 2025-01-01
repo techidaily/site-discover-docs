@@ -1,7 +1,7 @@
 ---
 title: "Become a Beta Tester: DEX 3 Mac Version Now Available for Catalina OS | Join the Team!"
-date: 2024-12-23T16:05:58.515Z
-updated: 2024-12-24T16:22:31.865Z
+date: 2024-12-24T16:02:16.665Z
+updated: 2024-12-30T16:02:02.250Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ For now, we are asking for a few DEX 3 customers that are using newer Apple comp
 **Important Notes:** 10.14 or 10.15 of macOS is needed to run the Catalina-specific DEX 3 beta. While tested internally, this is a beta release, and should not be used in a venue/production environment. Specifically, the GUI/interface and video/karaoke should be tested as the changes there are massive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,22 +50,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/03/dex-catalina-beta.jpg?fit=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-beauty-blogging-101-starting-up-as-an-aesthetic-vlogger/"><u>[New] 2024 Approved Beauty Blogging 101 Starting Up as an Aesthetic Vlogger</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-activating-or-deactivating-user-feedback-on-videos/"><u>[New] In 2024, Activating or Deactivating User Feedback on Videos</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-best-investment-in-streaming-comparative-evaluation/"><u>[Updated] Best Investment in Streaming Comparative Evaluation</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-digital-film-composer/"><u>[Updated] In 2024, Digital Film Composer</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/nt-creation-conundrum-where-to-go-for-2024/"><u>Content Creation Conundrum Where to Go for 2024</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/dazzling-high-res-anne-hathaway-wallpapers-and-imagery-powered-by-yl-software-solutions/"><u>Dazzling High-Res Anne Hathaway Wallpapers and Imagery - Powered by YL Software Solutions</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/discover-unique-sally-carrera-desktop-art-by-yl-software-premium-wallpapers-and-images-for-fans/"><u>Discover Unique Sally Carrera Desktop Art by YL Software: Premium Wallpapers and Images for Fans!</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/high-definition-audi-q3-sportback-wallpaper-collection-premium-desktop-scenes-by-yl-software/"><u>High-Definition Audi Q3 Sportback Wallpaper Collection: Premium Desktop Scenes by YL Software</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-fix-windows-7-network-adaptor-driver-problems-solution/"><u>How to Fix Windows 7 Network Adaptor Driver Problems - SOLUTION</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/identifying-faulty-memory-modules-a-step-by-step-guide-yl-technologies/"><u>Identifying Faulty Memory Modules: A Step-by-Step Guide - YL Technologies</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-7-comedy-youtube-video-ideas-that-funny-people-can-try/"><u>In 2024, 7 Comedy YouTube Video Ideas That Funny People Can Try</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-15-plus-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone 15 Plus Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/monitor-the-evolution-of-your-bitcoin-sv-address-funds-an-insider-look-with-yl-software-tools-and-techniques/"><u>Monitor the Evolution of Your Bitcoin SV Address Funds: An Insider Look with YL Software Tools and Techniques</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/step-by-step-guide-accessing-and-exploring-zip-file-content-on-windows-tips-from-yl-computing/"><u>Step-by-Step Guide: Accessing and Exploring Zip File Content on Windows - Tips From YL Computing</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/step-by-step-tutorial-view-and-edit-docx-documents-in-windows-with-ease-from-yl-computing-experts/"><u>Step-by-Step Tutorial: View & Edit .DOCX Documents in Windows with Ease From YL Computing Experts.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/threefold-mastery-in-dialogue-unleashing-power-with-chatgpt-and-wolfram-alpha/"><u>Threefold Mastery in Dialogue: Unleashing Power with ChatGPT & Wolfram Alpha</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/visual-inspiration-with-adidas-themes-ultra-hd-background-imagery-portfolio-yl-software-solutions/"><u>Visual Inspiration with Adidas Themes: Ultra HD Background Imagery Portfolio - YL Software Solutions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-metaverse-and-multimetase-core-disparities-explored/"><u>[New] Unveiling the Metaverse & MultiMetase Core Disparities Explored</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-battle-of-the-titans-gopro-hero5-black-vs-session/"><u>2024 Approved Battle of the Titans GoPro Hero5 Black VS Session</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-the-ultimate-guide-capturing-your-ps4-experience/"><u>2024 Approved The Ultimate Guide Capturing Your PS4 Experience</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/discover-charming-komi-san-graphics-and-themes-for-your-pc-curated-by-yl-computing-solutions/"><u>Discover Charming Komi-San Graphics & Themes for Your PC, Curated by YL Computing Solutions</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/distinguishing-features-of-public-vs-private-encryption-keys-an-insight-by-yl-computing/"><u>Distinguishing Features of Public vs Private Encryption Keys: An Insight by YL Computing</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/effective-techniques-for-uninstalling-applications-via-the-control-panel-advice-from-yl-software-experts/"><u>Effective Techniques for Uninstalling Applications via the Control Panel - Advice From YL Software Experts</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/how-can-you-tailor-your-preferences-in-yl-computings-control-center-explore-with-yl-software/"><u>How Can You Tailor Your Preferences in YL Computing's Control Center - Explore with YL Software</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-vivo-y100a-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Vivo Y100A without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/revive-your-gpu-solutions-for-restoring-static-damaged-graphics-cards-with-yl-software-guidance/"><u>Revive Your GPU: Solutions for Restoring Static-Damaged Graphics Cards with YL Software Guidance</u></a></li>
+<li><a href="https://win11.techidaily.com/routes-to-the-windows-11-security-configuration/"><u>Routes to the Windows 11 Security Configuration</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/simplify-collaboration-in-windows-10-effective-use-of-zoom-services/"><u>Simplify Collaboration in Windows 10 Effective Use of Zoom Services</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/solving-unresponsive-mouse-problems-expert-tips-from-yl-computings-tech-team/"><u>Solving Unresponsive Mouse Problems: Expert Tips From YL Computing's Tech Team</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/troubleshooting-your-display-drivers-with-help-from-yl-software-solutions/"><u>Troubleshooting Your Display Drivers with Help From YL Software Solutions</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-best-free-4k-video-converters-for-windows-and-mac/"><u>Updated In 2024, Best Free 4K Video Converters for Windows and Mac</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725290651830-windowsdvd/"><u>Windows用DVD作成ソフトが機能しない時の解決法集</u></a></li>
 </ul></div>
 
