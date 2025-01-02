@@ -1,7 +1,7 @@
 ---
 title: "Become a Beta Tester: DEX 3 Mac Version Now Available for Catalina OS | Join the Team!"
-date: 2024-12-24T16:02:16.665Z
-updated: 2024-12-30T16:02:02.250Z
+date: 2024-12-25T17:30:30.892Z
+updated: 2025-01-01T18:19:20.029Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ For now, we are asking for a few DEX 3 customers that are using newer Apple comp
 **Important Notes:** 10.14 or 10.15 of macOS is needed to run the Catalina-specific DEX 3 beta. While tested internally, this is a beta release, and should not be used in a venue/production environment. Specifically, the GUI/interface and video/karaoke should be tested as the changes there are massive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,20 +50,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/03/dex-catalina-beta.jpg?fit=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-unveiling-the-metaverse-and-multimetase-core-disparities-explored/"><u>[New] Unveiling the Metaverse & MultiMetase Core Disparities Explored</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-battle-of-the-titans-gopro-hero5-black-vs-session/"><u>2024 Approved Battle of the Titans GoPro Hero5 Black VS Session</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-the-ultimate-guide-capturing-your-ps4-experience/"><u>2024 Approved The Ultimate Guide Capturing Your PS4 Experience</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/discover-charming-komi-san-graphics-and-themes-for-your-pc-curated-by-yl-computing-solutions/"><u>Discover Charming Komi-San Graphics & Themes for Your PC, Curated by YL Computing Solutions</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/distinguishing-features-of-public-vs-private-encryption-keys-an-insight-by-yl-computing/"><u>Distinguishing Features of Public vs Private Encryption Keys: An Insight by YL Computing</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/effective-techniques-for-uninstalling-applications-via-the-control-panel-advice-from-yl-software-experts/"><u>Effective Techniques for Uninstalling Applications via the Control Panel - Advice From YL Software Experts</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/how-can-you-tailor-your-preferences-in-yl-computings-control-center-explore-with-yl-software/"><u>How Can You Tailor Your Preferences in YL Computing's Control Center - Explore with YL Software</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-vivo-y100a-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Vivo Y100A without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/revive-your-gpu-solutions-for-restoring-static-damaged-graphics-cards-with-yl-software-guidance/"><u>Revive Your GPU: Solutions for Restoring Static-Damaged Graphics Cards with YL Software Guidance</u></a></li>
-<li><a href="https://win11.techidaily.com/routes-to-the-windows-11-security-configuration/"><u>Routes to the Windows 11 Security Configuration</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/simplify-collaboration-in-windows-10-effective-use-of-zoom-services/"><u>Simplify Collaboration in Windows 10 Effective Use of Zoom Services</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/solving-unresponsive-mouse-problems-expert-tips-from-yl-computings-tech-team/"><u>Solving Unresponsive Mouse Problems: Expert Tips From YL Computing's Tech Team</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/troubleshooting-your-display-drivers-with-help-from-yl-software-solutions/"><u>Troubleshooting Your Display Drivers with Help From YL Software Solutions</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-best-free-4k-video-converters-for-windows-and-mac/"><u>Updated In 2024, Best Free 4K Video Converters for Windows and Mac</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1725290651830-windowsdvd/"><u>Windows用DVD作成ソフトが機能しない時の解決法集</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-be-a-reddit-pro-the-13-best-ways-to-make-cash-fast-and-easy-for-2024/"><u>[New] Be a Reddit Pro The 13 Best Ways to Make Cash Fast & Easy for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-from-flat-to-360-comparing-googles-cardboard-and-samsungs-gear/"><u>[Updated] 2024 Approved From Flat to 360 Comparing Google's Cardboard & Samsung's Gear</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-skype-symphony-a-roundup-of-high-quality-ringtones/"><u>[Updated] Skype Symphony A Roundup of High-Quality Ringtones</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-breathe-life-into-images-step-by-step-text-editing-guide/"><u>2024 Approved Breathe Life Into Images Step-by-Step Text Editing Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-trending-titles-navigating-through-facebooks-hot-takes/"><u>2024 Approved Trending Titles Navigating Through Facebook's Hot Takes</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/digiarty-digital-media-tools-dvd-ripping-iphone-extraction-and-ipad-conversion-suite/"><u>Digiarty Digital Media Tools: DVD Ripping, iPhone Extraction & iPad Conversion Suite</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-infinix-hot-40-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Infinix Hot 40 Quickly | Dr.fone</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/free-methods-for-adding-subtitles-to-your-videos-desktop-online-tools-and-mobile-apps/"><u>Free Methods for Adding Subtitles to Your Videos: Desktop, Online Tools & Mobile Apps</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/gratis-high-definition-video-player-herunterladen-fur-den-computer-vollwertiges-streaming-von-1080p-und-720p-videos/"><u>Gratis High Definition Video Player Herunterladen Für Den Computer: Vollwertiges Streaming Von 1080P Und 720P Videos</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-bringing-your-vision-to-life-posting-photos-on-youtube/"><u>In 2024, Bringing Your Vision to Life Posting Photos on YouTube</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/ps4-live-broadcasting-101-with-obs-recording-tips/"><u>PS4 Live Broadcasting 101 with OBS Recording Tips</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/step-by-step-tutorial-on-adding-captions-and-subtitles-to-films-and-videos/"><u>Step-by-Step Tutorial on Adding Captions and Subtitles to Films & Videos</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/successfully-importing-hevc-videos-in-adobe-premiere-pro-tips-and-solutions/"><u>Successfully Importing HEVC Videos in Adobe Premiere Pro: Tips & Solutions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/transformar-video-de-formato-wmv-al-facil-y-gratuito-a-mp4-en-pcmac-o-en-linea/"><u>Transformar Vídeo De Formato WMV Al Fácil Y Gratuito a MP4 en PC/Mac O En Línea</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/ultimate-preparation-handbook-top-tips-and-techniques-for-fifa-russia-2018-world-cup-success/"><u>Ultimate Preparation Handbook: Top Tips & Techniques for FIFA Russia 2018 World Cup Success</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/videobytebddvd/"><u>VideoByte評価：BD・DVDライティングの安全確保と最新機能について</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/winxdvd-pro-all-in-one-dvd-ripping-and-media-conversion-tool-official-site/"><u>WinXDVD Pro: All-in-One DVD Ripping & Media Conversion Tool – Official Site</u></a></li>
 </ul></div>
 
