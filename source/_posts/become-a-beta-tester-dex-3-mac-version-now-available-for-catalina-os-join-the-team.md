@@ -1,7 +1,7 @@
 ---
 title: "Become a Beta Tester: DEX 3 Mac Version Now Available for Catalina OS | Join the Team!"
-date: 2024-12-25T17:30:30.892Z
-updated: 2025-01-01T18:19:20.029Z
+date: 2024-12-29T21:40:48.928Z
+updated: 2025-01-01T17:31:38.610Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ For now, we are asking for a few DEX 3 customers that are using newer Apple comp
 **Important Notes:** 10.14 or 10.15 of macOS is needed to run the Catalina-specific DEX 3 beta. While tested internally, this is a beta release, and should not be used in a venue/production environment. Specifically, the GUI/interface and video/karaoke should be tested as the changes there are massive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,24 +50,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/03/dex-catalina-beta.jpg?fit=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-be-a-reddit-pro-the-13-best-ways-to-make-cash-fast-and-easy-for-2024/"><u>[New] Be a Reddit Pro The 13 Best Ways to Make Cash Fast & Easy for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-from-flat-to-360-comparing-googles-cardboard-and-samsungs-gear/"><u>[Updated] 2024 Approved From Flat to 360 Comparing Google's Cardboard & Samsung's Gear</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-skype-symphony-a-roundup-of-high-quality-ringtones/"><u>[Updated] Skype Symphony A Roundup of High-Quality Ringtones</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-breathe-life-into-images-step-by-step-text-editing-guide/"><u>2024 Approved Breathe Life Into Images Step-by-Step Text Editing Guide</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-trending-titles-navigating-through-facebooks-hot-takes/"><u>2024 Approved Trending Titles Navigating Through Facebook's Hot Takes</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/digiarty-digital-media-tools-dvd-ripping-iphone-extraction-and-ipad-conversion-suite/"><u>Digiarty Digital Media Tools: DVD Ripping, iPhone Extraction & iPad Conversion Suite</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-infinix-hot-40-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Infinix Hot 40 Quickly | Dr.fone</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/free-methods-for-adding-subtitles-to-your-videos-desktop-online-tools-and-mobile-apps/"><u>Free Methods for Adding Subtitles to Your Videos: Desktop, Online Tools & Mobile Apps</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/gratis-high-definition-video-player-herunterladen-fur-den-computer-vollwertiges-streaming-von-1080p-und-720p-videos/"><u>Gratis High Definition Video Player Herunterladen Für Den Computer: Vollwertiges Streaming Von 1080P Und 720P Videos</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Lava Blaze 2 | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-bringing-your-vision-to-life-posting-photos-on-youtube/"><u>In 2024, Bringing Your Vision to Life Posting Photos on YouTube</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/ps4-live-broadcasting-101-with-obs-recording-tips/"><u>PS4 Live Broadcasting 101 with OBS Recording Tips</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/step-by-step-tutorial-on-adding-captions-and-subtitles-to-films-and-videos/"><u>Step-by-Step Tutorial on Adding Captions and Subtitles to Films & Videos</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/successfully-importing-hevc-videos-in-adobe-premiere-pro-tips-and-solutions/"><u>Successfully Importing HEVC Videos in Adobe Premiere Pro: Tips & Solutions</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/transformar-video-de-formato-wmv-al-facil-y-gratuito-a-mp4-en-pcmac-o-en-linea/"><u>Transformar Vídeo De Formato WMV Al Fácil Y Gratuito a MP4 en PC/Mac O En Línea</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/ultimate-preparation-handbook-top-tips-and-techniques-for-fifa-russia-2018-world-cup-success/"><u>Ultimate Preparation Handbook: Top Tips & Techniques for FIFA Russia 2018 World Cup Success</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/videobytebddvd/"><u>VideoByte評価：BD・DVDライティングの安全確保と最新機能について</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/winxdvd-pro-all-in-one-dvd-ripping-and-media-conversion-tool-official-site/"><u>WinXDVD Pro: All-in-One DVD Ripping & Media Conversion Tool – Official Site</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-soundtrack-your-storytelling-youtube-music-for-video-content/"><u>[New] In 2024, Soundtrack Your Storytelling YouTube Music for Video Content</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-instantaneous-inspector-of-images-on-windows/"><u>[New] Instantaneous Inspector of Images on Windows</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-elevate-your-video-visibility-11-secrets-of-successful-seo/"><u>[Updated] 2024 Approved Elevate Your Video Visibility 11 Secrets of Successful SEO</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-filmmakers-guide-producing-engaging-youtube-splits-for-2024/"><u>[Updated] The Filmmaker's Guide Producing Engaging YouTube Splits for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/acer-drivers-update-in-windows-10-easy-and-fast/"><u>Acer Drivers Update in Windows 10 - Easy & Fast</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/adjusting-screen-resolution-and-orientation-via-windows-control-panel-tutorial-by-yl-software/"><u>Adjusting Screen Resolution & Orientation via Windows Control Panel - Tutorial by YL Software</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/effective-windows-tools-for-identifying-and-fixing-hardware-issues-expert-advice-from-yl-computing/"><u>Effective Windows Tools for Identifying and Fixing Hardware Issues - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-correctly-set-up-your-pc-for-gaming-with-easy-anti-cheat-avoid-eac-launch-error/"><u>How To Correctly Set Up Your PC for Gaming with Easy Anti-Cheat - Avoid 'EAC Launch Error'</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-tecno-spark-20-pro-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Tecno Spark 20 Pro to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/noise-free-troubleshooting-how-to-restore-sounds-on-your-computer-with-yl-software-techniques/"><u>Noise-Free Troubleshooting: How to Restore Sounds on Your Computer with YL Software Techniques</u></a></li>
+<li><a href="https://facebook.techidaily.com/premier-league-leaders-ban-social-platform-use-over-negative-commentary/"><u>Premier League Leaders Ban Social Platform Use Over Negative Commentary</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-disabled-pin-removal-tool-on-windows-11-pc/"><u>Reviving Disabled PIN Removal Tool on Windows 11 PC</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/solving-your-pcs-audio-troubles-expert-guide-on-repairing-sound-card-problems-tips-from-yl-computing/"><u>Solving Your PC's Audio Troubles: Expert Guide on Repairing Sound Card Problems - Tips From YL Computing</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/steps-to-reset-your-admin-login-credentials-a-guide-by-yl-computing/"><u>Steps to Reset Your Admin Login Credentials - A Guide by YL Computing</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/troubleshooting-and-repairing-laptop-hardware-problems-a-comprehensive-guide-by-yl-computing/"><u>Troubleshooting & Repairing Laptop Hardware Problems: A Comprehensive Guide by YL Computing</u></a></li>
 </ul></div>
 

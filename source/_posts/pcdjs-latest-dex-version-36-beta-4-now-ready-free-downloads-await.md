@@ -1,7 +1,7 @@
 ---
 title: "PCDJ's Latest DEX Version 3.6 Beta 4 Now Ready: Free Downloads Await!"
-date: 2024-12-27T16:57:04.279Z
-updated: 2025-01-01T16:56:34.133Z
+date: 2024-12-30T01:06:40.598Z
+updated: 2025-01-01T21:02:33.965Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ Also new in DEX 3.6 beta 4 is the ability to **record your video mix set on Wind
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What’s New And Changed In DEX 3.6 Beta 4
@@ -59,7 +59,7 @@ Also new in DEX 3.6 beta 4 is the ability to **record your video mix set on Wind
 _If you have any questions or problems running the DEX 3.6 **DJ and Video Mixing Software** beta version please post to the [DEX 3 user forum](https://tools.techidaily.com/pcdj/products/)._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,19 +81,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/04/dex36-beta4-coverimage.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-audiovisual-symphony-adding-music-to-your-youtube-masterpieces-for-2024/"><u>[New] Audiovisual Symphony Adding Music to Your YouTube Masterpieces for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-auto-arcade-adventures-for-kids/"><u>[New] Auto Arcade Adventures for Kids</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-mastering-xbox-one-step-by-step-screen-capture-guide/"><u>[Updated] In 2024, Mastering Xbox One Step-by-Step Screen Capture Guide</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/1725286122395-dvd/"><u>「手軽で使いやすい新しい方法:レンタルDVDを安全にダビングするためのヒント」</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-top-pick-unlimited-valorant-sound-transformation-tool-free/"><u>2024 Approved Top Pick Unlimited Valorant Sound Transformation Tool (Free)</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/accelerate-video-transcoding-with-handbrake-gpu-based-solutions-and-frequently-asked-questions/"><u>Accelerate Video Transcoding with Handbrake: GPU-Based Solutions and Frequently Asked Questions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/best-all-in-one-cable-modemrouter-systems-of-2024-reviewed/"><u>Best All-in-One Cable Modem/Router Systems of 2024 Reviewed</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-a78-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on A78</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/mastering-zoom-recording-a-step-by-step-manual-for-both-hosts-and-attendees/"><u>Mastering Zoom Recording: A Step-by-Step Manual for Both Hosts & Attendees</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/solving-common-issues-with-windows-movie-maker-on-latest-windows-versions/"><u>Solving Common Issues with Windows Movie Maker on Latest Windows Versions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/speed-demos-winning-keyboard-cars-for-windows-pc/"><u>Speed Demos: Winning Keyboard Cars for Windows PC</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/step-by-step-aps-guide-to-crafting-exquisite-hdr-photos-for-2024/"><u>Step-by-Step APS Guide to Crafting Exquisite HDR Photos for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-samsung-galaxy-xcover-6-pro-tactical-edition-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Samsung Galaxy XCover 6 Pro Tactical Edition Users</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/44kq44oz44op44kk44oz44gn57ch5y2y44gr55s75yop44ks6auy5zob6loq44gq5yuv55s744gr77yb5asj5oplusb44k144kk44oi57s55lul44gx44gplus44gz/"><u>オンラインで簡単に画像を高品質な動画に！変換サイト紹介します</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-public-domain-soundtracks-downloadable-playing-games/"><u>[New] In 2024, Public Domain Soundtracks Downloadable, Playing Games</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-ethereal-frame-deacceleration-manual/"><u>[Updated] 2024 Approved Ethereal Frame Deacceleration Manual</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-raw-to-masterpiece-the-premier-free-mobile-editors-for-android/"><u>[Updated] 2024 Approved From Raw to Masterpiece The Premier Free Mobile Editors for Android</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-capturing-life-in-high-res-chromatic-shades-with-4k/"><u>[Updated] Capturing Life in High-Res Chromatic Shades with 4K</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/become-a-beta-tester-dex-3-mac-version-now-available-for-catalina-os-join-the-team/"><u>Become a Beta Tester: DEX 3 Mac Version Now Available for Catalina OS | Join the Team!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-integration-making-full-use-of-chatgpt-features-on-your-mac/"><u>Effortless Integration: Making Full Use of ChatGPT Features on Your Mac</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/evaluating-scanner-performance-identifying-defective-components-with-yl-software-solutions/"><u>Evaluating Scanner Performance: Identifying Defective Components with YL Software Solutions</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/how-to-fix-a-non-booting-pc-essential-steps-and-tips-expert-advice-from-yl-computing/"><u>How to Fix a Non-Booting PC: Essential Steps and Tips - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-datadeliverers-professional-view/"><u>In 2024, DataDeliverers Professional View</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-simple-voice-changer-software-features-guidelines-and-alternatives-for-2024/"><u>New Simple Voice Changer Software Features, Guidelines and Alternatives for 2024</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/optimize-and-personalize-user-journey-using-cookiebot-technology/"><u>Optimize & Personalize User Journey Using Cookiebot Technology</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/preventive-measures-for-pc-heat-management-essential-guide-by-yl-software-of-yl-computing/"><u>Preventive Measures for PC Heat Management - Essential Guide by YL Software of YL Computing</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/revitalize-your-pc-a-guide-to-refreshing-windows-drivers-with-yl-computing/"><u>Revitalize Your PC: A Guide to Refreshing Windows Drivers with YL Computing</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/troubleshooting-non-functional-input-devices-in-windows-a-comprehensive-guide-by-yl-software-experts/"><u>Troubleshooting Non-Functional Input Devices in Windows: A Comprehensive Guide by YL Software Experts</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/troubleshooting-scan-devices-energy-supply-insights-from-yl-computing/"><u>Troubleshooting Scan Device's Energy Supply: Insights From YL Computing</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/win10-video-capture-pro-professional-edition-for-2024/"><u>Win10 Video Capture Pro - Professional Edition for 2024</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/yl-software-explained-adding-fresh-accounts-through-the-easy-to-use-control-panel-interface/"><u>YL Software Explained: Adding Fresh Accounts Through the Easy-to-Use Control Panel Interface</u></a></li>
 </ul></div>
 
