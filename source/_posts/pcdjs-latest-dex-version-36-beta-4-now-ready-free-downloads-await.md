@@ -1,7 +1,7 @@
 ---
 title: "PCDJ's Latest DEX Version 3.6 Beta 4 Now Ready: Free Downloads Await!"
-date: 2024-12-30T01:06:40.598Z
-updated: 2025-01-01T21:02:33.965Z
+date: 2025-01-03T16:09:37.266Z
+updated: 2025-01-08T17:27:44.796Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ Also new in DEX 3.6 beta 4 is the ability to **record your video mix set on Wind
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What’s New And Changed In DEX 3.6 Beta 4
@@ -59,7 +59,7 @@ Also new in DEX 3.6 beta 4 is the ability to **record your video mix set on Wind
 _If you have any questions or problems running the DEX 3.6 **DJ and Video Mixing Software** beta version please post to the [DEX 3 user forum](https://tools.techidaily.com/pcdj/products/)._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,22 +81,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/04/dex36-beta4-coverimage.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-public-domain-soundtracks-downloadable-playing-games/"><u>[New] In 2024, Public Domain Soundtracks Downloadable, Playing Games</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-ethereal-frame-deacceleration-manual/"><u>[Updated] 2024 Approved Ethereal Frame Deacceleration Manual</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-raw-to-masterpiece-the-premier-free-mobile-editors-for-android/"><u>[Updated] 2024 Approved From Raw to Masterpiece The Premier Free Mobile Editors for Android</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-capturing-life-in-high-res-chromatic-shades-with-4k/"><u>[Updated] Capturing Life in High-Res Chromatic Shades with 4K</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/become-a-beta-tester-dex-3-mac-version-now-available-for-catalina-os-join-the-team/"><u>Become a Beta Tester: DEX 3 Mac Version Now Available for Catalina OS | Join the Team!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-integration-making-full-use-of-chatgpt-features-on-your-mac/"><u>Effortless Integration: Making Full Use of ChatGPT Features on Your Mac</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/evaluating-scanner-performance-identifying-defective-components-with-yl-software-solutions/"><u>Evaluating Scanner Performance: Identifying Defective Components with YL Software Solutions</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/how-to-fix-a-non-booting-pc-essential-steps-and-tips-expert-advice-from-yl-computing/"><u>How to Fix a Non-Booting PC: Essential Steps and Tips - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-datadeliverers-professional-view/"><u>In 2024, DataDeliverers Professional View</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-simple-voice-changer-software-features-guidelines-and-alternatives-for-2024/"><u>New Simple Voice Changer Software Features, Guidelines and Alternatives for 2024</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/optimize-and-personalize-user-journey-using-cookiebot-technology/"><u>Optimize & Personalize User Journey Using Cookiebot Technology</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/preventive-measures-for-pc-heat-management-essential-guide-by-yl-software-of-yl-computing/"><u>Preventive Measures for PC Heat Management - Essential Guide by YL Software of YL Computing</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/revitalize-your-pc-a-guide-to-refreshing-windows-drivers-with-yl-computing/"><u>Revitalize Your PC: A Guide to Refreshing Windows Drivers with YL Computing</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/troubleshooting-non-functional-input-devices-in-windows-a-comprehensive-guide-by-yl-software-experts/"><u>Troubleshooting Non-Functional Input Devices in Windows: A Comprehensive Guide by YL Software Experts</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/troubleshooting-scan-devices-energy-supply-insights-from-yl-computing/"><u>Troubleshooting Scan Device's Energy Supply: Insights From YL Computing</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/win10-video-capture-pro-professional-edition-for-2024/"><u>Win10 Video Capture Pro - Professional Edition for 2024</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/yl-software-explained-adding-fresh-accounts-through-the-easy-to-use-control-panel-interface/"><u>YL Software Explained: Adding Fresh Accounts Through the Easy-to-Use Control Panel Interface</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-vimeo-overview-the-world-of-independent-film-hosting/"><u>[New] In 2024, Vimeo Overview The World of Independent Film Hosting</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-best-picture-repository-platforms/"><u>2024 Approved Best Picture Repository Platforms</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/57ch5pit5lplusu5asn5rwb56il77ya5peg5rov5yib5bu656ob55uy5yy65yir5qih5z6l55qe5ash5lu96zsz6kplusv5oyh5y2x/"><u>簡易修复流程：无法创建磁盘区别模型的备份错误指南</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/astuces-pour-faire-une-sauvegarde-totale-du-sysdemo-utilisation-de-wbadmin-sur-windows-10/"><u>Astuces Pour Faire Une Sauvegarde Totale Du Sysdémo : Utilisation De Wbadmin Sur Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boost-your-daily-efficiency-top-6-free-google-doc-extensions-featured-by-zdnet/"><u>Boost Your Daily Efficiency: Top 6 FREE Google Doc Extensions Featured by ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/dissecting-windows-memory-dumps-an-essential-skill/"><u>Dissecting Windows Memory Dumps: An Essential Skill</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-updates-for-your-toshiba-dynamic-pcs-with-windows-driver-downloads/"><u>Get the Newest Updates for Your Toshiba Dynamic PCs with Windows Driver Downloads</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/guida-passo-passo-per-creare-un-backup-dei-tuoi-applicazioni-su-windows-108711/"><u>Guida Passo-Passo per Creare Un Backup Dei Tuoi Applicazioni Su Windows 10/8/7/11</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-learn-youtube-editing-tricks-for-flawless-shortening/"><u>In 2024, Learn YouTube Editing Tricks for Flawless Shortening</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Ways to trade pokemon go from far away On Apple iPhone 6 Plus? | Dr.fone</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/ultimate-guide-track-down-and-restore-deleted-files-on-windows-or-mac/"><u>Ultimate Guide: Track Down and Restore Deleted Files on Windows or Mac</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/verlorene-ps4-dateien-wiedergewinnen-effektive-methoden-und-tipps-fur-eine-erfolgreiche-datenruckfuhrung/"><u>Verlorene PS4-Dateien Wiedergewinnen - Effektive Methoden Und Tipps Für Eine Erfolgreiche Datenrückführung</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/will-microsofts-latest-release-improve-or-irritate-your-tech-experience-find-out-on-zdnet/"><u>Will Microsoft's Latest Release Improve or Irritate Your Tech Experience? Find Out on ZDNet</u></a></li>
 </ul></div>
 
