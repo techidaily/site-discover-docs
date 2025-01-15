@@ -1,7 +1,7 @@
 ---
 title: "Become a Beta Tester: DEX 3 Mac Version Now Available for Catalina OS | Join the Team!"
-date: 2025-01-04T17:15:04.120Z
-updated: 2025-01-09T09:16:06.185Z
+date: 2025-01-08T02:48:43.659Z
+updated: 2025-01-14T18:59:21.774Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ For now, we are asking for a few DEX 3 customers that are using newer Apple comp
 **Important Notes:** 10.14 or 10.15 of macOS is needed to run the Catalina-specific DEX 3 beta. While tested internally, this is a beta release, and should not be used in a venue/production environment. Specifically, the GUI/interface and video/karaoke should be tested as the changes there are massive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,18 +50,21 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/03/dex-catalina-beta.jpg?fit=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/c-masterys-essential-list-for-video-download-enthusiasts/"><u>[New] PC Mastery's Essential List for Video Download Enthusiasts</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/5-astuces-simples-pour-reduire-et-organiser-le-folder-winsxs-sous-windows-10-and-7/"><u>5 Astuces Simples Pour Réduire Et Organiser Le Folder WinSxS Sous Windows 10 & 7</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/1728505544763-windows-11/"><u>瞭解及改善 Windows 11 啟動期間持續輪轉的原因和方法</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/diagnosing-and-fixing-ram-glitches-on-your-pc-a-step-by-step-approach-by-yl-computing-using-advanced-techniques-in-yl-software/"><u>Diagnosing and Fixing RAM Glitches on Your PC: A Step-by-Step Approach by YL Computing Using Advanced Techniques in YL Software</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723206903020-hp-laptop-keyboard-woes-heres-how-to-get-your-keys-working-again-in-no-time/"><u>HP Laptop Keyboard Woes? Here's How to Get Your Keys Working Again in No Time!</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-20plus-cool-metaverse-memes-a-deep-dive-guide/"><u>In 2024, 20+ Cool Metaverse Memes A Deep Dive Guide</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Google Pixel Fold | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-oppo-k11-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Oppo K11 5G For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/les-meilleurs-logiciels-de-mise-a-jour-libres-sur-windows-fiches-comparatives-pour-wid-synchronet-and-co/"><u>Les Meilleurs Logiciels De Mise À Jour Libres Sur Windows : Fiches Comparatives Pour Wid, SynchroNet & Co</u></a></li>
-<li><a href="https://some-tips.techidaily.com/my-experience-with-temus-off-brand-tech-gadgets-surprisingly-satisfactory/"><u>My Experience with Temu's Off-Brand Tech Gadgets - Surprisingly Satisfactory!</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/securing-emails-on-windows-10-using-two-effective-methods/"><u>Securing Emails on Windows 10 Using Two Effective Methods</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/stop-automatic-updates-on-your-windows-11-pc-with-these-easy-tricks/"><u>Stop Automatic Updates on Your Windows 11 PC with These Easy Tricks</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/wie-du-deinen-ipad-pro-air-oder-mini-mit-diesen-3-methoden-zur-ursprunglichen-konfiguration-zuruckfuhrst/"><u>Wie Du Deinen iPad Pro, Air Oder Mini Mit Diesen 3 Methoden Zur Ursprünglichen Konfiguration Zurückführst</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-best-livestream-capturing-solutions-for-content-makers-for-2024/"><u>[Updated] Best Livestream Capturing Solutions for Content Makers for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-decoding-the-metrics-for-youtube-video-hierarchy/"><u>[Updated] In 2024, Decoding the Metrics for YouTube Video Hierarchy</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-chromebooks-finest-drawing-software-compared/"><u>2024 Approved Chromebook's Finest Drawing Software Compared</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-cultivating-commitment-gentle-subscription-strategies/"><u>2024 Approved Cultivating Commitment Gentle Subscription Strategies</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-groundwork-on-image-detail-a-novices-reference/"><u>2024 Approved Groundwork on Image Detail A Novice's Reference</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/best-gratuito-photoshop-alternatives-for-editors-the-ultimate-selection/"><u>Best Gratuito Photoshop Alternatives for Editors - The Ultimate Selection</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-video-trimming-on-windows-10-tips-for-efficiency-and-precision/"><u>Mastering Video Trimming on Windows 10 Tips for Efficiency and Precision</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/mise-a-niveau-de-votre-contenu-video-convertissez-vos-fichiers-mod-en-avi-facilement-et-sans-frais-via-movavi-online/"><u>Mise À Niveau De Votre Contenu Vidéo : Convertissez Vos Fichiers MOD en AVI Facilement Et Sans Frais, via Movavi Online</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/mov-to-ogv-converter-online-and-gratuit-utiliser-le-service-de-conversion-video-de-movavi/"><u>MOV to OGV Converter Online & Gratuit: Utiliser Le Service De Conversion Vidéo De Movavi!</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/movavi-4k-video-transcoder-seamless-high-definition-upgrading-from-4k-to-full-hd/"><u>Movavi 4K Video Transcoder: Seamless High-Definition Upgrading From 4K to Full HD</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-javascript-dll-issues-a-comprehensive-guide/"><u>Resolving JavaScript DLL Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/transform-your-tiffs-into-any-format-for-zero-cost-using-movavis-web-service/"><u>Transform Your TIFFs Into Any Format for Zero Cost Using Movavi's Web Service</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/trasforma-immagini-raw-in-formato-bmp-online-di-gratuita-con-movavi-convertitore-rapido/"><u>Trasforma Immagini RAW in Formato BMP Online Di Gratuità Con Movavi - Convertitore Rapido</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-synchronizing-sonic-elements-controlling-audio-duration-and-tonality-in-adobe-rush/"><u>Updated Synchronizing Sonic Elements Controlling Audio Duration and Tonality in Adobe Rush</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/movavimp4avi/"><u>オンラインで簡単に変換! MovaviのフリーMP4へのAVIコンバーター</u></a></li>
 </ul></div>
 
