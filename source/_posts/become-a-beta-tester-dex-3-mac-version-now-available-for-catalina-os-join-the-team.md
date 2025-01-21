@@ -1,7 +1,7 @@
 ---
 title: "Become a Beta Tester: DEX 3 Mac Version Now Available for Catalina OS | Join the Team!"
-date: 2025-01-08T02:48:43.659Z
-updated: 2025-01-14T18:59:21.774Z
+date: 2025-01-14T12:36:10.252Z
+updated: 2025-01-21T00:15:24.481Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ For now, we are asking for a few DEX 3 customers that are using newer Apple comp
 **Important Notes:** 10.14 or 10.15 of macOS is needed to run the Catalina-specific DEX 3 beta. While tested internally, this is a beta release, and should not be used in a venue/production environment. Specifically, the GUI/interface and video/karaoke should be tested as the changes there are massive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,21 +50,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/03/dex-catalina-beta.jpg?fit=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-best-livestream-capturing-solutions-for-content-makers-for-2024/"><u>[Updated] Best Livestream Capturing Solutions for Content Makers for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-decoding-the-metrics-for-youtube-video-hierarchy/"><u>[Updated] In 2024, Decoding the Metrics for YouTube Video Hierarchy</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-chromebooks-finest-drawing-software-compared/"><u>2024 Approved Chromebook's Finest Drawing Software Compared</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-cultivating-commitment-gentle-subscription-strategies/"><u>2024 Approved Cultivating Commitment Gentle Subscription Strategies</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-groundwork-on-image-detail-a-novices-reference/"><u>2024 Approved Groundwork on Image Detail A Novice's Reference</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/best-gratuito-photoshop-alternatives-for-editors-the-ultimate-selection/"><u>Best Gratuito Photoshop Alternatives for Editors - The Ultimate Selection</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Honor X9b | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastering-video-trimming-on-windows-10-tips-for-efficiency-and-precision/"><u>Mastering Video Trimming on Windows 10 Tips for Efficiency and Precision</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/mise-a-niveau-de-votre-contenu-video-convertissez-vos-fichiers-mod-en-avi-facilement-et-sans-frais-via-movavi-online/"><u>Mise À Niveau De Votre Contenu Vidéo : Convertissez Vos Fichiers MOD en AVI Facilement Et Sans Frais, via Movavi Online</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/mov-to-ogv-converter-online-and-gratuit-utiliser-le-service-de-conversion-video-de-movavi/"><u>MOV to OGV Converter Online & Gratuit: Utiliser Le Service De Conversion Vidéo De Movavi!</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/movavi-4k-video-transcoder-seamless-high-definition-upgrading-from-4k-to-full-hd/"><u>Movavi 4K Video Transcoder: Seamless High-Definition Upgrading From 4K to Full HD</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resolving-javascript-dll-issues-a-comprehensive-guide/"><u>Resolving JavaScript DLL Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/transform-your-tiffs-into-any-format-for-zero-cost-using-movavis-web-service/"><u>Transform Your TIFFs Into Any Format for Zero Cost Using Movavi's Web Service</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/trasforma-immagini-raw-in-formato-bmp-online-di-gratuita-con-movavi-convertitore-rapido/"><u>Trasforma Immagini RAW in Formato BMP Online Di Gratuità Con Movavi - Convertitore Rapido</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-synchronizing-sonic-elements-controlling-audio-duration-and-tonality-in-adobe-rush/"><u>Updated Synchronizing Sonic Elements Controlling Audio Duration and Tonality in Adobe Rush</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/movavimp4avi/"><u>オンラインで簡単に変換! MovaviのフリーMP4へのAVIコンバーター</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-illustrators-dream-top-8-ipados-drawers/"><u>[New] Illustrator's Dream Top 8 iPadOS Drawers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-vuephoto-ai-powered-editing/"><u>[Updated] In 2024, VuePhoto AI-Powered Editing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-time-travelers-treasure-a-look-at-goofy-movie/"><u>2024 Approved Time Traveler’s Treasure A Look at 'Goofy Movie'</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/earning-digital-gold-the-ultimate-guide-to-cryptocurrency-investments-by-yl-software-experts/"><u>Earning Digital Gold: The Ultimate Guide to Cryptocurrency Investments by YL Software Experts</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Realme PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-vivo-y78plus-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Vivo Y78+ Location | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-discovering-the-finest-zero-cost-open-source-audio-management-on-windows/"><u>New Discovering the Finest Zero-Cost, Open-Source Audio Management on Windows</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/resolving-difficulties-with-pc-components-in-windows-a-guide-by-yl-computings-tech-specialists/"><u>Resolving Difficulties with PC Components in Windows: A Guide by YL Computing's Tech Specialists</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/spotify-turning-off-automatic-podcast-recommendations-for-2024/"><u>Spotify Turning Off Automatic Podcast Recommendations for 2024</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/step-by-step-guide-activating-automatic-updates-on-windows-10-with-yl-software/"><u>Step-by-Step Guide: Activating Automatic Updates on Windows 10 with YL Software</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/top-rated-ipad-dj-mixer-app-a-comprehensive-review-of-dj-dex-the-ultimate-tool-for-beatmatching-and-looping/"><u>Top Rated iPad DJ Mixer App: A Comprehensive Review of DJ Dex - The Ultimate Tool for Beatmatching and Looping</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/troubleshooting-graphics-card-initialization-issues-on-windows-expert-advice-from-yl-computing/"><u>Troubleshooting Graphics Card Initialization Issues on Windows: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/understanding-regulatory-landscapes-in-cryptocurrency-markets-a-comprehensive-guide-by-yl-software/"><u>Understanding Regulatory Landscapes in Cryptocurrency Markets: A Comprehensive Guide by YL Software</u></a></li>
 </ul></div>
 

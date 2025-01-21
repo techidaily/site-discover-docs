@@ -1,7 +1,7 @@
 ---
 title: "PCDJ's Latest DEX Version 3.6 Beta 4 Now Ready: Free Downloads Await!"
-date: 2025-01-10T08:47:35.179Z
-updated: 2025-01-15T09:51:19.142Z
+date: 2025-01-20T00:08:45.533Z
+updated: 2025-01-21T06:07:15.549Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ Also new in DEX 3.6 beta 4 is the ability to **record your video mix set on Wind
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What’s New And Changed In DEX 3.6 Beta 4
@@ -59,7 +59,7 @@ Also new in DEX 3.6 beta 4 is the ability to **record your video mix set on Wind
 _If you have any questions or problems running the DEX 3.6 **DJ and Video Mixing Software** beta version please post to the [DEX 3 user forum](https://tools.techidaily.com/pcdj/products/)._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,24 +81,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/04/dex36-beta4-coverimage.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-transform-your-visuals-with-these-11-expert-strategies/"><u>[New] 2024 Approved Transform Your Visuals with These 11 Expert Strategies</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-ppt-visualization-leveraging-webcam-tech/"><u>[New] PPT Visualization Leveraging Webcam Tech</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-best-8-free-4k-uhd-video-player-software-for-windows-pcandmac/"><u>[Updated] Best 8 Free 4K UHD Video Player Software for Windows PC&Mac</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/1-how-to-use-aomei-backupper-comprehensive-step-by-step-guide-and-video-walkthrough/"><u>1. How to Use AOMEI BackUpper: Comprehensive Step-by-Step Guide & Video Walkthrough</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-twitch-replay-magic-stream-control-secrets/"><u>2024 Approved Twitch Replay Magic Stream Control Secrets</u></a></li>
-<li><a href="https://fox-where.techidaily.com/54sh5paz44gu44k544kx44k444ol44o844op44oq44od44kv44ki44od44ox44oe44o844or/"><u>無料のスケジューラバックアップツール</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/becoming-an-instagram-editor-extraordinaire/"><u>Becoming an Instagram Editor Extraordinaire</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/dell-command-updater-and-windows-1011/"><u>Dell Command Updater ダウンロード&使用法 : Windows 10・11での最善ガイド</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/guia-practica-recuperacion-de-particiones-ext3-borradas-mediante-pasos-esenciales-para-windows-1110-usuarios/"><u>Guía Práctica: Recuperación De Particiones Ext3 Borradas Mediante Pasos Esenciales Para Windows 11/10 Usuarios</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/how-to-fix-windows-server-2019-installation-problems-successfully/"><u>How to Fix Windows Server 2019 Installation Problems Successfully</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-xr-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone XR To Other iPhone 13 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Realme GT 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/pinnacle-mac-screen-plus-audio-transcription-system-for-2024/"><u>Pinnacle Mac Screen + Audio Transcription System for 2024</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/problemi-con-il-desktop-risoluzione-passo-passo-per-i-file-e-cartelle-bloccati/"><u>Problemi Con Il Desktop? Risoluzione Passo-Passo per I File E Cartelle Bloccati</u></a></li>
-<li><a href="https://facebook.techidaily.com/reimagine-your-digital-life-4-key-strategies-to-refine-your-facebook-viewing/"><u>Reimagine Your Digital Life: 4 Key Strategies to Refine Your Facebook Viewing</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/sea-level-rise/"><u>Sea Level Rise</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/the-adaptive-immune-response-involves-specific-recognition-of-antigens-by-b-cells-and-t-cells/"><u>The Adaptive Immune Response Involves Specific Recognition of Antigens by B Cells and T Cells.</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/top-picks-optimal-windows-server-2012-r2-data-protection-solutions/"><u>Top Picks: Optimal Windows Server 2012 R2 Data Protection Solutions</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/wiedererlangen-von-nicht-gesicherten-notizdateien-mit-myrecover-schnellstart/"><u>Wiedererlangen Von Nicht Gesicherten Notizdateien Mit MyRecover - Schnellstart</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-garmins-innovative-ultra-30-review-full-capabilities-examined/"><u>[New] 2024 Approved Garmin's Innovative Ultra 30 Review Full Capabilities Examined</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-art-of-subdivision-how-to-efficiently-incorporate-chapters-in-your-youtube-vids/"><u>[Updated] The Art of Subdivision How to Efficiently Incorporate Chapters in Your YouTube Vids</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/1-step-by-step-guide-accessing-your-computers-control-panel-tips-from-yl-computing/"><u>1. Step-by-Step Guide: Accessing Your Computer's Control Panel - Tips From YL Computing</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/1-stunning-space-themed-wallpaper-collection-night-sky-hd-imagery-by-yl-computing/"><u>1. Stunning Space-Themed Wallpaper Collection - Night Sky HD Imagery by YL Computing</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/1-why-does-windows-experience-sudden-shutdowns-unveiling-the-triggers-insights-by-yl-computing/"><u>1. Why Does Windows Experience Sudden Shutdowns? Unveiling the Triggers - Insights by YL Computing</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/a-step-bystep-approach-for-transforming-hefty-excel-datasets-edb-to-pst-without-data-degradation-or-downtime/"><u>A Step-Bystep Approach for Transforming Hefty Excel Datasets (EDB) to PST without Data Degradation or Downtime</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/celestial-backup-solutions-portal/"><u>Celestial Backup Solutions Portal</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/come-gestisci-i-computers-di-clienti-in-rete-attraverso-sottoreti-multipli/"><u>Come Gestisci I Computers Di Clienti in Rete Attraverso Sottoreti Multipli</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/dazzling-high-res-anne-hathaway-wallpapers-and-imagery-powered-by-yl-software-solutions/"><u>Dazzling High-Res Anne Hathaway Wallpapers and Imagery - Powered by YL Software Solutions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/error-resolved-overcoming-cannot-reach-live-server-settings-issues-easily/"><u>Error Resolved: Overcoming 'Cannot Reach Live Server Settings' Issues Easily</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/high-definition-audi-q3-sportback-wallpaper-collection-premium-desktop-scenes-by-yl-software/"><u>High-Definition Audi Q3 Sportback Wallpaper Collection: Premium Desktop Scenes by YL Software</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/identifying-faulty-memory-modules-a-step-by-step-guide-yl-technologies/"><u>Identifying Faulty Memory Modules: A Step-by-Step Guide - YL Technologies</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/identifying-top-tier-blockchain-initiatives-insights-from-yl-computing-and-yl-software/"><u>Identifying Top-Tier Blockchain Initiatives: Insights From YL Computing & YL Software</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/monitor-the-evolution-of-your-bitcoin-sv-address-funds-an-insider-look-with-yl-software-tools-and-techniques/"><u>Monitor the Evolution of Your Bitcoin SV Address Funds: An Insider Look with YL Software Tools and Techniques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-linking-your-playstation-vr-headset-to-windows/"><u>Step-by-Step Guide: Linking Your PlayStation VR Headset to Windows</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/step-by-step-tutorial-view-and-edit-docx-documents-in-windows-with-ease-from-yl-computing-experts/"><u>Step-by-Step Tutorial: View & Edit .DOCX Documents in Windows with Ease From YL Computing Experts.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-fixing-system-call-failure-in-win11/"><u>Strategies for Fixing System Call Failure in Win11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-persistent-sony-vegas-crashes-get-your-project-up-and-running/"><u>Troubleshooting Persistent Sony Vegas Crashes - Get Your Project Up and Running!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-nokia-c12-pro-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Nokia C12 Pro IMEI without Root A Comprehensive Guide</u></a></li>
 </ul></div>
 
