@@ -1,7 +1,7 @@
 ---
 title: "Become a Beta Tester: DEX 3 Mac Version Now Available for Catalina OS | Join the Team!"
-date: 2025-01-14T12:36:10.252Z
-updated: 2025-01-21T00:15:24.481Z
+date: 2025-01-23T04:32:31.952Z
+updated: 2025-01-27T04:47:23.706Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ For now, we are asking for a few DEX 3 customers that are using newer Apple comp
 **Important Notes:** 10.14 or 10.15 of macOS is needed to run the Catalina-specific DEX 3 beta. While tested internally, this is a beta release, and should not be used in a venue/production environment. Specifically, the GUI/interface and video/karaoke should be tested as the changes there are massive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,18 +50,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/03/dex-catalina-beta.jpg?fit=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-illustrators-dream-top-8-ipados-drawers/"><u>[New] Illustrator's Dream Top 8 iPadOS Drawers</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-vuephoto-ai-powered-editing/"><u>[Updated] In 2024, VuePhoto AI-Powered Editing</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-time-travelers-treasure-a-look-at-goofy-movie/"><u>2024 Approved Time Traveler’s Treasure A Look at 'Goofy Movie'</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/earning-digital-gold-the-ultimate-guide-to-cryptocurrency-investments-by-yl-software-experts/"><u>Earning Digital Gold: The Ultimate Guide to Cryptocurrency Investments by YL Software Experts</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Realme PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-vivo-y78plus-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Vivo Y78+ Location | Dr.fone</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-discovering-the-finest-zero-cost-open-source-audio-management-on-windows/"><u>New Discovering the Finest Zero-Cost, Open-Source Audio Management on Windows</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/resolving-difficulties-with-pc-components-in-windows-a-guide-by-yl-computings-tech-specialists/"><u>Resolving Difficulties with PC Components in Windows: A Guide by YL Computing's Tech Specialists</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/spotify-turning-off-automatic-podcast-recommendations-for-2024/"><u>Spotify Turning Off Automatic Podcast Recommendations for 2024</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/step-by-step-guide-activating-automatic-updates-on-windows-10-with-yl-software/"><u>Step-by-Step Guide: Activating Automatic Updates on Windows 10 with YL Software</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/top-rated-ipad-dj-mixer-app-a-comprehensive-review-of-dj-dex-the-ultimate-tool-for-beatmatching-and-looping/"><u>Top Rated iPad DJ Mixer App: A Comprehensive Review of DJ Dex - The Ultimate Tool for Beatmatching and Looping</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/troubleshooting-graphics-card-initialization-issues-on-windows-expert-advice-from-yl-computing/"><u>Troubleshooting Graphics Card Initialization Issues on Windows: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/understanding-regulatory-landscapes-in-cryptocurrency-markets-a-comprehensive-guide-by-yl-software/"><u>Understanding Regulatory Landscapes in Cryptocurrency Markets: A Comprehensive Guide by YL Software</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-androids-best-rated-10-ultimate-game-boy-advance-simulators/"><u>[Updated] In 2024, Android's Best-Rated 10 Ultimate Game Boy Advance Simulators</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-essence-of-elongated-images-through-iphone-writings/"><u>[Updated] The Essence of Elongated Images Through iPhone’ Writings</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/1732518983899-yl/"><u>发现奇特的自我信念：来自YL计算机和软件领域的秘密—万亿之路雪球原创专栏</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-practices-for-online-vhs-image-retouching-and-editing-for-2024/"><u>Best Practices for Online VHS Image Retouching and Editing for 2024</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/discover-the-reasons-behind-your-sluggish-pc-insights-from-yl-computings-expertise/"><u>Discover the Reasons Behind Your Sluggish PC - Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dlvdddvd/"><u>DLVDDリッピング手順：どうやってDVDをビデオに転写するの？</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/easy-guide-transferring-files-between-directories-on-your-windows-pc-tech-tips-by-yl/"><u>Easy Guide: Transferring Files Between Directories on Your Windows PC - Tech Tips by YL</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-installation-brother-l2e-2700dw-windows-printer-driver-step-by-step-instructions/"><u>Easy Installation: Brother L2e 2700Dw Windows Printer Driver Step-by-Step Instructions</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/how-to-adjust-your-internet-connection-via-windows-pcs-control-panel-guided-steps-by-yl-computing/"><u>How to Adjust Your Internet Connection via Windows PC's Control Panel - Guided Steps by YL Computing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-the-art-of-enhancing-your-pets-eye-appearance-in-photos/"><u>Master the Art of Enhancing Your Pet’s Eye Appearance in Photos</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/mastering-memory-usage-top-techniques-to-enhance-your-computer-performance-guided-by-yl-software-experts/"><u>Mastering Memory Usage: Top Techniques to Enhance Your Computer Performance - Guided by YL Software Experts</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/mastering-the-fix-for-your-gpu-drivers-expert-tips-and-troubleshooting-innovategamingtech/"><u>Mastering the Fix for Your GPU Drivers: Expert Tips & Troubleshooting - InnovateGamingTech</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/optimizing-your-system-performance-expert-tips-from-yl-computings-latest-guide/"><u>Optimizing Your System Performance: Expert Tips From YL Computing's Latest Guide</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/resolving-print-job-issues-a-comprehensive-guide-by-yl-software/"><u>Resolving Print Job Issues: A Comprehensive Guide by YL Software</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/troubleshoot-your-non-reactive-mouse-with-yl-software-solutions-and-guidance/"><u>Troubleshoot Your Non-Reactive Mouse with YL Software Solutions and Guidance</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/troubleshooting-guide-fix-your-scanner-issues-quickly-tips-from-yl-computing/"><u>Troubleshooting Guide: Fix Your Scanner Issues Quickly - Tips From YL Computing</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Nokia C32 | Dr.fone</u></a></li>
 </ul></div>
 
