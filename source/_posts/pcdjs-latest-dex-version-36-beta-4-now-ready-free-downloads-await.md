@@ -1,7 +1,7 @@
 ---
 title: "PCDJ's Latest DEX Version 3.6 Beta 4 Now Ready: Free Downloads Await!"
-date: 2025-01-21T02:43:05.159Z
-updated: 2025-01-27T06:15:08.065Z
+date: 2025-02-08T03:13:50.789Z
+updated: 2025-02-09T03:24:39.364Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ Also new in DEX 3.6 beta 4 is the ability to **record your video mix set on Wind
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What’s New And Changed In DEX 3.6 Beta 4
@@ -59,7 +59,7 @@ Also new in DEX 3.6 beta 4 is the ability to **record your video mix set on Wind
 _If you have any questions or problems running the DEX 3.6 **DJ and Video Mixing Software** beta version please post to the [DEX 3 user forum](https://tools.techidaily.com/pcdj/products/)._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,24 +81,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/04/dex36-beta4-coverimage.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-exhaustive-review-of-razers-kiyo-cam/"><u>[Updated] 2024 Approved Exhaustive Review of Razer's Kiyo Cam</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-cutting-edge-video-editing-in-youtube-studio-explained-for-2024/"><u>[Updated] Cutting-Edge Video Editing in YouTube Studio Explained for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-the-ultimate-guide-to-effective-reddit-sharing-for-2024/"><u>[Updated] The Ultimate Guide to Effective Reddit Sharing for 2024</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/are-registry-optimizing-tools-secure-to-use-a-comprehensive-guide-by-yl-computing-experts/"><u>Are Registry Optimizing Tools Secure to Use? A Comprehensive Guide by YL Computing Experts</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/beyond-disk-cleanup-advanced-methods-for-expanding-hard-drive-capacity-by-experts-at-yl-computing/"><u>Beyond Disk Cleanup: Advanced Methods for Expanding Hard Drive Capacity by Experts at YL Computing</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/dangers-hazards-virtual-currency-investments-digital-currencies-and-incorporate-branding-with-yl-computing-and-yl-software/"><u>Dangers, Hazards, Virtual Currency Investments, Digital Currencies and Incorporate Branding with YL Computing and YL Software.</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/desktop-decor-vibrant-thor-avenger-series-backgrounds-and-icons-sourced-directly-from-marvel-comics-curated-by-yl-computing-solutions/"><u>Desktop Decor: Vibrant Thor Avenger Series Backgrounds and Icons Sourced Directly From Marvel Comics, Curated By YL Computing Solutions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-downloading-and-updating-epson-xl-420-drivers/"><u>Easy Guide to Downloading & Updating Epson XL 420 Drivers</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/fixing-loud-pops-and-cracks-expert-guide-to-solving-irritating-sound-issues-yl-computing/"><u>Fixing Loud Pops and Cracks: Expert Guide to Solving Irritating Sound Issues - YL Computing</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/high-definition-wallpaper-collections-tamannaah-bhatias-beauty-download-and-enhance-your-desktop-with-yl-software/"><u>High-Definition Wallpaper Collections: Tamannaah Bhatia's Beauty - Download & Enhance Your Desktop with YL Software</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-samsung-galaxy-a23-5g-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Samsung Galaxy A23 5G</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-the-insiders-guide-to-tiktok-on-apple-and-windows-systems/"><u>In 2024, The Insider's Guide to TikTok on Apple and Windows Systems</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-ultimate-ios-compatible-ps2-software/"><u>In 2024, Ultimate iOS Compatible PS2 Software</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/llama-2-revolutionizing-workflows-and-task-management/"><u>Llama 2: Revolutionizing Workflows and Task Management</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-end-of-apple-pay-later-exploring-new-financial-services-by-apple-on-the-horizon/"><u>The End of Apple Pay Later? Exploring New Financial Services by Apple on the Horizon</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/uncover-the-root-of-continuous-system-halt-insights-from-yl-computings-expertise/"><u>Uncover the Root of Continuous System Halt: Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/up-to-date-graphics-card-software-finding-and-installation-tips-from-yl-software-experts/"><u>Up-to-Date Graphics Card Software: Finding & Installation Tips From YL Software Experts</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/windows-defender-whitelisting-techniques-how-to-prevent-filefolder-scanning-by-yl-software-experts/"><u>Windows Defender Whitelisting Techniques: How to Prevent File/Folder Scanning by YL Software Experts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-photography-tips-for-seamless-instagram-posting/"><u>2024 Approved Photography Tips for Seamless Instagram Posting</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/pcx-to-png-movavi/"><u>無償で簡単なPCX to PNG変換サービス – Movavi オンライン</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/cinephile-corner-with-winx-experts-get-insights-and-solutions-for-movie-related-questions/"><u>Cinephile Corner with WinX Experts: Get Insights and Solutions for Movie-Related Questions</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/convertir-imagenes-tiff-y-jpg-sin-costo-guia-simple/"><u>Convertir Imágenes TIFF Y JPG Sin Costo: Guía Simple</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/debrief-de-la-logitheque-bandicam-prix-et-specifications-essentielles-filmori/"><u>Débrief De La Logithèque Bandicam: Prix Et Spécifications Essentielles - Filmori</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-phasmophobia-voice-chat-a-step-by-step-guide-to-getting-back-on-track/"><u>Fix Your Phasmophobia Voice Chat: A Step-by-Step Guide to Getting Back on Track</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/free-online-conversion-transform-tta-files-into-mp3-format-with-movavi/"><u>Free Online Conversion: Transform TTA Files Into MP3 Format with Movavi</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-step-up-your-photo-game-with-these-ingenious-pixlr-techniques/"><u>In 2024, Step Up Your Photo Game with These Ingenious Pixlr Techniques</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/online-tutorial-creating-cost-free-subtitles-for-your-videos/"><u>Online Tutorial: Creating Cost-Free Subtitles for Your Videos</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723000454880-origin-crash-woes-solve-them-instantly-and-effortlessly-with-our-expert-tips/"><u>Origin Crash Woes? Solve Them Instantly & Effortlessly with Our Expert Tips!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/personalize-your-google-meet-experience-with-fresh-backgrounds/"><u>Personalize Your Google Meet Experience with Fresh Backgrounds</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-10-telegram-spy-tools-on-apple-iphone-11-for-parents-drfone-by-drfone-virtual-ios/"><u>Top 10 Telegram Spy Tools On Apple iPhone 11 for Parents | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-how-to-stop-your-pc-from-frequent-new-world-crashes/"><u>Troubleshooting Guide - How to Stop Your PC From Frequent 'New World' Crashes</u></a></li>
 </ul></div>
 

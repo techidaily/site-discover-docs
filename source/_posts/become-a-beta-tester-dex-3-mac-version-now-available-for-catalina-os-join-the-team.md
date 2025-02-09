@@ -1,7 +1,7 @@
 ---
 title: "Become a Beta Tester: DEX 3 Mac Version Now Available for Catalina OS | Join the Team!"
-date: 2025-01-23T04:32:31.952Z
-updated: 2025-01-27T04:47:23.706Z
+date: 2025-02-05T01:55:42.430Z
+updated: 2025-02-08T22:37:59.376Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ For now, we are asking for a few DEX 3 customers that are using newer Apple comp
 **Important Notes:** 10.14 or 10.15 of macOS is needed to run the Catalina-specific DEX 3 beta. While tested internally, this is a beta release, and should not be used in a venue/production environment. Specifically, the GUI/interface and video/karaoke should be tested as the changes there are massive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,22 +50,17 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/03/dex-catalina-beta.jpg?fit=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-androids-best-rated-10-ultimate-game-boy-advance-simulators/"><u>[Updated] In 2024, Android's Best-Rated 10 Ultimate Game Boy Advance Simulators</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-essence-of-elongated-images-through-iphone-writings/"><u>[Updated] The Essence of Elongated Images Through iPhone’ Writings</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/1732518983899-yl/"><u>发现奇特的自我信念：来自YL计算机和软件领域的秘密—万亿之路雪球原创专栏</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/best-practices-for-online-vhs-image-retouching-and-editing-for-2024/"><u>Best Practices for Online VHS Image Retouching and Editing for 2024</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/discover-the-reasons-behind-your-sluggish-pc-insights-from-yl-computings-expertise/"><u>Discover the Reasons Behind Your Sluggish PC - Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dlvdddvd/"><u>DLVDDリッピング手順：どうやってDVDをビデオに転写するの？</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/easy-guide-transferring-files-between-directories-on-your-windows-pc-tech-tips-by-yl/"><u>Easy Guide: Transferring Files Between Directories on Your Windows PC - Tech Tips by YL</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-installation-brother-l2e-2700dw-windows-printer-driver-step-by-step-instructions/"><u>Easy Installation: Brother L2e 2700Dw Windows Printer Driver Step-by-Step Instructions</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/how-to-adjust-your-internet-connection-via-windows-pcs-control-panel-guided-steps-by-yl-computing/"><u>How to Adjust Your Internet Connection via Windows PC's Control Panel - Guided Steps by YL Computing</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/master-the-art-of-enhancing-your-pets-eye-appearance-in-photos/"><u>Master the Art of Enhancing Your Pet’s Eye Appearance in Photos</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/mastering-memory-usage-top-techniques-to-enhance-your-computer-performance-guided-by-yl-software-experts/"><u>Mastering Memory Usage: Top Techniques to Enhance Your Computer Performance - Guided by YL Software Experts</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/mastering-the-fix-for-your-gpu-drivers-expert-tips-and-troubleshooting-innovategamingtech/"><u>Mastering the Fix for Your GPU Drivers: Expert Tips & Troubleshooting - InnovateGamingTech</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/optimizing-your-system-performance-expert-tips-from-yl-computings-latest-guide/"><u>Optimizing Your System Performance: Expert Tips From YL Computing's Latest Guide</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/resolving-print-job-issues-a-comprehensive-guide-by-yl-software/"><u>Resolving Print Job Issues: A Comprehensive Guide by YL Software</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/troubleshoot-your-non-reactive-mouse-with-yl-software-solutions-and-guidance/"><u>Troubleshoot Your Non-Reactive Mouse with YL Software Solutions and Guidance</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/troubleshooting-guide-fix-your-scanner-issues-quickly-tips-from-yl-computing/"><u>Troubleshooting Guide: Fix Your Scanner Issues Quickly - Tips From YL Computing</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-perfecting-your-purses-expertise-in-haul-videography/"><u>[New] 2024 Approved Perfecting Your Purses Expertise in Haul Videography</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-17-best-lights-and-lighting-equipment-for-youtube/"><u>[New] In 2024, 17 Best Lights and Lighting Equipment for YouTube</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-explore-unexpectedly-great-meme-pages-on-facebook-for-2024/"><u>[Updated] Explore Unexpectedly Great Meme Pages on Facebook for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-superior-tools-for-capturing-moments-with-harmony/"><u>[Updated] In 2024, Superior Tools for Capturing Moments with Harmony</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-swift-shadow-magic-one-minute/"><u>[Updated] Swift Shadow Magic, One Minute</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/iphoneandroid5/"><u>「🔁魅力的な動画を一発で手早く作成！ iPhone/Android用の逆再生アプリトップ5」</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/1725290178504-dvd-mp4/"><u>轉換 DVD 到 MP4: 提升電影及影片品質的最佳軟件選擇</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bard-or-bing-deciding-on-the-superior-chatbot-experience-for-users/"><u>Bard or Bing - Deciding on the Superior Chatbot Experience for Users</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/download-the-ultimate-no-cost-dvd-maker-for-windows-winx-author-edition/"><u>Download the Ultimate No-Cost DVD Maker for Windows, WinX Author Edition</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/expert-dvd-to-video-converter-by-digiarty-tailored-for-seamless-media-format-changes/"><u>Expert DVD-to-Video Converter by Digiarty - Tailored for Seamless Media Format Changes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-zte-axon-40-lite-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your ZTE Axon 40 Lite</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-project-management-fees/"><u>In 2024, Project Management Fees</u></a></li>
 </ul></div>
 
