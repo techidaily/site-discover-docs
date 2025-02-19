@@ -1,7 +1,7 @@
 ---
 title: "PCDJ's Latest DEX Version 3.6 Beta 4 Now Ready: Free Downloads Await!"
-date: 2025-02-08T03:13:50.789Z
-updated: 2025-02-09T03:24:39.364Z
+date: 2025-02-16T16:35:56.500Z
+updated: 2025-02-18T21:06:33.097Z
 tags:
   - product
 categories:
@@ -35,7 +35,7 @@ Also new in DEX 3.6 beta 4 is the ability to **record your video mix set on Wind
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What’s New And Changed In DEX 3.6 Beta 4
@@ -59,7 +59,7 @@ Also new in DEX 3.6 beta 4 is the ability to **record your video mix set on Wind
 _If you have any questions or problems running the DEX 3.6 **DJ and Video Mixing Software** beta version please post to the [DEX 3 user forum](https://tools.techidaily.com/pcdj/products/)._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,19 +81,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/04/dex36-beta4-coverimage.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-photography-tips-for-seamless-instagram-posting/"><u>2024 Approved Photography Tips for Seamless Instagram Posting</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/pcx-to-png-movavi/"><u>無償で簡単なPCX to PNG変換サービス – Movavi オンライン</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/cinephile-corner-with-winx-experts-get-insights-and-solutions-for-movie-related-questions/"><u>Cinephile Corner with WinX Experts: Get Insights and Solutions for Movie-Related Questions</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/convertir-imagenes-tiff-y-jpg-sin-costo-guia-simple/"><u>Convertir Imágenes TIFF Y JPG Sin Costo: Guía Simple</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/debrief-de-la-logitheque-bandicam-prix-et-specifications-essentielles-filmori/"><u>Débrief De La Logithèque Bandicam: Prix Et Spécifications Essentielles - Filmori</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-your-phasmophobia-voice-chat-a-step-by-step-guide-to-getting-back-on-track/"><u>Fix Your Phasmophobia Voice Chat: A Step-by-Step Guide to Getting Back on Track</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/free-online-conversion-transform-tta-files-into-mp3-format-with-movavi/"><u>Free Online Conversion: Transform TTA Files Into MP3 Format with Movavi</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Vivo Y200e 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-step-up-your-photo-game-with-these-ingenious-pixlr-techniques/"><u>In 2024, Step Up Your Photo Game with These Ingenious Pixlr Techniques</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/online-tutorial-creating-cost-free-subtitles-for-your-videos/"><u>Online Tutorial: Creating Cost-Free Subtitles for Your Videos</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723000454880-origin-crash-woes-solve-them-instantly-and-effortlessly-with-our-expert-tips/"><u>Origin Crash Woes? Solve Them Instantly & Effortlessly with Our Expert Tips!</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/personalize-your-google-meet-experience-with-fresh-backgrounds/"><u>Personalize Your Google Meet Experience with Fresh Backgrounds</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-10-telegram-spy-tools-on-apple-iphone-11-for-parents-drfone-by-drfone-virtual-ios/"><u>Top 10 Telegram Spy Tools On Apple iPhone 11 for Parents | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-how-to-stop-your-pc-from-frequent-new-world-crashes/"><u>Troubleshooting Guide - How to Stop Your PC From Frequent 'New World' Crashes</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-live-your-best-life-the-ultimate-list-of-video-conferencing-gadgets/"><u>[New] In 2024, Live Your Best Life The Ultimate List of Video Conferencing Gadgets</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-proven-strategies-to-capture-and-archive-ps3-games/"><u>[Updated] In 2024, Proven Strategies to Capture and Archive PS3 Games</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-unveiling-youtubes-mechanism-post-upload/"><u>[Updated] In 2024, Unveiling YouTube's Mechanism Post-Upload</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-launch-success-a-guide-to-10-motivating-movies/"><u>2024 Approved Launch Success A Guide to 10 Motivating Movies</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/surface-pro/"><u>如何在Surface Pro上传输所有信息？——详细步骤说明与提示</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/eliminar-de-manera-segura-la-carpeta-windowsold-en-windows-11-tres-metodos-eficaces/"><u>Eliminar De Manera Segura La Carpeta 'Windows.old' En Windows 11: Tres Métodos Eficaces</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-samsung-galaxy-f54-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Samsung Galaxy F54 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/1728483765948-ios-aomei-fonebackup/"><u>IOSデバイスの効率的な管理: AOMEI FoneBackupガイド</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/revelez-vos-astuces-pour-la-reprise-dun-fichier-mb-efface-le-guide-ultime/"><u>Révélez Vos Astuces Pour La Reprise D'un Fichier MB Effacé - Le Guide Ultime !</u></a></li>
+<li><a href="https://win-special.techidaily.com/risolvi-i-tuoi-problemi-di-partizione-con-windows-11-utilizzando-questi-due-modi-migliori-su-misurini/"><u>Risolvi I Tuoi Problemi Di Partizione Con Windows 11 Utilizzando Questi Due Modi Migliori Su Misurini!</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/stellars-expert-tutorial-on-iphone-data-deletion-and-resetting/"><u>Stellar's Expert Tutorial on iPhone Data Deletion & Resetting</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-apple-watchs-cellular-connection-solutions-and-tips/"><u>Troubleshooting Apple Watch's Cellular Connection: Solutions and Tips</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-jabra-wireless-microphone-speak-and-charge-efficiently/"><u>Ultimate Jabra Wireless Microphone: Speak & Charge Efficiently</u></a></li>
 </ul></div>
 

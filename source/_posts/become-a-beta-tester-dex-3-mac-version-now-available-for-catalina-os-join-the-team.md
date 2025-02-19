@@ -1,7 +1,7 @@
 ---
 title: "Become a Beta Tester: DEX 3 Mac Version Now Available for Catalina OS | Join the Team!"
-date: 2025-02-05T01:55:42.430Z
-updated: 2025-02-08T22:37:59.376Z
+date: 2025-02-16T21:51:26.890Z
+updated: 2025-02-18T17:46:15.237Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ For now, we are asking for a few DEX 3 customers that are using newer Apple comp
 **Important Notes:** 10.14 or 10.15 of macOS is needed to run the Catalina-specific DEX 3 beta. While tested internally, this is a beta release, and should not be used in a venue/production environment. Specifically, the GUI/interface and video/karaoke should be tested as the changes there are massive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,17 +50,15 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/03/dex-catalina-beta.jpg?fit=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-perfecting-your-purses-expertise-in-haul-videography/"><u>[New] 2024 Approved Perfecting Your Purses Expertise in Haul Videography</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-17-best-lights-and-lighting-equipment-for-youtube/"><u>[New] In 2024, 17 Best Lights and Lighting Equipment for YouTube</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-explore-unexpectedly-great-meme-pages-on-facebook-for-2024/"><u>[Updated] Explore Unexpectedly Great Meme Pages on Facebook for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-superior-tools-for-capturing-moments-with-harmony/"><u>[Updated] In 2024, Superior Tools for Capturing Moments with Harmony</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-swift-shadow-magic-one-minute/"><u>[Updated] Swift Shadow Magic, One Minute</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/iphoneandroid5/"><u>「🔁魅力的な動画を一発で手早く作成！ iPhone/Android用の逆再生アプリトップ5」</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/1725290178504-dvd-mp4/"><u>轉換 DVD 到 MP4: 提升電影及影片品質的最佳軟件選擇</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/bard-or-bing-deciding-on-the-superior-chatbot-experience-for-users/"><u>Bard or Bing - Deciding on the Superior Chatbot Experience for Users</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/download-the-ultimate-no-cost-dvd-maker-for-windows-winx-author-edition/"><u>Download the Ultimate No-Cost DVD Maker for Windows, WinX Author Edition</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/expert-dvd-to-video-converter-by-digiarty-tailored-for-seamless-media-format-changes/"><u>Expert DVD-to-Video Converter by Digiarty - Tailored for Seamless Media Format Changes</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-zte-axon-40-lite-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your ZTE Axon 40 Lite</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-project-management-fees/"><u>In 2024, Project Management Fees</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-instant-screen-grabber-for-chromebooks/"><u>[New] 2024 Approved Instant Screen Grabber for Chromebooks</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-make-each-second-count-engaging-activities-that-blend-learning-and-multitasking/"><u>[New] In 2024, Make Each Second Count Engaging Activities that Blend Learning and Multitasking</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-unlocking-the-power-of-in-stream-ads-strategy-and-metrics-guide/"><u>[New] Unlocking the Power of In-Stream Ads Strategy & Metrics Guide</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/how-to-fix-a-non-detected-network-interface-on-your-pc-with-guidance-from-yl-software-solutions/"><u>How to Fix a Non-Detected Network Interface on Your PC with Guidance From YL Software Solutions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-and-easy-guide-to-updating-the-surface-dock-software-on-your-device/"><u>Quick and Easy Guide to Updating the Surface Dock Software on Your Device</u></a></li>
+<li><a href="https://techidaily.com/rapid-and-simple-guide-to-assessing-cpu-speed-with-a-comprehensive-benchmark/"><u>Rapid and Simple Guide to Assessing CPU Speed with a Comprehensive Benchmark</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/soluciones-de-copia-de-seguridad-profesionales-aomei-backuppro-and-aomei-claro-para-pcs-y-laptops/"><u>Soluciones De Copia De Seguridad Profesionales: AOMEI BackUpPro & AOMEI Claro Para PCs Y Laptops</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/speedy-hard-drive-copying-on-windows-1110-a-simple-4-step-process-unveiled/"><u>Speedy Hard Drive Copying on Windows 11/10 - A Simple 4-Step Process Unveiled!</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/stop-relying-solely-on-itunes-and-expand-the-functionality-of-your-iphone-in-this-guide-we-explore-four-innovative-ways-you-can-transform-your-phone-into-a-271/"><u>Stop Relying Solely on iTunes and Expand the Functionality of Your iPhone. In This Guide, We Explore Four Innovative Ways You Can Transform Your Phone Into a Portable USB Drive without Any Cost. Gain New Insights Into Maximizing Your Device's Potential!</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/the-ultimate-guide-disabling-icloud-photos-while-keeping-your-memories-safe/"><u>The Ultimate Guide: Disabling iCloud Photos While Keeping Your Memories Safe</u></a></li>
 </ul></div>
 
