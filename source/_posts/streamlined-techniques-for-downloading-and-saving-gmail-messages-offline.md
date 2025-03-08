@@ -1,7 +1,7 @@
 ---
 title: Streamlined Techniques for Downloading & Saving Gmail Messages Offline
-date: 2025-02-02T18:15:17.890Z
-updated: 2025-02-09T08:11:22.863Z
+date: 2025-03-05T19:22:23.596Z
+updated: 2025-03-07T18:43:48.047Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/f7a18b1ed8a37fcd7d106943fadf79a7add46bd88aaea370f1b5ca7a72e0a9d3.jpg
@@ -68,20 +68,12 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 
 [![Create Backup](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/create-backup.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3\. The **Easy Setup** screen will appear.
 
 * You can click **OK** to accept the default settings or click a setting to modify it.
 * Or you can click **Custom...** to create a backup according to your needs.
 
 [![Click Custom](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/click-custom.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4\. Finally, click **OK** to confirm.
 
@@ -105,15 +97,7 @@ On **Recover My Computer** screen, find and choose the right system restore poin
 
 [![Recover My Computer](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/recover-now.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 👉 **Note:** If your computer cannot run Windows normally, you can use the Symantec Recovery Disk CD to help you boot your computer. Depending on which version of the product you have purchased, Symantec Recovery Disk is either included on your product CD or as a separate CD. If you don't have a floppy drive, you can create a [Norton Ghost Bootable USB](https://tools.techidaily.com/ubackup/products/) instead.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Clone Disk with Norton Ghost
 
@@ -122,10 +106,6 @@ On **Recover My Computer** screen, find and choose the right system restore poin
 2\. On the **Tools** page, click **Copy My Hard Drive** and follow the steps in the wizard to copy the drive.
 
 👉 **Note:** The drivers that are used to run the hardware on one computer will likely not match the drivers on a second computer. So you’d better not use the Copy Drive feature to set up a hard drive that will be used in another computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best Free Alternative to Norton Ghost
 
@@ -177,10 +157,6 @@ If you have created a backup with AOMEI Backupper, you can easily perform a rest
 
 [![Restore](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/restore/disk-restore/home-restore.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 👉 **Notes:** 
 
 * With AOMEI **[Universal Restore](https://tools.techidaily.com/ubackup/products/)** feature, you can restore a backup image, system image in particular, created on one computer to another one that has dissimilar hardware installed. It can also help you reinstall the system if you are planning to change the hardware such as motherboard, CPU, etc. Available in higher editions like [AOMEI Backupper Professional](https://tools.techidaily.com/ubackup/products/).
@@ -188,19 +164,11 @@ If you have created a backup with AOMEI Backupper, you can easily perform a rest
 
 [![Disk Image Explore Home](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/explore-image/home-explore-image-disk.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Clone Hard Drive
 
 You can directly clone hard drive to another one with the **[Disk Clone](https://tools.techidaily.com/ubackup/products/)** feature. If you are cloning HDD to SSD, you can make use of the "**SSD Alignment**" feature to improve the read/write speed of the destination SSD.
 
 [![Clone](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/main-interface/clone.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 👉 **Notes:** 
 
@@ -273,15 +241,7 @@ Safeguard any data of your computer with backup, sync and clone.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -298,24 +258,19 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-elevate-your-youtube-presentations-with-imovie-editing-skills/"><u>[New] Elevate Your YouTube Presentations with iMovie Editing Skills</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-essential-mac-snippet-apps-a-compilation-for-2024/"><u>[New] Essential Mac Snippet Apps A Compilation for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ow-to-design-youtube-introductory-videos-two-pathways-for-2024/"><u>[New] How to Design YouTube Introductory Videos Two Pathways for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-dynamic-volume-control-tips-for-producers/"><u>[Updated] Dynamic Volume Control Tips for Producers</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-capturing-your-workspace-a-step-by-step-screenrec-guide/"><u>2024 Approved Capturing Your Workspace A Step-by-Step ScreenRec Guide</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/complete-dvd-player-aspect-ratio-issue-solutions-a-step-by-step-fix/"><u>Complete DVD Player Aspect Ratio Issue Solutions: A Step-by-Step Fix</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/comprehensive-blueprint-for-subtitle-distribution-on-tiktok-and-twitch/"><u>Comprehensive Blueprint for Subtitle Distribution on TikTok and Twitch</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/die-ultimative-liste-besten-videokonverter-fur-windows-11-gefunden-qualitat-geschwindigkeit-and-sicherheit-garantiert/"><u>Die Ultimative Liste: Besten Videokonverter Für Windows 11 Gefunden! Qualität, Geschwindigkeit & Sicherheit Garantiert.</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/fixing-the-dvd-cannot-be-played-error-on-windows-using-winx-dvd-ripper/"><u>Fixing the 'DVD Cannot Be Played' Error on Windows Using WinX DVD Ripper</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/gratis-professioneller-videoschnittprogramm-fur-pc-und-mac-entfernen-von-unnotigen-szenen/"><u>Gratis Professioneller Videoschnittprogramm Für PC Und Mac - Entfernen Von Unnötigen Szenen</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-show-hidden-files-on-a-mac-with-terminal/"><u>How to Show Hidden Files on a Mac With Terminal</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-epson-wf-2630-driver-on-your-pc-windows-7-81-or-10-compatible-versions/"><u>Install Epson WF-2630 Driver on Your PC: Windows 7, 8.1 or 10 Compatible Versions</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/leading-contenders-as-replacements-for-dalle-advanced-applications-for-crafting-synthetic-visuals-with-ai/"><u>Leading Contenders as Replacements for DALL·E: Advanced Applications for Crafting Synthetic Visuals with AI</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/les-5-meilleurs-logiciels-libres-de-videoprojectage-pour-2024-guide-exhaustif/"><u>Les 5 Meilleurs Logiciels Libres De Videoprojectage Pour 2024 - Guide Exhaustif</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/os-10-mais-poderosos-programas-conversores-de-dvd-para-mp4-em-2023-escolha-para-windows-e-macos/"><u>Os 10 Mais Poderosos Programas Conversores De DVD Para MP4 Em 2023: Escolha Para Windows E macOS</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/repair-corrupted-mp4-videos-at-no-cost-using-pc-or-mac-easy-diy-solutions/"><u>Repair Corrupted MP4 Videos at No Cost Using PC or Mac - Easy DIY Solutions</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-infinix-hot-40-pro-by-drfone-android/"><u>Three Ways to Sim Unlock Infinix Hot 40 Pro</u></a></li>
-<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Motorola Moto G73 5G | Dr.fone</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/transformacion-de-hdr-video-conversion-de-ts-a-mp4-y-mantener-alta-calidad-ejemplo-esperado/"><u>Transformación De HDR Video: Conversión De TS a MP4 Y Mantener Alta Calidad - Ejemplo Esperado</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/isabling-youtube-shorts-for-good-a-simple-approach-for-2024/"><u>[New] Disabling YouTube Shorts for Good A Simple Approach for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-fostering-flourishing-visuals-with-after-effects-fonts-for-2024/"><u>[New] Fostering Flourishing Visuals with After Effects Fonts for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-quickcapture-plus-voice-guided-session-maker-for-2024/"><u>[New] QuickCapture + Voice-Guided Session Maker for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-best-practices-for-adding-content-enhancements-cards/"><u>[Updated] In 2024, Best Practices for Adding Content Enhancements (Cards)</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/como-encapsular-archivo-av1-con-handbrake-compatibilidad-y-guia-paso-a-paso/"><u>Cómo Encapsular Archivo AV1 Con HandBrake: Compatibilidad Y Guía Paso a Paso</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decoding-vmwares-advanced-keyboard-integration-step-by-step-installation-tutorial/"><u>Decoding VMware's Advanced Keyboard Integration: Step-by-Step Installation Tutorial</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/die-besten-freien-programme-zum-konvertieren-von-videos-in-4k-hochqualifiziert-auf-pcsmacs-inklusive-umwandlung-von-hd-formaten/"><u>Die Besten Freien Programme Zum Konvertieren Von Videos in 4K Hochqualifiziert Auf PCs/Macs, Inklusive Umwandlung Von HD-Formaten</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/gratisk-downloads-schonste-weihnachtshymnen-der-saison-2023/"><u>Gratisk Downloads: Schönste Weihnachtshymnen Der Saison 2023</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-everything-you-need-to-know-about-io-screen-recorder/"><u>In 2024, Everything You Need to Know About IO Screen Recorder</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-oppo-find-x6-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Oppo Find X6 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://blog-min.techidaily.com/movavi-transformare-video-ogg-virtuale-a-carta-stampata-in-modalita-on-line-prova-gratuita/"><u>Movavi: Transformare Video OGG Virtuale a Carta Stampata in Modalità On-Line Prova Gratuita</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/navigating-digital-discussions-with-ease-essential-advice-for-successful-zoom-meetings-for-2024/"><u>Navigating Digital Discussions with Ease Essential Advice for Successful Zoom Meetings for 2024</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/transferring-tracks-how-to-add-songs-from-your-pc-or-mac-to-iphone-with-ease/"><u>Transferring Tracks: How to Add Songs From Your PC or Mac to iPhone with Ease</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/dvd-37/"><u>ダイジャリティ・ソフトウェア公式記事集 | DVD効果の理解とコピー方法 - 第37ページ掲載内容</u></a></li>
 </ul></div>
 

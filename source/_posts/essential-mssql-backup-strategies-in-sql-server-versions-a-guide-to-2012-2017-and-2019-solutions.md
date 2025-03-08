@@ -1,7 +1,7 @@
 ---
 title: "Essential MSSQL Backup Strategies in SQL Server Versions: A Guide to 2012, 2017, and 2019 Solutions"
-date: 2025-02-04T09:42:05.267Z
-updated: 2025-02-09T00:10:38.567Z
+date: 2025-03-02T17:16:39.244Z
+updated: 2025-03-07T16:23:37.955Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/5b4d01ebebfd0c2dd6853b7b90449cefc701dfbe2f41b747bf89f0bfa4fc6d71.jpg
@@ -18,19 +18,11 @@ thumbnail: https://thmb.techidaily.com/5b4d01ebebfd0c2dd6853b7b90449cefc701dfbe2
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Use Norton Ghost in Windows 11, 10, 8, 7
 
 Want to create an image, restore image, or clone hard drive via Norton Ghost? This guide will tell you how to use Norton Ghost step by step. It also provides you with an easy alternative.
 
 ![Lena](https://www.ubackup.com/assets/images/author/Lena.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 By[Lena](https://tools.techidaily.com/ubackup/products/)Updated on June 5, 2024
 
@@ -58,19 +50,11 @@ Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-arti
 | **Pros**      | **✔** Established reputation **✔** Powerful imaging and cloning **✔** Support for RAID arrays                                                                                                                                                                                    | **✔** User-friendly interface **✔** Active development **✔** Comprehensive backup and clone solutions                                                                                                                                                                                         |
 | **Cons**      | **✖** Discontinued **✖** Complex interface **✖** Compatibility issues                                                                                                                                                                                                            | **✖** Advanced features locked in the free version                                                                                                                                                                                                                                            |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## About Norton Ghost
 
 Norton Ghost is one **disk imaging and cloning tool** that firstly developed in the 1990s. It can help you make backup images of the whole hard disk, selected partitions or only those files that mean the most to you. When something goes wrong, Norton Ghost can [restore your computer to previous functional status](https://tools.techidaily.com/ubackup/products/). Besides, it can also help you clone one hard drive to another hard drive.
 
 In a word, if you want to make an image back for your computer or want to clone to the new hard drive, Norton Ghost is not a bad choice. However, now Norton Ghost is **no longer available for the Home user**. It was **discontinued by Symantec in 2013**. Indeed you can still download the latest version - Norton Ghost 15, but it only offers a 30-day free trial and then you need to pay for it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Use Norton Ghost 15 Step by Step
 
@@ -93,10 +77,6 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 
 4\. Finally, click **OK** to confirm.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Restore Image with Norton Ghost
 
 Click **Recover My Files** if you want to recover files or folder, or **Recover My Computer** to make it.
@@ -108,10 +88,6 @@ Click **Recover My Files** if you want to recover files or folder, or **Recover 
 2\. Whichever you choose, you can type the file name you need in the box under **Find files to recover** and click **Search** to find it.
 
 [![Recover My Files](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/find-files-to-recover.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3\. After the scanning, select the file you need and click **Recover Files...**
 
@@ -166,17 +142,9 @@ Select the corresponding backup methods if you want to backup system, partition 
 
 [![Add Disk](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/add-disk.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3\. Choose a destination path to save the disk image. You can save the backup image on a local hard drive, external hard drive, USB flash drive, or network drive, etc. Click **Start Backup** when you are ready.
 
 [![Select Backup Destination](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/select-backup-destination.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 👉 **Notes:**
 
@@ -265,10 +233,6 @@ Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Free Get AOMEI Backupper Now
 
 Safeguard any data of your computer with backup, sync and clone.
@@ -278,10 +242,6 @@ Safeguard any data of your computer with backup, sync and clone.
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -298,24 +258,19 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-enhancing-ps3-playthroughs-a-guide-to-effective-capture/"><u>[New] In 2024, Enhancing PS3 Playthroughs A Guide to Effective Capture</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-overcoming-quietness-fixes-for-silent-obs-streams/"><u>[New] In 2024, Overcoming Quietness Fixes for Silent OBS Streams</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-connectors-companion-instagram-to-tiktok-guide/"><u>[New] The Connector's Companion Instagram to TikTok Guide</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-innovative-platforms-simplifying-group-chats/"><u>[Updated] Innovative Platforms Simplifying Group Chats</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-restore-missing-watch-artwork/"><u>[Updated] Restore Missing Watch Artwork</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-romantic-recitals-perfect-love-songs-for-your-proposal-moment/"><u>2024 Approved Romantic Recitals Perfect Love Songs for Your Proposal Moment</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-realme-narzo-60x-5g-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Realme Narzo 60x 5G? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/winix-ai/"><u>深入Winix AI系統中，了解其最頻繁出現的技術難题及其解答方法</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-vivo-t2-pro-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Vivo T2 Pro 5G</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-when-worlds-crumble-premium-guide-to-top-zombie-games/"><u>In 2024, When Worlds Crumble Premium Guide to Top Zombie Games</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/las-mejores-aplicaciones-gratuitas-para-transferencia-y-conversion-de-contenidos-de-dvd-a-mp4aviwmv-en-windows-10-seleccion-de-2020/"><u>Las Mejores Aplicaciones Gratuitas Para Transferencia Y Conversión De Contenidos De DVD a MP4/AVI/WMV en Windows 10 - Selección De 2020</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/les-meilleurs-converters-videos-rapides-de-2021-avantages-telechargements-et-avis-dexperts/"><u>Les Meilleurs Converters Vidéos Rapides De 2021 : Avantages, Téléchargements Et Avis D'Experts</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/overcoming-the-fat32-file-size-constraint-strategies-and-solutions/"><u>Overcoming the FAT32 File Size Constraint: Strategies & Solutions</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/quick-guide-converting-your-disney-dvd-collection-into-digitized-versions/"><u>Quick Guide: Converting Your Disney DVD Collection Into Digitized Versions</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/rip-your-dvds-into-digital-format-with-ease-using-winx-dvd-copy-pro/"><u>Rip Your DVDs Into Digital Format with Ease Using WinX DVD Copy Pro</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/seleccion-exclusiva-de-reproductores-libres-en-uhd-gratis-hevch265-para-windows-11-and-mac-la-mejor-eleccion-del-ano-2020/"><u>Selección Exclusiva De Reproductores Libres en UHD Gratis HEVC/H.265 Para Windows 11 & Mac, La Mejor Elección Del Año 2020</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-truth-behind-asmr-video-enthusiasm-for-2024/"><u>The Truth Behind ASMR Video Enthusiasm for 2024</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/top-7-effektive-strategien-zur-reduktion-oder-umwandlung-von-4k-videos-auf-full-hd/"><u>Top 7 Effektive Strategien Zur Reduktion Oder Umwandlung Von 4K Videos Auf Full HD</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/top-rated-video-editors-for-creating-stunning-youtube-shorts-reviews/"><u>Top-Rated Video Editors for Creating Stunning YouTube Shorts Reviews</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210846182-9781956744934-beyond-what-we-can-see/"><u>Beyond What We Can See | Free Book</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/complete-dvd-player-aspect-ratio-issue-solutions-a-step-by-step-fix/"><u>Complete DVD Player Aspect Ratio Issue Solutions: A Step-by-Step Fix</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/tial-strategies-for-profitable-youtube-videos/"><u>Essential Strategies for Profitable YouTube Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/essential-tips-for-efficiently-utilizing-background-eraser-tool-in-ps-for-2024/"><u>Essential Tips for Efficiently Utilizing Background Eraser Tool in PS for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-honor-magic-6-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-recording-quality-unlocked-best-mics/"><u>In 2024, Recording Quality Unlocked Best Mics</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/les-5-meilleurs-logiciels-libres-de-videoprojectage-pour-2024-guide-exhaustif/"><u>Les 5 Meilleurs Logiciels Libres De Videoprojectage Pour 2024 - Guide Exhaustif</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/os-10-mais-poderosos-programas-conversores-de-dvd-para-mp4-em-2023-escolha-para-windows-e-macos/"><u>Os 10 Mais Poderosos Programas Conversores De DVD Para MP4 Em 2023: Escolha Para Windows E macOS</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/repair-corrupted-mp4-videos-at-no-cost-using-pc-or-mac-easy-diy-solutions/"><u>Repair Corrupted MP4 Videos at No Cost Using PC or Mac - Easy DIY Solutions</u></a></li>
+<li><a href="https://article-posts.techidaily.com/tints-and-tonality-applying-theoretical-insight/"><u>Tints & Tonality Applying Theoretical Insight</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/top-4-freeware-tools-fur-die-effiziente-mkv-video-datei-komprimierung/"><u>Top 4 Freeware Tools Für Die Effiziente MKV Video Datei Komprimierung</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-strategies-leveraging-the-power-of-chatgpt-with-wolfram-alpha-integration/"><u>Top Strategies: Leveraging the Power of ChatGPT with Wolfram Alpha Integration</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-top-5-free-video-compression-apps-for-ios-devices/"><u>Updated In 2024, Top 5 Free Video Compression Apps for iOS Devices</u></a></li>
 </ul></div>
 

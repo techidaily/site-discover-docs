@@ -1,7 +1,7 @@
 ---
 title: "Become a Beta Tester: DEX 3 Mac Version Now Available for Catalina OS | Join the Team!"
-date: 2025-02-16T21:51:26.890Z
-updated: 2025-02-18T17:46:15.237Z
+date: 2025-03-02T01:01:34.602Z
+updated: 2025-03-07T19:21:41.980Z
 tags:
   - product
 categories:
@@ -27,10 +27,6 @@ For now, we are asking for a few DEX 3 customers that are using newer Apple comp
 
 **Important Notes:** 10.14 or 10.15 of macOS is needed to run the Catalina-specific DEX 3 beta. While tested internally, this is a beta release, and should not be used in a venue/production environment. Specifically, the GUI/interface and video/karaoke should be tested as the changes there are massive.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Related_
 
 https://i1.wp.com/pcdj.com/wp-content/uploads/2020/03/dex-catalina-beta.jpg?fit=1000%2C500&ssl=1 500 1000 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2020-03-09 10:43:562023-04-10 17:03:53DEX 3 for macOS Catalina | Call for Beta Testers!}
@@ -50,15 +46,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/03/dex-catalina-beta.jpg?fit=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-instant-screen-grabber-for-chromebooks/"><u>[New] 2024 Approved Instant Screen Grabber for Chromebooks</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-make-each-second-count-engaging-activities-that-blend-learning-and-multitasking/"><u>[New] In 2024, Make Each Second Count Engaging Activities that Blend Learning and Multitasking</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-unlocking-the-power-of-in-stream-ads-strategy-and-metrics-guide/"><u>[New] Unlocking the Power of In-Stream Ads Strategy & Metrics Guide</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/how-to-fix-a-non-detected-network-interface-on-your-pc-with-guidance-from-yl-software-solutions/"><u>How to Fix a Non-Detected Network Interface on Your PC with Guidance From YL Software Solutions</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/quick-and-easy-guide-to-updating-the-surface-dock-software-on-your-device/"><u>Quick and Easy Guide to Updating the Surface Dock Software on Your Device</u></a></li>
-<li><a href="https://techidaily.com/rapid-and-simple-guide-to-assessing-cpu-speed-with-a-comprehensive-benchmark/"><u>Rapid and Simple Guide to Assessing CPU Speed with a Comprehensive Benchmark</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/soluciones-de-copia-de-seguridad-profesionales-aomei-backuppro-and-aomei-claro-para-pcs-y-laptops/"><u>Soluciones De Copia De Seguridad Profesionales: AOMEI BackUpPro & AOMEI Claro Para PCs Y Laptops</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/speedy-hard-drive-copying-on-windows-1110-a-simple-4-step-process-unveiled/"><u>Speedy Hard Drive Copying on Windows 11/10 - A Simple 4-Step Process Unveiled!</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/stop-relying-solely-on-itunes-and-expand-the-functionality-of-your-iphone-in-this-guide-we-explore-four-innovative-ways-you-can-transform-your-phone-into-a-271/"><u>Stop Relying Solely on iTunes and Expand the Functionality of Your iPhone. In This Guide, We Explore Four Innovative Ways You Can Transform Your Phone Into a Portable USB Drive without Any Cost. Gain New Insights Into Maximizing Your Device's Potential!</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/the-ultimate-guide-disabling-icloud-photos-while-keeping-your-memories-safe/"><u>The Ultimate Guide: Disabling iCloud Photos While Keeping Your Memories Safe</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-portable-gear-for-travel-cinematography/"><u>[New] Portable Gear for Travel Cinematography</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-through-the-lens-through-the-mind-advanced-photo-editing-mastery/"><u>[New] Through the Lens, Through the Mind Advanced Photo Editing Mastery</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/avoiding-common-greenscreen-errors-in-online-broadcasts/"><u>Avoiding Common Greenscreen Errors in Online Broadcasts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/exploring-dji-phantom-3s-advanced-aerial-capabilities/"><u>Exploring DJI Phantom 3’S Advanced Aerial Capabilities</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/free-winx-dvd-ripper-convert-dvds-to-mp4avi-formats-compatible-with-ios-and-android-devices/"><u>Free WinX DVD Ripper: Convert DVDs to MP4/AVI Formats Compatible with iOS and Android Devices</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/guia-paso-a-paso-para-transferir-un-dvd-al-servidor-de-google-solucion-completa/"><u>Guía Paso a Paso Para Transferir Un DVD Al Servidor De Google: Solución Completa</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/guide-simple-pour-changer-des-fichiers-mkv-en-mp4-avec-qualite-dimages-optimale-et-rapidite/"><u>Guide Simple Pour Changer Des Fichiers MKV en MP4 Avec Qualité D'Images Optimale Et Rapidité</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/guide-ultime-transformer-des-fichiers-video-en-une-seule-fois-grace-a-winx-hd-video-converter-deluxe/"><u>Guide Ultime : Transformer Des Fichiers Vidéo en Une Seule Fois Grâce À WinX HD Video Converter Deluxe</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-double-location-dongle-all-to-know-about-apple-iphone-15-pro-maxipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>In 2024, Double Location Dongle All to Know About Apple iPhone 15 Pro Max/iPad GPS Spoofing | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-finties-macbook-pro-13-laptop-sleeve-sturdy-build-and-cost-efficiency/"><u>In-Depth Analysis of Fintie's MacBook Pro 13 Laptop Sleeve - Sturdy Build & Cost Efficiency</u></a></li>
+<li><a href="https://article-helps.techidaily.com/merging-melodies-and-memories-online-for-2024/"><u>Merging Melodies and Memories Online for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-vivo-x-fold-2-by-fonelab-android-recover-music/"><u>The way to get back lost music from Vivo X Fold 2</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/transforma-tus-archivos-mts-en-mp4-de-forma-gratuita-con-estos-trucos-sencillos/"><u>Transforma Tus Archivos Mts en Mp4 De Forma Gratuita Con Estos Trucos Sencillos</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/understanding-storage-units-from-terabytes-to-gigabytes-explained/"><u>Understanding Storage Units: From Terabytes to Gigabytes Explained</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/1725287829041-windows/"><u>Windows上の最新グラフィックカードドライバーアップデート手順</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/be-in-the-classroom-best-practices-and-tips-for-educators-for-2024/"><u>YouTube in the Classroom Best Practices and Tips for Educators for 2024</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/1725290263656-mac/"><u>스마트폰, MAC, 웹백그라운드의 비디오 안정성을 개선하는 기본 단계</u></a></li>
 </ul></div>
 

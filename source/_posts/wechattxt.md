@@ -1,7 +1,7 @@
 ---
 title: 如何輕鬆把WeChat對話紀錄匯出TXT？難道術！
-date: 2025-02-17T19:26:59.805Z
-updated: 2025-02-19T08:02:57.795Z
+date: 2025-03-03T19:15:53.180Z
+updated: 2025-03-07T19:14:13.335Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/48b04798818f256a08d1adf91e6795699ee9e8d5020753bc2f35168b92bccdf6.jpg
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/48b04798818f256a08d1adf91e6795699ee9e8d50
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo le plus efficace ! \[Guide inclus\]
 
@@ -65,10 +61,6 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
@@ -101,10 +93,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
@@ -116,10 +104,6 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -137,17 +121,9 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Autres articles connexes
 
@@ -168,10 +144,6 @@ Aidez-nous à améliorer cet article
 Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour nous !
 
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Obtenez gratuitement AOMEI Backupper
 
@@ -198,20 +170,18 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-cropped-frames-in-media-pro-whats-the-cause/"><u>[New] In 2024, Cropped Frames in Media Pro What's the Cause?</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-the-insiders-blueprint-for-commanding-attention-with-posts/"><u>[Updated] In 2024, The Insider's Blueprint for Commanding Attention with Posts</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/1725285608419-2022dvd/"><u>如何有效地在電腦上保存2022年DVD影片：最佳方法介紹</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/acces-gratuit-au-decodeur-hevc-optimisation-de-lexperience-video-4k8k/"><u>Accès Gratuit Au Décodeur HEVC : Optimisation De L'expérience Vidéo 4K/8K</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/avchd-zu-mp4-konvertieren-top-methoden-zur-aufrechterhaltung-der-bildqualitat/"><u>AVCHD Zu MP4 Konvertieren - Top-Methoden Zur Aufrechterhaltung Der Bildqualität</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/data-to-discussion-craft-your-own-conversational-ai/"><u>Data to Discussion: Craft Your Own Conversational AI</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/guide-simple-comment-copier-votre-collection-dvd-sur-disque-dur-avec-windows-11107-and-mac-os-x/"><u>Guide Simple : Comment Copier Votre Collection DVD Sur Disque Dur Avec Windows 11/10/7 & Mac OS X</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-oppo-find-n3-flip-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo Find N3 Flip Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/itunes-digital-rights-management-drm-extraction-streamlined-conversion-and-transfer-of-music-films-and-audiobooks/"><u>ITunes Digital Rights Management (DRM) Extraction: Streamlined Conversion & Transfer of Music, Films & Audiobooks</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/kaufen-sie-die-vollstandige-version-von-winxvideo-ai-mit-exklusiven-funktionen-gratis-upgrade-inbegriffen/"><u>Kaufen Sie Die Vollständige Version Von WinxVideo AI Mit Exklusiven Funktionen – Gratis-Upgrade Inbegriffen!</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-the-10-best-free-video-cutters-for-mp4-files/"><u>New In 2024, The 10 Best Free Video Cutters for MP4 Files</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/optimize-visual-output-with-free-luts-in-your-obs-studio-setup-for-2024/"><u>Optimize Visual Output with Free LUTs in Your OBS Studio Setup for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/securely-sweep-away-partitions-our-top-4-tactics-for-windows/"><u>Securely Sweep Away Partitions: Our Top 4 Tactics for Windows</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unraveling-the-secrets-to-gently-fading-audio-in-audacity-for-2024/"><u>Unraveling the Secrets to Gently Fading Audio in Audacity for 2024</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/1725286995781-winxdvd/"><u>WinXDVD 的運用技術分享與合作方法</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-10plus-incredible-free-youtube-intro-makers-for-2024/"><u>[New] 10+ Incredible Free YouTube Intro Makers for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-silent-to-clear-the-ultimate-guide-to-professional-audio-recording-for-2024/"><u>[Updated] Silent to Clear The Ultimate Guide to Professional Audio Recording for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/apple-tv-4k-gen3-ultimate-streaming-device-review-for-enhanced-viewing-experience/"><u>Apple TV 4K (Gen3): Ultimate Streaming Device Review for Enhanced Viewing Experience</u></a></li>
+<li><a href="https://win-top.techidaily.com/best-seo-strategies-and-software-for-boosting-small-business-visibility/"><u>Best SEO Strategies and Software for Boosting Small Business Visibility</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/how-can-you-enhance-your-computers-performance-with-a-ram-upgrade-tips-from-yl-computing/"><u>How Can You Enhance Your Computer's Performance with a RAM Upgrade - Tips From YL Computing</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/integrating-non-native-scan-tools-with-your-device-a-guide-by-yl-software-experts/"><u>Integrating Non-Native Scan Tools with Your Device: A Guide by YL Software Experts</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-transfer-videos-to-dvd-a-comprehensive-guide-for-windows-and-mac-users/"><u>New 2024 Approved Transfer Videos to DVD A Comprehensive Guide for Windows and Mac Users</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/quick-fix-kinemaster-for-top-memes-for-2024/"><u>Quick-Fix KineMaster for Top Memes for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/tips-to-gracefully-disconnect-from-group-interactions/"><u>Tips to Gracefully Disconnect From Group Interactions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/trasforma-i-file-audio-caf-in-flac-direttamente-sul-web-gratuitamente-utilizzando-movavi/"><u>Trasforma I File Audio CAF in FLAC Direttamente Sul Web Gratuitamente Utilizzando Movavi</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/travel-friendly-raspberry-pi-gaming-stations-for-event-goers/"><u>Travel-Friendly Raspberry Pi Gaming Stations for Event Goers</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/troubleshooting-guide-fixing-stuck-mouse-movement-issues-yl-computing-solutions/"><u>Troubleshooting Guide: Fixing Stuck Mouse Movement Issues - YL Computing Solutions</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/unveiling-the-factors-behind-chinas-great-famine-1959-1961-insights-from-yl-computing-and-yl-software/"><u>Unveiling the Factors Behind China's Great Famine (1959-1961): Insights From YL Computing & YL Software</u></a></li>
 </ul></div>
 

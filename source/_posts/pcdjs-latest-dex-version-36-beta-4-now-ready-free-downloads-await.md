@@ -1,7 +1,7 @@
 ---
 title: "PCDJ's Latest DEX Version 3.6 Beta 4 Now Ready: Free Downloads Await!"
-date: 2025-02-16T16:35:56.500Z
-updated: 2025-02-18T21:06:33.097Z
+date: 2025-03-04T19:12:38.703Z
+updated: 2025-03-07T23:34:24.875Z
 tags:
   - product
 categories:
@@ -34,10 +34,6 @@ Also new in DEX 3.6 beta 4 is the ability to **record your video mix set on Wind
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Here’s What’s New And Changed In DEX 3.6 Beta 4
 
 **3.6.0 beta 4 (both Mac/Windows).**  
@@ -58,10 +54,6 @@ Also new in DEX 3.6 beta 4 is the ability to **record your video mix set on Wind
 
 _If you have any questions or problems running the DEX 3.6 **DJ and Video Mixing Software** beta version please post to the [DEX 3 user forum](https://tools.techidaily.com/pcdj/products/)._
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Related_
 
 https://i1.wp.com/pcdj.com/wp-content/uploads/2016/04/dex36-beta4-coverimage.jpg?fit=530%2C298&ssl=1 298 530 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2016-04-13 14:10:512018-10-03 15:34:51DJ Software | DEX 3.6 (Beta 4) Is Available For Download}
@@ -81,18 +73,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/04/dex36-beta4-coverimage.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-live-your-best-life-the-ultimate-list-of-video-conferencing-gadgets/"><u>[New] In 2024, Live Your Best Life The Ultimate List of Video Conferencing Gadgets</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-proven-strategies-to-capture-and-archive-ps3-games/"><u>[Updated] In 2024, Proven Strategies to Capture and Archive PS3 Games</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-unveiling-youtubes-mechanism-post-upload/"><u>[Updated] In 2024, Unveiling YouTube's Mechanism Post-Upload</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-launch-success-a-guide-to-10-motivating-movies/"><u>2024 Approved Launch Success A Guide to 10 Motivating Movies</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/surface-pro/"><u>如何在Surface Pro上传输所有信息？——详细步骤说明与提示</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/eliminar-de-manera-segura-la-carpeta-windowsold-en-windows-11-tres-metodos-eficaces/"><u>Eliminar De Manera Segura La Carpeta 'Windows.old' En Windows 11: Tres Métodos Eficaces</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-samsung-galaxy-f54-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Samsung Galaxy F54 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/1728483765948-ios-aomei-fonebackup/"><u>IOSデバイスの効率的な管理: AOMEI FoneBackupガイド</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/revelez-vos-astuces-pour-la-reprise-dun-fichier-mb-efface-le-guide-ultime/"><u>Révélez Vos Astuces Pour La Reprise D'un Fichier MB Effacé - Le Guide Ultime !</u></a></li>
-<li><a href="https://win-special.techidaily.com/risolvi-i-tuoi-problemi-di-partizione-con-windows-11-utilizzando-questi-due-modi-migliori-su-misurini/"><u>Risolvi I Tuoi Problemi Di Partizione Con Windows 11 Utilizzando Questi Due Modi Migliori Su Misurini!</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/stellars-expert-tutorial-on-iphone-data-deletion-and-resetting/"><u>Stellar's Expert Tutorial on iPhone Data Deletion & Resetting</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-apple-watchs-cellular-connection-solutions-and-tips/"><u>Troubleshooting Apple Watch's Cellular Connection: Solutions and Tips</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ultimate-jabra-wireless-microphone-speak-and-charge-efficiently/"><u>Ultimate Jabra Wireless Microphone: Speak & Charge Efficiently</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ree-fast-and-reliable-download-your-favorite-youtube-content/"><u>[New] Free, Fast and Reliable Download Your Favorite YouTube Content</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-pun-picture-studio-chucklecrafts/"><u>[Updated] 2024 Approved Pun Picture Studio ChuckleCrafts</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/1726226625927-2024-10/"><u>2024 계승 정신에 선보일 무인과 비용 내 오디오 청크 대화형 소스 - 10가지 유명 프로그램</u></a></li>
+<li><a href="https://techidaily.com/all-about-usb-selective-suspend-in-depth-information-you-cant-miss/"><u>All About USB Selective Suspend: In-Depth Information You Can't Miss</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/converti-file-aiff-in-formato-mp4-online-e-gratuitamente-con-movavi/"><u>Converti File AIFF in Formato MP4 Online E Gratuitamente Con Movavi</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/descargue-el-convertidor-de-video-libre-online-conversion-3gp-a-formato-mpeg-4-3g2/"><u>Descargue El Convertidor De Video Libre Online: Conversión 3GP a Formato MPEG-4 (3G2)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/evaluating-the-line-messaging-app-features-usability-and-performance/"><u>Evaluating the Line Messaging App: Features, Usability & Performance</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/free-online-mp4-konverting-easy-mov-to-mp4-upgrader-with-moovavi/"><u>Free Online MP4 Konverting: Easy MOV to MP4 Upgrader with Moovavi</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/online-archiving-mastery-omzetten-van-uw-tta-bestand-met-vrije-opslagvulling-movavi/"><u>Online Archiving Mastery: Omzetten Van Uw TTA Bestand Met Vrije Opslagvulling - Movavi</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/quick-guide-retrieving-lost-reddit-content-deletion-for-2024/"><u>Quick Guide Retrieving Lost Reddit Content (Deletion) for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/step-by-step-guide-converting-your-old-home-video-collection-into-digital-dvd-format/"><u>Step-by-Step Guide: Converting Your Old Home Video Collection Into Digital DVD Format</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-no-ads-streaming-platforms-uninterrupted-entertainment-at-its-finest/"><u>Top No-Ads Streaming Platforms: Uninterrupted Entertainment at Its Finest</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/transformacion-gratuita-de-archivos-ts-a-flv-online-con-movavi/"><u>Transformación Gratuita De Archivos TS a FLV Online Con Movavi</u></a></li>
 </ul></div>
 
